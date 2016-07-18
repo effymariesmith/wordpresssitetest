@@ -6,7 +6,7 @@ post_date: 2016-06-27 01:45:37
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/data-type/point-cloud/
+  https://localhost/wordpress/data-type/point-cloud/
 published: true
 panels_data:
   - |

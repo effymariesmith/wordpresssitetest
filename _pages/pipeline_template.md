@@ -6,7 +6,7 @@ post_date: 2016-06-27 00:41:46
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/pipeline_template/
+  https://localhost/wordpress/pipeline_template/
 published: true
 panels_data:
   - |

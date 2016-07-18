@@ -6,7 +6,7 @@ post_date: 2016-06-09 05:44:24
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/sample-page/testpage/
+  https://localhost/wordpress/sample-page/testpage/
 published: true
 sq_sidebar_layout:
   - no_sidebar_condensed

@@ -6,7 +6,7 @@ post_date: 2016-07-13 01:15:15
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/data-type/point-cloud/water-pipe/
+  https://localhost/wordpress/data-type/point-cloud/water-pipe/
 published: true
 panels_data:
   - |

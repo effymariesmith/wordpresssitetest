@@ -6,7 +6,7 @@ post_date: 2016-06-27 01:50:36
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/data-type/point-cloud/wombeyan-caves/
+  https://localhost/wordpress/data-type/point-cloud/wombeyan-caves/
 published: true
 panels_data:
   - |

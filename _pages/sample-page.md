@@ -5,7 +5,7 @@ author: davm
 post_date: 2016-06-23 01:34:46
 post_excerpt: ""
 layout: page
-permalink: http://localhost/wordpress/sample-page/
+permalink: https://localhost/wordpress/sample-page/
 published: true
 ---
 This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:

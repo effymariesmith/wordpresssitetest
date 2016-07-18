@@ -6,7 +6,7 @@ post_date: 2016-07-15 00:19:25
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/tutorials/defining-interactions/
+  https://localhost/wordpress/tutorials/defining-interactions/
 published: true
 panels_data:
   - |

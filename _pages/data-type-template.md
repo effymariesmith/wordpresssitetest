@@ -6,7 +6,7 @@ post_date: 2016-06-27 00:39:11
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/data-type-template/
+  https://localhost/wordpress/data-type-template/
 published: true
 panels_data:
   - |

@@ -5,7 +5,7 @@ author: davm
 post_date: 2016-06-30 01:50:13
 post_excerpt: ""
 layout: page
-permalink: http://localhost/wordpress/waiting/
+permalink: https://localhost/wordpress/waiting/
 published: true
 panels_data:
   - |

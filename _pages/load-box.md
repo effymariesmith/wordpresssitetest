@@ -6,7 +6,7 @@ post_date: 2016-06-27 01:21:13
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/data-type/geometry/load-box/
+  https://localhost/wordpress/data-type/geometry/load-box/
 published: true
 panels_data:
   - |

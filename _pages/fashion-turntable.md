@@ -6,7 +6,7 @@ post_date: 2016-06-23 07:40:21
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/data-type/geometry/fashion-turntable/
+  https://localhost/wordpress/data-type/geometry/fashion-turntable/
 published: true
 panels_data:
   - |

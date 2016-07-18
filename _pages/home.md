@@ -5,7 +5,7 @@ author: davm
 post_date: 2016-06-27 02:20:20
 post_excerpt: ""
 layout: page
-permalink: http://localhost/wordpress/home/
+permalink: https://localhost/wordpress/home/
 published: true
 panels_data:
   - |

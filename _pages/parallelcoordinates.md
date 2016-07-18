@@ -6,7 +6,7 @@ post_date: 2016-06-09 05:45:48
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/data-type/speedsheet/parallelcoordinates/
+  https://localhost/wordpress/data-type/speedsheet/parallelcoordinates/
 published: true
 sq_sidebar_layout:
   - no_sidebar

@@ -6,7 +6,7 @@ post_date: 2016-06-09 05:44:52
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/data-type/speedsheet/
+  https://localhost/wordpress/data-type/speedsheet/
 published: true
 sq_sidebar_layout:
   - right_sidebar

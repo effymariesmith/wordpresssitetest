@@ -5,7 +5,7 @@ author: effy
 post_date: 2016-06-09 05:44:13
 post_excerpt: ""
 layout: page
-permalink: http://localhost/wordpress/data-type/
+permalink: https://localhost/wordpress/data-type/
 published: true
 sq_sidebar_layout:
   - right_sidebar
