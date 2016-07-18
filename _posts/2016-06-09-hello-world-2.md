@@ -1,0 +1,12 @@
+---
+ID: 58
+post_title: Hello world!
+author: effy
+post_date: 2016-06-09 04:21:00
+post_excerpt: ""
+layout: post
+permalink: >
+  http://localhost/wordpress/2016/06/09/hello-world-2/
+published: true
+---
+Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
