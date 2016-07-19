@@ -1,12 +1,12 @@
 ---
-ID: 7
+ID: 1010
 post_title: Sample Page
-author: davm
-post_date: 2016-06-23 01:34:46
+author: effy
+post_date: 2016-07-19 07:09:34
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/sample-page-2/
+  https://localhost/wordpress/sample-page-2/
 published: true
 ---
 This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
