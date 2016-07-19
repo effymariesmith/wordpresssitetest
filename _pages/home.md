@@ -5,17 +5,17 @@ author: davm
 post_date: 2016-06-27 02:20:20
 post_excerpt: ""
 layout: page
-permalink: http://localhost/wordpress/home/
+permalink: https://localhost/wordpress/home/
 published: true
 panels_data:
   - |
-    a:3:{s:7:"widgets";a:13:{i:0;a:4:{s:5:"title";s:5:"About";s:4:"text";s:823:"<h6> 
+    a:1:{i:0;s:18125:"a:3:{s:7:"widgets";a:13:{i:0;a:4:{s:5:"title";s:5:"About";s:4:"text";s:823:"<h6>
     this is an edit
     This is the UTS Data Arena Virtual Machine documentation, read the User Guide to learn more about the project.
     
     Or get started below, by having a look at some  <a href=" http://localhost:8002/">demos</a>  or use one of our existing pipelines explained in <a href=" http://https://localhost/wordpress/quick-start/"> Quickstart</a> to visualize your data.
     
-     If your data does not fit into an existing Pipeline, read more about it and create your own based on our framework. More information about the backend is provided in Software. 
+     If your data does not fit into an existing Pipeline, read more about it and create your own based on our framework. More information about the backend is provided in Software.
     
     You are welcome to share your work(link to git hub), that we can build more pipelines and make data visualization easier.
     
@@ -216,12 +216,12 @@ panels_data:
                 }
             ]
         }
-    ]";s:24:"so_field_container_state";s:4:"open";s:17:"custom_map_styles";a:0:{}}s:10:"directions";a:8:{s:6:"origin";s:0:"";s:11:"destination";s:0:"";s:11:"travel_mode";s:7:"driving";s:24:"so_field_container_state";s:6:"closed";s:14:"avoid_highways";b:0;s:11:"avoid_tolls";b:0;s:9:"waypoints";a:0:{}s:18:"optimize_waypoints";b:0;}s:15:"api_key_section";a:2:{s:7:"api_key";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:13:"562ca882d8867";s:11:"panels_info";a:7:{s:5:"class";s:34:"SiteOrigin_Widget_GoogleMap_Widget";s:3:"raw";b:0;s:4:"grid";i:6;s:4:"cell";i:1;s:2:"id";i:11;s:9:"widget_id";s:36:"57d194fe-fe9f-45fb-91ac-612197af4b55";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:12;a:7:{s:5:"title";s:0:"";s:6:"number";s:2:"-1";s:8:"includes";s:0:"";s:11:"show_filter";i:1;s:13:"show_all_text";s:8:"Show all";s:18:"show_project_title";i:0;s:11:"panels_info";a:7:{s:5:"class";s:16:"Sydney_Portfolio";s:3:"raw";b:0;s:4:"grid";i:6;s:4:"cell";i:1;s:2:"id";i:12;s:9:"widget_id";s:36:"b367c426-4199-4571-810a-dad44f5e2cea";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:7:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:5:{s:7:"padding";s:3:"0px";s:5:"align";s:0:"";s:10:"background";s:7:"#ffffff";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:1;a:2:{s:5:"cells";i:2;s:5:"style";a:5:{s:7:"padding";s:4:"60px";s:5:"align";s:0:"";s:10:"background";s:7:"#f9f9f9";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:2;a:2:{s:5:"cells";i:1;s:5:"style";a:5:{s:7:"padding";s:4:"20px";s:5:"align";s:0:"";s:10:"background";s:7:"#ffffff";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:3;a:2:{s:5:"cells";i:3;s:5:"style";a:6:{s:7:"padding";s:4:"30px";s:5:"align";b:1;s:10:"background";s:7:"#ffffff";s:5:"color";s:7:"#ffffff";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:4;a:2:{s:5:"cells";i:1;s:5:"style";a:5:{s:7:"padding";s:4:"20px";s:5:"align";s:0:"";s:10:"background";s:7:"#f9f9f9";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:5;a:2:{s:5:"cells";i:1;s:5:"style";a:5:{s:7:"padding";s:4:"10px";s:5:"align";s:0:"";s:10:"background";s:7:"#f9f9f9";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:6;a:2:{s:5:"cells";i:2;s:5:"style";a:5:{s:7:"padding";s:4:"35px";s:5:"align";s:0:"";s:10:"background";s:7:"#f9f9f9";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}}s:10:"grid_cells";a:11:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}i:2;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}i:3;a:2:{s:4:"grid";i:2;s:6:"weight";i:1;}i:4;a:2:{s:4:"grid";i:3;s:6:"weight";d:0.333333333333333314829616256247390992939472198486328125;}i:5;a:2:{s:4:"grid";i:3;s:6:"weight";d:0.333333333333333314829616256247390992939472198486328125;}i:6;a:2:{s:4:"grid";i:3;s:6:"weight";d:0.333333333333333314829616256247390992939472198486328125;}i:7;a:2:{s:4:"grid";i:4;s:6:"weight";i:1;}i:8;a:2:{s:4:"grid";i:5;s:6:"weight";i:1;}i:9;a:2:{s:4:"grid";i:6;s:6:"weight";d:0.5;}i:10;a:2:{s:4:"grid";i:6;s:6:"weight";d:0.5;}}}
+    ]";s:24:"so_field_container_state";s:4:"open";s:17:"custom_map_styles";a:0:{}}s:10:"directions";a:8:{s:6:"origin";s:0:"";s:11:"destination";s:0:"";s:11:"travel_mode";s:7:"driving";s:24:"so_field_container_state";s:6:"closed";s:14:"avoid_highways";b:0;s:11:"avoid_tolls";b:0;s:9:"waypoints";a:0:{}s:18:"optimize_waypoints";b:0;}s:15:"api_key_section";a:2:{s:7:"api_key";s:0:"";s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:13:"562ca882d8867";s:11:"panels_info";a:7:{s:5:"class";s:34:"SiteOrigin_Widget_GoogleMap_Widget";s:3:"raw";b:0;s:4:"grid";i:6;s:4:"cell";i:1;s:2:"id";i:11;s:9:"widget_id";s:36:"57d194fe-fe9f-45fb-91ac-612197af4b55";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:12;a:7:{s:5:"title";s:0:"";s:6:"number";s:2:"-1";s:8:"includes";s:0:"";s:11:"show_filter";i:1;s:13:"show_all_text";s:8:"Show all";s:18:"show_project_title";i:0;s:11:"panels_info";a:7:{s:5:"class";s:16:"Sydney_Portfolio";s:3:"raw";b:0;s:4:"grid";i:6;s:4:"cell";i:1;s:2:"id";i:12;s:9:"widget_id";s:36:"b367c426-4199-4571-810a-dad44f5e2cea";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:7:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:5:{s:7:"padding";s:3:"0px";s:5:"align";s:0:"";s:10:"background";s:7:"#ffffff";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:1;a:2:{s:5:"cells";i:2;s:5:"style";a:5:{s:7:"padding";s:4:"60px";s:5:"align";s:0:"";s:10:"background";s:7:"#f9f9f9";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:2;a:2:{s:5:"cells";i:1;s:5:"style";a:5:{s:7:"padding";s:4:"20px";s:5:"align";s:0:"";s:10:"background";s:7:"#ffffff";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:3;a:2:{s:5:"cells";i:3;s:5:"style";a:6:{s:7:"padding";s:4:"30px";s:5:"align";b:1;s:10:"background";s:7:"#ffffff";s:5:"color";s:7:"#ffffff";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:4;a:2:{s:5:"cells";i:1;s:5:"style";a:5:{s:7:"padding";s:4:"20px";s:5:"align";s:0:"";s:10:"background";s:7:"#f9f9f9";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:5;a:2:{s:5:"cells";i:1;s:5:"style";a:5:{s:7:"padding";s:4:"10px";s:5:"align";s:0:"";s:10:"background";s:7:"#f9f9f9";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:6;a:2:{s:5:"cells";i:2;s:5:"style";a:5:{s:7:"padding";s:4:"35px";s:5:"align";s:0:"";s:10:"background";s:7:"#f9f9f9";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}}s:10:"grid_cells";a:11:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}i:2;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}i:3;a:2:{s:4:"grid";i:2;s:6:"weight";i:1;}i:4;a:2:{s:4:"grid";i:3;s:6:"weight";d:0.333333333333333314829616256247390992939472198486328125;}i:5;a:2:{s:4:"grid";i:3;s:6:"weight";d:0.333333333333333314829616256247390992939472198486328125;}i:6;a:2:{s:4:"grid";i:3;s:6:"weight";d:0.333333333333333314829616256247390992939472198486328125;}i:7;a:2:{s:4:"grid";i:4;s:6:"weight";i:1;}i:8;a:2:{s:4:"grid";i:5;s:6:"weight";i:1;}i:9;a:2:{s:4:"grid";i:6;s:6:"weight";d:0.5;}i:10;a:2:{s:4:"grid";i:6;s:6:"weight";d:0.5;}}}";}
 ---
 <h3 class="widget-title">About</h3>			<h6>
 this is an edit<br>
 This is the UTS Data Arena Virtual Machine documentation, read the User Guide to learn more about the project.<p></p>
-<p>Or get started below, by having a look at some  <a href=" http://localhost:8002/">demos</a>  or use one of our existing pipelines explained in <a href=" http://https://localhost/wordpress/quick-start/"> Quickstart</a> to visualize your data.</p>
+<p>Or get started below, by having a look at some  <a href="http://localhost:8002/">demos</a>  or use one of our existing pipelines explained in <a href="http://https://localhost/wordpress/quick-start/"> Quickstart</a> to visualize your data.</p>
 <p> If your data does not fit into an existing Pipeline, read more about it and create your own based on our framework. More information about the backend is provided in Software. </p>
 <p>You are welcome to share your work(link to git hub), that we can build more pipelines and make data visualization easier.</p>
 <p>Once you have set up your visualization using one of our pipelines or by creating your own, visit The UTS Data Arena to explore your data.<br>
@@ -234,23 +234,23 @@ This is the UTS Data Arena Virtual Machine documentation, read the User Guide to
 <a href="https://localhost/wordpress/data-type/" class="roll-button border">Quickstart</a>
 <h3>PROJECTS</h3>
 <h6>Exlpore some of the projects happening at The Data Arena</h6>
-<a href="http://localhost/wordpress/data-type/point-cloud/wombeyan-caves/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/caves03-550x400.jpg" srcset="" class="so-widget-image" height="400" width="550">
+<a href="http://localhost/wordpress/data-type/point-cloud/wombeyan-caves/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/caves03-550x400.jpg" class="so-widget-image" height="400" width="550">
 </a>
-<a href="http://localhost/wordpress/data-type/geometry/fashion-turntable/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/fashionTurntable01-1-550x400.jpg" srcset="" class="so-widget-image" height="400" width="550">
+<a href="http://localhost/wordpress/data-type/geometry/fashion-turntable/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/fashionTurntable01-1-550x400.jpg" class="so-widget-image" height="400" width="550">
 </a>
-<a href="http://localhost/wordpress/data-type/point-cloud/water-pipe/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/pipe04-550x400.jpg" srcset="" class="so-widget-image" height="400" width="550">
+<a href="http://localhost/wordpress/data-type/point-cloud/water-pipe/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/pipe04-550x400.jpg" class="so-widget-image" height="400" width="550">
 </a>
 <h3>VISIT THE DATA ARENA</h3>
 <h6>Explore your project in 360</h6>
-<span class="sow-icon-fontawesome" data-sow-icon="" style="font-size: 56px; color: #424242"></span>			
+<span class="sow-icon-fontawesome" style="font-size: 56px;color: #424242"></span>			
 <h5>
 Call us on											</h5>
 <p>+phonenumber</p>
-<span class="sow-icon-fontawesome" data-sow-icon="" style="font-size: 56px; color: #424242"></span>			
+<span class="sow-icon-fontawesome" style="font-size: 56px;color: #424242"></span>			
 <h5>
 Come find us at											</h5>
 <p>UTS Data Arena (Building 11) 15 Broadway Ultimo, NSW 2007 Australia </p>
-<span class="sow-icon-fontawesome" data-sow-icon="" style="font-size: 56px; color: #424242"></span>			
+<span class="sow-icon-fontawesome" style="font-size: 56px;color: #424242"></span>			
 <h5>
 Email us at											</h5>
 <p>dataarena@uts.edu.au</p>

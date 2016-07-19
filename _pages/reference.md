@@ -5,23 +5,23 @@ author: davm
 post_date: 2016-06-27 07:49:49
 post_excerpt: ""
 layout: page
-permalink: http://localhost/wordpress/reference/
+permalink: https://localhost/wordpress/reference/
 published: true
 panels_data:
   - |
-    a:3:{s:7:"widgets";a:4:{i:0;a:6:{s:5:"title";s:0:"";s:4:"text";s:23:"<h3>Reference List</h3>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"5771e41c8e186";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"063d0676-c503-4151-ab67-75b5d3c397f6";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:2:{s:5:"title";s:0:"";s:11:"panels_info";a:7:{s:5:"class";s:16:"WP_Widget_Search";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:1;s:2:"id";i:1;s:9:"widget_id";s:36:"fdd465cf-bd21-477e-81c4-03951f59e127";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:2305:"<h3> Analytic Tools</h3>
+    a:1:{i:0;s:6354:"a:3:{s:7:"widgets";a:4:{i:0;a:6:{s:5:"title";s:0:"";s:4:"text";s:23:"<h3>Reference List</h3>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"5771e41c8e186";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"063d0676-c503-4151-ab67-75b5d3c397f6";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:2:{s:5:"title";s:0:"";s:11:"panels_info";a:7:{s:5:"class";s:16:"WP_Widget_Search";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:1;s:2:"id";i:1;s:9:"widget_id";s:36:"fdd465cf-bd21-477e-81c4-03951f59e127";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:2305:"<h3> Analytic Tools</h3>
     
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel.
     
     <h4>Title</h4>
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
     
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
     
     
     <h4>Title</h4>
     
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
     
     
     
@@ -51,15 +51,15 @@ panels_data:
     
     
     
-    ";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"5771e54621c57";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:3;s:9:"widget_id";s:36:"74287a9e-e1e6-4521-ae61-1956c8af05d3";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:2:{i:0;a:2:{s:5:"cells";i:2;s:5:"style";a:3:{s:7:"padding";s:4:"20px";s:5:"align";s:0:"";s:14:"column_padding";s:0:"";}}i:1;a:2:{s:5:"cells";i:2;s:5:"style";a:3:{s:7:"padding";s:4:"20px";s:5:"align";s:0:"";s:14:"column_padding";s:0:"";}}}s:10:"grid_cells";a:4:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";d:0.798751950078000039212611227412708103656768798828125;}i:1;a:2:{s:4:"grid";i:0;s:6:"weight";d:0.2012480499219999885429643882162054069340229034423828125;}i:2;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}i:3;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}}}
+    ";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"5771e54621c57";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:3;s:9:"widget_id";s:36:"74287a9e-e1e6-4521-ae61-1956c8af05d3";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:2:{i:0;a:2:{s:5:"cells";i:2;s:5:"style";a:3:{s:7:"padding";s:4:"20px";s:5:"align";s:0:"";s:14:"column_padding";s:0:"";}}i:1;a:2:{s:5:"cells";i:2;s:5:"style";a:3:{s:7:"padding";s:4:"20px";s:5:"align";s:0:"";s:14:"column_padding";s:0:"";}}}s:10:"grid_cells";a:4:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";d:0.798751950078000039212611227412708103656768798828125;}i:1;a:2:{s:4:"grid";i:0;s:6:"weight";d:0.2012480499219999885429643882162054069340229034423828125;}i:2;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}i:3;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}}}";}
 ---
 <h3>Reference List</h3>
 <form role="search" method="get" class="search-form" action="http://localhost/wordpress/">
 <label>
 <span class="screen-reader-text">Search for:</span>
-<input class="search-field" placeholder="Search …" value="" name="s" type="search">
+
 </label>
-<input class="search-submit" value="Search" type="submit">
+
 </form>
 <h3> Analytic Tools</h3>
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel.</p>

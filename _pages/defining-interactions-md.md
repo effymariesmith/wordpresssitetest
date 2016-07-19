@@ -6,7 +6,7 @@ post_date: 2016-07-15 00:50:54
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/tutorials/defining-interactions-md/
+  https://localhost/wordpress/tutorials/defining-interactions-md/
 published: true
 ---
 [md]
@@ -263,7 +263,7 @@ The last step is to actually display the text, when the building is clicked. We 
 ```python
     def onClicked(self, node, dist):
         if node != None:
-            onLeft = 1 if (getDisplayPixelSize()[0] / 2.0 > self.mouseClickPos[0] ) else -1
+            onLeft = 1 if (getDisplayPixelSize()[0] / 2.0 &gt; self.mouseClickPos[0] ) else -1
             pos = self.mouseClickPos + onLeft * Vector3(150, 0, 0)
             self.updateTextInfo(node)
             self.container.setCenter(pos)
