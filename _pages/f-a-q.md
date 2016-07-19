@@ -5,7 +5,7 @@ author: davm
 post_date: 2016-06-23 05:32:47
 post_excerpt: ""
 layout: page
-permalink: https://localhost/wordpress/f-a-q/
+permalink: http://localhost/wordpress/f-a-q/
 published: true
 ---
 [md]
