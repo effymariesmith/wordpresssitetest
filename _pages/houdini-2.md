@@ -5,7 +5,7 @@ author: davm
 post_date: 2016-06-27 07:38:28
 post_excerpt: ""
 layout: page
-permalink: https://localhost/wordpress/houdini-2/
+permalink: http://localhost/wordpress/houdini-2/
 published: true
 ---
 [md]
