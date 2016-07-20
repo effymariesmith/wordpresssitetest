@@ -5,7 +5,7 @@ author: davm
 post_date: 2016-06-27 07:49:49
 post_excerpt: ""
 layout: page
-permalink: https://localhost/wordpress/reference/
+permalink: http://localhost/wordpress/reference/
 published: true
 panels_data:
   - |
@@ -57,9 +57,9 @@ panels_data:
 <form role="search" method="get" class="search-form" action="http://localhost/wordpress/">
 <label>
 <span class="screen-reader-text">Search for:</span>
-
+<input class="search-field" placeholder="Search …" value="" name="s" type="search">
 </label>
-
+<input class="search-submit" value="Search" type="submit">
 </form>
 <h3> Analytic Tools</h3>
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel.</p>
