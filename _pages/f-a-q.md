@@ -5,11 +5,10 @@ author: davm
 post_date: 2016-06-23 05:32:47
 post_excerpt: ""
 layout: page
-permalink: https://localhost/wordpress/f-a-q/
+permalink: http://localhost/wordpress/f-a-q/
 published: true
 ---
 [md]
-
 
 #### What is the Data Arena Virtual Machine?
 The Data Arena Virtual Machine is an emulation of the Data Arena software environment. It allows you to
@@ -32,7 +31,6 @@ Then you copy the data in the directory on your computer and can access it in th
 
 * Instead of just uploading the final visualization you can commit the only data first and checkout the repository.
 
-
 #### What is a pipeline?
 A pipeline is a semi-automated workflow to build a visualization for a category of data.
 There are restrictions for the input data of each pipeline and a defined type of visualization as output.
@@ -44,6 +42,5 @@ Currently, we provide the piplines in the [Quickstart]({filename}quickstart.md).
 #### How can I contribute to the Data Arena Virtual Machine?
 The entire software will be available on [GitHub](https://github.com/UTSDataArena) soon.
 Make sure you contribute your changes, that
-
 
 [/md]
