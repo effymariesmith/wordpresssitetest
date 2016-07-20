@@ -6,7 +6,7 @@ post_date: 2016-06-30 07:07:45
 post_excerpt: ""
 layout: page
 permalink: >
-  https://localhost/wordpress/tutorials/building-the-scenegraph/
+  http://localhost/wordpress/tutorials/building-the-scenegraph/
 published: true
 panels_data:
   - |
@@ -66,12 +66,12 @@ panels_data:
     setEventFunction(handler.onEvent)
     setUpdateFunction(handler.onUpdate)</code></pre><p>Finally, the handlers are initialized and registered, like in the first tutorial.</p><p><img class="alignnone size-medium wp-image-569" src="http://localhost/wordpress/wp-content/uploads/2016/06/planes2-300x170.png" alt="planes2" width="300" height="170" /></p><p> </p><p>(insert planes2.png)</p><p>The complete source for the example lies in <em>/local/examples/Tutorials/tut2/BuildSceneGraph.py</em></p><p><!-- .entry-content --></p>";s:20:"text_selected_editor";s:4:"tmce";s:12:"_sow_form_id";s:13:"578825eb362fb";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:4;s:9:"widget_id";s:36:"efa288af-721a-4727-95ba-7e994335bf3f";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}s:5:"autop";b:0;}i:5;a:14:{s:8:"features";a:3:{i:0;a:9:{s:15:"container_color";b:0;s:4:"icon";s:31:"fontawesome-arrow-circle-o-left";s:10:"icon_color";s:7:"#3d3d3d";s:10:"icon_image";i:0;s:15:"icon_image_size";s:4:"full";s:5:"title";s:0:"";s:4:"text";s:0:"";s:9:"more_text";s:17:"Previous Tutorial";s:8:"more_url";s:46:"http://localhost/wordpress/tutorials/load-box/";}i:1;a:9:{s:15:"container_color";s:7:"#404040";s:4:"icon";s:0:"";s:10:"icon_color";s:7:"#FFFFFF";s:10:"icon_image";i:0;s:15:"icon_image_size";s:4:"full";s:5:"title";s:0:"";s:4:"text";s:0:"";s:9:"more_text";s:0:"";s:8:"more_url";s:0:"";}i:2;a:9:{s:15:"container_color";s:7:"#e8e8e8";s:4:"icon";s:32:"fontawesome-arrow-circle-o-right";s:10:"icon_color";s:7:"#3d3d3d";s:10:"icon_image";i:0;s:15:"icon_image_size";s:4:"full";s:5:"title";s:0:"";s:4:"text";s:0:"";s:9:"more_text";s:13:"Next Tutorial";s:8:"more_url";s:59:"http://localhost/wordpress/tutorials/defining-interactions/";}}s:5:"fonts";a:4:{s:13:"title_options";a:5:{s:4:"font";s:7:"default";s:4:"size";b:0;s:9:"size_unit";s:2:"px";s:5:"color";b:0;s:24:"so_field_container_state";s:6:"closed";}s:12:"text_options";a:5:{s:4:"font";s:7:"default";s:4:"size";b:0;s:9:"size_unit";s:2:"px";s:5:"color";b:0;s:24:"so_field_container_state";s:6:"closed";}s:17:"more_text_options";a:5:{s:4:"font";s:7:"default";s:4:"size";b:0;s:9:"size_unit";s:2:"px";s:5:"color";b:0;s:24:"so_field_container_state";s:6:"closed";}s:24:"so_field_container_state";s:6:"closed";}s:15:"container_shape";s:0:"";s:14:"container_size";s:4:"84px";s:19:"container_size_unit";s:2:"px";s:9:"icon_size";s:4:"24px";s:14:"icon_size_unit";s:2:"px";s:7:"per_row";i:3;s:10:"responsive";b:1;s:12:"_sow_form_id";s:13:"57873dc4344d9";s:10:"title_link";b:0;s:9:"icon_link";b:0;s:10:"new_window";b:0;s:11:"panels_info";a:7:{s:5:"class";s:33:"SiteOrigin_Widget_Features_Widget";s:3:"raw";b:0;s:4:"grid";i:3;s:4:"cell";i:0;s:2:"id";i:5;s:9:"widget_id";s:36:"9cfce0d0-9f38-47ab-930d-0f36248ba8e9";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:4:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:3:{s:7:"padding";s:3:"0px";s:5:"align";s:0:"";s:14:"column_padding";s:0:"";}}i:1;a:2:{s:5:"cells";i:3;s:5:"style";a:4:{s:7:"padding";s:4:"10px";s:5:"align";s:0:"";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:2;a:2:{s:5:"cells";i:2;s:5:"style";a:4:{s:7:"padding";s:4:"20px";s:5:"align";s:0:"";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:3;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}}s:10:"grid_cells";a:7:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.227000000000000035083047578154946677386760711669921875;}i:2;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.6910000000000000586197757002082653343677520751953125;}i:3;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.082000000000000017319479184152442030608654022216796875;}i:4;a:2:{s:4:"grid";i:2;s:6:"weight";d:0.2263071895424799973017826459908974356949329376220703125;}i:5;a:2:{s:4:"grid";i:2;s:6:"weight";d:0.7736928104575200304537929696380160748958587646484375;}i:6;a:2:{s:4:"grid";i:3;s:6:"weight";i:1;}}}";}
 ---
-<h3 style="text-align: center">Omegalib Tutorial Series</h3>
+<h3 style="text-align: center;">Omegalib Tutorial Series</h3>
 <h4>Tutorials</h4>
 <ol>
-<li style="text-align: left"><a href="https://localhost/wordpress/tutorials/load-box/">Load Geometry </a></li>
-<li style="text-align: left"><a href="http://localhost/wordpress/tutorials/building-the-scenegraph/"><strong>Building The Scenegraph</strong></a></li>
-<li style="text-align: left"><a href="http://localhost/wordpress/tutorials/defining-interactions/"><strong>Defining Interactions</strong></a></li>
+<li style="text-align: left;"><a href="https://localhost/wordpress/tutorials/load-box/">Load Geometry </a></li>
+<li style="text-align: left;"><a href="http://localhost/wordpress/tutorials/building-the-scenegraph/"><strong>Building The Scenegraph</strong></a></li>
+<li style="text-align: left;"><a href="http://localhost/wordpress/tutorials/defining-interactions/"><strong>Defining Interactions</strong></a></li>
 </ol>
 In the following tutorials we will show you, how to create, import and display cool models and bring them to the Data Arena.
 Graphics programming experience is not a prerequisite, although it will help to have some understanding of the graphics pipeline.
@@ -98,7 +98,7 @@ quad = StaticObject.create("quad")
 quad.setPosition(Vector3(sin(pi * i / 4.0) * 2,
 cos(pi * i / 4.0) * 2 + 2.5, -10))
 quad.setEffect('colored -e ' + self.colors[i])</code></pre>Effects are a quick way to add custom appearance to objects and will be covered in another tutorial.
-<img class="alignnone size-medium wp-image-568" src="http://localhost/wordpress/wp-content/uploads/2016/06/planes1-300x171.png" alt="planes1" height="171" width="300">
+<img class="alignnone size-medium wp-image-568" src="http://localhost/wordpress/wp-content/uploads/2016/06/planes1-300x171.png" sizes="(max-width: 300px) 100vw, 300px" srcset="http://localhost/wordpress/wp-content/uploads/2016/06/planes1-300x171.png 300w, http://localhost/wordpress/wp-content/uploads/2016/06/planes1-768x438.png 768w, http://localhost/wordpress/wp-content/uploads/2016/06/planes1-830x473.png 830w, http://localhost/wordpress/wp-content/uploads/2016/06/planes1-230x131.png 230w, http://localhost/wordpress/wp-content/uploads/2016/06/planes1-350x200.png 350w, http://localhost/wordpress/wp-content/uploads/2016/06/planes1-480x274.png 480w, http://localhost/wordpress/wp-content/uploads/2016/06/planes1.png 831w" alt="planes1" height="171" width="300">
 (insert planes1.png)
 <h4>Step 3: interacting with the model</h4>Using the left mouse button, you should be able to rotate the camera and look around. However, the model itself is static. In the last tutorial, we used the GeometryHandler class to provide interaction handlers for the incoming input events. This time, we did not use the Geometry class, however, we can still use the Geometryhandlers by deriving our own class from BaseObject (pipelines.objects) and overriding the base methods.
 <pre><code class="language-python">class MyQuads(BaseObject):
@@ -132,15 +132,15 @@ quad = MyQuads()
 handler.addObject(quad)
 setEventFunction(handler.onEvent)
 setUpdateFunction(handler.onUpdate)</code></pre>Finally, the handlers are initialized and registered, like in the first tutorial.
-<img class="alignnone size-medium wp-image-569" src="http://localhost/wordpress/wp-content/uploads/2016/06/planes2-300x170.png" alt="planes2" height="170" width="300">
+<img class="alignnone size-medium wp-image-569" src="http://localhost/wordpress/wp-content/uploads/2016/06/planes2-300x170.png" alt="planes2" srcset="http://localhost/wordpress/wp-content/uploads/2016/06/planes2-300x170.png 300w, http://localhost/wordpress/wp-content/uploads/2016/06/planes2-768x434.png 768w, http://localhost/wordpress/wp-content/uploads/2016/06/planes2-830x469.png 830w, http://localhost/wordpress/wp-content/uploads/2016/06/planes2-230x130.png 230w, http://localhost/wordpress/wp-content/uploads/2016/06/planes2-350x198.png 350w, http://localhost/wordpress/wp-content/uploads/2016/06/planes2-480x271.png 480w, http://localhost/wordpress/wp-content/uploads/2016/06/planes2.png 831w" sizes="(max-width: 300px) 100vw, 300px" height="170" width="300">
 &nbsp;
 (insert planes2.png)
 The complete source for the example lies in <em>/local/examples/Tutorials/tut2/BuildSceneGraph.py</em>
 <!-- .entry-content -->
 &nbsp;&nbsp;&nbsp;
-<span class="sow-icon-fontawesome" style="font-size: 24px;color: #3d3d3d"></span>			
+<span class="sow-icon-fontawesome" data-sow-icon="" style="font-size: 24px; color: #3d3d3d"></span>			
 <p class="sow-more-text">
 <a href="http://localhost/wordpress/tutorials/load-box/">						Previous Tutorial						</a>					</p>
-<span class="sow-icon-fontawesome" style="font-size: 24px;color: #3d3d3d"></span>			
+<span class="sow-icon-fontawesome" data-sow-icon="" style="font-size: 24px; color: #3d3d3d"></span>			
 <p class="sow-more-text">
 <a href="http://localhost/wordpress/tutorials/defining-interactions/">						Next Tutorial						</a>					</p>
