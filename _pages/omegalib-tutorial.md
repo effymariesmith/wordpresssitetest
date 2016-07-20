@@ -1,34 +1,25 @@
 ---
-ID: 872
-post_title: Graphics Tutorial
+ID: 334
+post_title: Tutorials
 author: davm
-post_date: 2016-07-14 07:05:54
+post_date: 2016-06-27 06:39:05
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/tutorials/omegalib-tutorial/
+  http://localhost/wordpress/omegalib-tutorial/
 published: true
 panels_data:
-  - |
-    a:1:{i:0;s:3762:"a:3:{s:7:"widgets";a:4:{i:0;a:6:{s:5:"title";s:0:"";s:4:"text";s:61:"<h3 style="text-align: center;">Omegalib Tutorial Series</h3>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"578723843cea2";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"1ea35202-0ffb-4952-88db-1380842ca3f4";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:1;a:5:{s:8:"headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:4:"left";s:24:"so_field_container_state";s:4:"open";}s:12:"sub_headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:6:"center";s:24:"so_field_container_state";s:4:"open";}s:7:"divider";a:8:{s:5:"style";s:5:"solid";s:6:"weight";s:4:"thin";s:5:"color";b:0;s:11:"side_margin";s:4:"20px";s:16:"side_margin_unit";s:2:"px";s:10:"top_margin";s:4:"20px";s:15:"top_margin_unit";s:2:"px";s:24:"so_field_container_state";s:4:"open";}s:12:"_sow_form_id";s:13:"57871dc1b3fe7";s:11:"panels_info";a:7:{s:5:"class";s:33:"SiteOrigin_Widget_Headline_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"42c24578-cfd7-4dd5-8d52-e5b5178da0b8";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:575:"
-    <h4>Tutorials</h4>
-    <ol>
-     	<li style="text-align: left;"><a href="https://localhost/wordpress/tutorials/load-box/">Load Geometry </a></li>
-     	<li style="text-align: left;"><a href="http://localhost/wordpress/tutorials/building-the-scenegraph/"><strong>Building The Scenegraph</strong></a></li>
-     	<li style="text-align: left;"><a href="http://localhost/wordpress/tutorials/defining-interactions/"><strong>Defining Interactions</strong></a></li>
-            <li style="text-align: left;"><a href="http://localhost/wordpress/tutorials/"><strong>Other Tutorial</strong></a></li>
-    </ol>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"576b4c626e8f5";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"4a98973e-09c0-48a2-923d-fcbc887ca755";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:3;a:4:{s:5:"title";s:0:"";s:4:"text";s:255:"In the following tutorials we will show you, how to create, import and display cool models and bring them to the Data Arena.
-    
-    Graphics programming experience is not a prerequisite, although it will help to have some understanding of the graphics pipeline.";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:3;s:9:"widget_id";s:36:"8458d952-2849-47ac-8244-b11bcc3949d1";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:3:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:3:{s:7:"padding";s:3:"0px";s:5:"align";s:0:"";s:14:"column_padding";s:0:"";}}i:1;a:2:{s:5:"cells";i:3;s:5:"style";a:4:{s:7:"padding";s:4:"10px";s:5:"align";s:0:"";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:2;a:2:{s:5:"cells";i:1;s:5:"style";a:4:{s:7:"padding";s:3:"0px";s:5:"align";s:0:"";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}}s:10:"grid_cells";a:5:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.2271241830065404421201691320675308816134929656982421875;}i:2;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.6911764705882312842533110597287304699420928955078125;}i:3;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.0816993464052281626042173456880846060812473297119140625;}i:4;a:2:{s:4:"grid";i:2;s:6:"weight";i:1;}}}";}
+  - 'a:3:{s:7:"widgets";a:3:{i:0;a:6:{s:5:"title";s:0:"";s:4:"text";s:66:"<h3 style="text-align: center;">Data Arena VM tutorial series</h3>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"578723843cea2";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"1ea35202-0ffb-4952-88db-1380842ca3f4";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:1;a:5:{s:8:"headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:4:"left";s:24:"so_field_container_state";s:4:"open";}s:12:"sub_headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:6:"center";s:24:"so_field_container_state";s:4:"open";}s:7:"divider";a:8:{s:5:"style";s:5:"solid";s:6:"weight";s:4:"thin";s:5:"color";b:0;s:11:"side_margin";s:4:"20px";s:16:"side_margin_unit";s:2:"px";s:10:"top_margin";s:4:"20px";s:15:"top_margin_unit";s:2:"px";s:24:"so_field_container_state";s:4:"open";}s:12:"_sow_form_id";s:13:"57871dc1b3fe7";s:11:"panels_info";a:7:{s:5:"class";s:33:"SiteOrigin_Widget_Headline_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"42c24578-cfd7-4dd5-8d52-e5b5178da0b8";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:2;a:14:{s:8:"features";a:3:{i:0;a:9:{s:15:"container_color";s:7:"#ffffff";s:4:"icon";s:16:"fontawesome-cube";s:10:"icon_color";s:7:"#404040";s:10:"icon_image";i:0;s:15:"icon_image_size";s:4:"full";s:5:"title";s:88:"<h3><a href="http://localhost/wordpress/tutorials/graphics-tutorial/">Omegalib </a></h3>";s:4:"text";s:48:"Learn Cyclops the python front end to Omegalib .";s:9:"more_text";s:0:"";s:8:"more_url";s:0:"";}i:1;a:9:{s:15:"container_color";s:7:"#ffffff";s:4:"icon";s:17:"fontawesome-table";s:10:"icon_color";s:7:"#404040";s:10:"icon_image";i:0;s:15:"icon_image_size";s:4:"full";s:5:"title";s:94:"<h3> <a href="http://localhost/wordpress/place-holder/"><strong>Place Holder</strong></a></h3>";s:4:"text";s:102:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pulvinar posuere turpis non congue.";s:9:"more_text";s:0:"";s:8:"more_url";s:0:"";}i:2;a:9:{s:15:"container_color";s:7:"#ffffff";s:4:"icon";s:26:"fontawesome-connectdevelop";s:10:"icon_color";s:7:"#404040";s:10:"icon_image";i:473;s:15:"icon_image_size";s:4:"full";s:5:"title";s:93:"<h3><a href="http://localhost/wordpress/place holder/"><strong>Place Holder</strong></a></h3>";s:4:"text";s:102:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pulvinar posuere turpis non congue.";s:9:"more_text";s:0:"";s:8:"more_url";s:0:"";}}s:5:"fonts";a:4:{s:13:"title_options";a:5:{s:4:"font";s:7:"default";s:4:"size";b:0;s:9:"size_unit";s:2:"px";s:5:"color";s:7:"#3ead8f";s:24:"so_field_container_state";s:6:"closed";}s:12:"text_options";a:5:{s:4:"font";s:7:"default";s:4:"size";b:0;s:9:"size_unit";s:2:"px";s:5:"color";b:0;s:24:"so_field_container_state";s:6:"closed";}s:17:"more_text_options";a:5:{s:4:"font";s:7:"default";s:4:"size";b:0;s:9:"size_unit";s:2:"px";s:5:"color";b:0;s:24:"so_field_container_state";s:6:"closed";}s:24:"so_field_container_state";s:6:"closed";}s:15:"container_shape";s:5:"round";s:14:"container_size";s:5:"185px";s:19:"container_size_unit";s:2:"px";s:9:"icon_size";s:4:"65px";s:14:"icon_size_unit";s:2:"px";s:7:"per_row";i:3;s:10:"responsive";b:1;s:12:"_sow_form_id";s:13:"5772028f9361a";s:10:"title_link";b:0;s:9:"icon_link";b:0;s:10:"new_window";b:0;s:11:"panels_info";a:7:{s:5:"class";s:33:"SiteOrigin_Widget_Features_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"e28f7b9f-6f8c-4b2c-add5-62893f7ecf34";s:5:"style";a:3:{s:7:"padding";s:4:"25px";s:18:"background_display";s:4:"tile";s:10:"link_color";s:7:"#3ead8f";}}}}s:5:"grids";a:2:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:3:{s:7:"padding";s:3:"0px";s:5:"align";s:0:"";s:14:"column_padding";s:0:"";}}i:1;a:2:{s:5:"cells";i:1;s:5:"style";a:3:{s:7:"padding";s:4:"20px";s:5:"align";s:0:"";s:14:"column_padding";s:0:"";}}}s:10:"grid_cells";a:2:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";i:1;}}}'
 ---
-<h3 style="text-align: center;">Omegalib Tutorial Series</h3>
-<h4>Tutorials</h4>
-<ol>
-<li style="text-align: left;"><a href="https://localhost/wordpress/tutorials/load-box/">Load Geometry </a></li>
-<li style="text-align: left;"><a href="http://localhost/wordpress/tutorials/building-the-scenegraph/"><strong>Building The Scenegraph</strong></a></li>
-<li style="text-align: left;"><a href="http://localhost/wordpress/tutorials/defining-interactions/"><strong>Defining Interactions</strong></a></li>
-<li style="text-align: left;"><a href="http://localhost/wordpress/tutorials/"><strong>Other Tutorial</strong></a></li>
-</ol>
-In the following tutorials we will show you, how to create, import and display cool models and bring them to the Data Arena.
-Graphics programming experience is not a prerequisite, although it will help to have some understanding of the graphics pipeline.
-&nbsp;&nbsp;
+<h3 style="text-align: center;">Data Arena VM tutorial series</h3>
+<span class="sow-icon-fontawesome" data-sow-icon="" style="font-size: 65px; color: #404040"></span>			
+<h5>
+</h5><h3><a href="http://localhost/wordpress/tutorials/omegalib-tutorial/">Omegalib </a></h3>											
+<p>Learn Cyclops the python front end to Omegalib .</p>
+<span class="sow-icon-fontawesome" data-sow-icon="" style="font-size: 65px; color: #404040"></span>			
+<h5>
+</h5><h3> <a href="http://localhost/wordpress/place-holder/"><strong>Place Holder</strong></a></h3>											
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pulvinar posuere turpis non congue.</p>
+<h5>
+</h5><h3><a href="http://localhost/wordpress/place holder/"><strong>Place Holder</strong></a></h3>											
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pulvinar posuere turpis non congue.</p>
