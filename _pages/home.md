@@ -5,7 +5,7 @@ author: davm
 post_date: 2016-06-27 02:20:20
 post_excerpt: ""
 layout: page
-permalink: https://localhost/wordpress/home/
+permalink: http://localhost/wordpress/home/
 published: true
 panels_data:
   - |
@@ -221,7 +221,7 @@ panels_data:
 <h3 class="widget-title">About</h3>			<h6>
 this is an edit<br>
 This is the UTS Data Arena Virtual Machine documentation, read the User Guide to learn more about the project.<p></p>
-<p>Or get started below, by having a look at some  <a href="http://localhost:8002/">demos</a>  or use one of our existing pipelines explained in <a href="http://https://localhost/wordpress/quick-start/"> Quickstart</a> to visualize your data.</p>
+<p>Or get started below, by having a look at some  <a href=" http://localhost:8002/">demos</a>  or use one of our existing pipelines explained in <a href=" http://https://localhost/wordpress/quick-start/"> Quickstart</a> to visualize your data.</p>
 <p> If your data does not fit into an existing Pipeline, read more about it and create your own based on our framework. More information about the backend is provided in Software. </p>
 <p>You are welcome to share your work(link to git hub), that we can build more pipelines and make data visualization easier.</p>
 <p>Once you have set up your visualization using one of our pipelines or by creating your own, visit The UTS Data Arena to explore your data.<br>
@@ -234,23 +234,23 @@ This is the UTS Data Arena Virtual Machine documentation, read the User Guide to
 <a href="https://localhost/wordpress/data-type/" class="roll-button border">Quickstart</a>
 <h3>PROJECTS</h3>
 <h6>Exlpore some of the projects happening at The Data Arena</h6>
-<a href="http://localhost/wordpress/data-type/point-cloud/wombeyan-caves/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/caves03-550x400.jpg" class="so-widget-image" height="400" width="550">
+<a href="http://localhost/wordpress/data-type/point-cloud/wombeyan-caves/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/caves03-550x400.jpg" srcset="" class="so-widget-image" height="400" width="550">
 </a>
-<a href="http://localhost/wordpress/data-type/geometry/fashion-turntable/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/fashionTurntable01-1-550x400.jpg" class="so-widget-image" height="400" width="550">
+<a href="http://localhost/wordpress/data-type/geometry/fashion-turntable/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/fashionTurntable01-1-550x400.jpg" srcset="" class="so-widget-image" height="400" width="550">
 </a>
-<a href="http://localhost/wordpress/data-type/point-cloud/water-pipe/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/pipe04-550x400.jpg" class="so-widget-image" height="400" width="550">
+<a href="http://localhost/wordpress/data-type/point-cloud/water-pipe/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/pipe04-550x400.jpg" srcset="" class="so-widget-image" height="400" width="550">
 </a>
 <h3>VISIT THE DATA ARENA</h3>
 <h6>Explore your project in 360</h6>
-<span class="sow-icon-fontawesome" style="font-size: 56px;color: #424242"></span>			
+<span class="sow-icon-fontawesome" data-sow-icon="" style="font-size: 56px; color: #424242"></span>			
 <h5>
 Call us on											</h5>
 <p>+phonenumber</p>
-<span class="sow-icon-fontawesome" style="font-size: 56px;color: #424242"></span>			
+<span class="sow-icon-fontawesome" data-sow-icon="" style="font-size: 56px; color: #424242"></span>			
 <h5>
 Come find us at											</h5>
 <p>UTS Data Arena (Building 11) 15 Broadway Ultimo, NSW 2007 Australia </p>
-<span class="sow-icon-fontawesome" style="font-size: 56px;color: #424242"></span>			
+<span class="sow-icon-fontawesome" data-sow-icon="" style="font-size: 56px; color: #424242"></span>			
 <h5>
 Email us at											</h5>
 <p>dataarena@uts.edu.au</p>
