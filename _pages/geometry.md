@@ -6,7 +6,7 @@ post_date: 2016-06-23 07:36:45
 post_excerpt: ""
 layout: page
 permalink: >
-  https://localhost/wordpress/data-type/geometry/
+  http://localhost/wordpress/data-type/geometry/
 published: true
 panels_data:
   - |
@@ -53,9 +53,9 @@ More information on <a>obj</a><a>Format</a>
 &nbsp;
 <h4>Examples for .OBJ .PLY format</h4>
 <ul>
- 	<li style="text-align: left"><a href="http://localhost/wordpress/data-type/geometry/load-box/"><strong>Load Cube </strong></a></li>
- 	<li style="text-align: left"><a href="http://localhost/wordpress/data-type/geometry/fashion-turntable/"><strong>Fashion Turntable</strong></a></li>
- 	<li style="text-align: left">Other Pipeline</li>
- 	<li style="text-align: left">Other Pipeline</li>
+ 	<li style="text-align: left;"><a href="http://localhost/wordpress/data-type/geometry/load-box/"><strong>Load Cube </strong></a></li>
+ 	<li style="text-align: left;"><a href="http://localhost/wordpress/data-type/geometry/fashion-turntable/"><strong>Fashion Turntable</strong></a></li>
+ 	<li style="text-align: left;">Other Pipeline</li>
+ 	<li style="text-align: left;">Other Pipeline</li>
 </ul>
-<img class="so-widget-image" src="http://localhost/wordpress/wp-content/uploads/2016/06/otherpipelineLight.jpg" width="307" height="263" /> <img class="so-widget-image" src="http://localhost/wordpress/wp-content/uploads/2016/06/otherpipelineLight.jpg" width="307" height="263" /> <img class="so-widget-image" src="http://localhost/wordpress/wp-content/uploads/2016/06/otherpipelineLight.jpg" width="307" height="263" />
+<img class="so-widget-image" src="http://localhost/wordpress/wp-content/uploads/2016/06/otherpipelineLight.jpg" srcset="http://localhost/wordpress/wp-content/uploads/2016/06/otherpipelineLight.jpg 307w, http://localhost/wordpress/wp-content/uploads/2016/06/otherpipelineLight-300x257.jpg 300w, http://localhost/wordpress/wp-content/uploads/2016/06/otherpipelineLight-230x197.jpg 230w" width="307" height="263" /> <img class="so-widget-image" src="http://localhost/wordpress/wp-content/uploads/2016/06/otherpipelineLight.jpg" srcset="http://localhost/wordpress/wp-content/uploads/2016/06/otherpipelineLight.jpg 307w, http://localhost/wordpress/wp-content/uploads/2016/06/otherpipelineLight-300x257.jpg 300w, http://localhost/wordpress/wp-content/uploads/2016/06/otherpipelineLight-230x197.jpg 230w" width="307" height="263" /> <img class="so-widget-image" src="http://localhost/wordpress/wp-content/uploads/2016/06/otherpipelineLight.jpg" srcset="http://localhost/wordpress/wp-content/uploads/2016/06/otherpipelineLight.jpg 307w, http://localhost/wordpress/wp-content/uploads/2016/06/otherpipelineLight-300x257.jpg 300w, http://localhost/wordpress/wp-content/uploads/2016/06/otherpipelineLight-230x197.jpg 230w" width="307" height="263" />
