@@ -42,8 +42,12 @@ sq_sidebar_layout:
  	<li><a href="#" data-goto="1">2</a></li>
  	<li><a href="#" data-goto="2">3</a></li>
 </ol>
-<div class="sow-slide-nav sow-slide-nav-next"></div>
-<div class="sow-slide-nav sow-slide-nav-prev"></div>
+<div class="sow-slide-nav sow-slide-nav-next"><a href="#" data-goto="next" data-action="next">
+
+</a></div>
+<div class="sow-slide-nav sow-slide-nav-prev"><a href="#" data-goto="previous" data-action="prev">
+
+</a></div>
 </div>
 </div>
 </div>
