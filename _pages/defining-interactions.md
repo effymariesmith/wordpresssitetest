@@ -6,7 +6,7 @@ post_date: 2016-07-15 00:19:25
 post_excerpt: ""
 layout: page
 permalink: >
-  https://localhost/wordpress/tutorials/defining-interactions/
+  http://localhost/wordpress/tutorials/defining-interactions/
 published: true
 panels_data:
   - |
@@ -151,12 +151,12 @@ panels_data:
                 self.label.setText("Building: N.A")
                 self.label2.setText("Height: N.A")</code></pre><p>We position the text box to the left or right depending on the click position, to avoid the text box reaching out of the window bounds.</p><p><img class="alignnone size-medium wp-image-938" src="http://localhost/wordpress/wp-content/uploads/2016/07/cyclops3-300x188.png" alt="cyclops3" width="300" height="188" /></p><p>(insert cyclops3.png)</p><p>And thats it, you got a nice DataViz application running, ready to be deployed in the Data Arena.<br /> The full code (with some additions) is available at "/local/examples/Tutorials/tut3/CustomInteraction.py"</p><p><!-- .entry-content --></p>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57883288cb5f6";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:4;s:9:"widget_id";s:36:"c06bb1fd-0c3a-4ecb-9786-51ba4db231ea";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:5;a:14:{s:8:"features";a:3:{i:0;a:9:{s:15:"container_color";b:0;s:4:"icon";s:31:"fontawesome-arrow-circle-o-left";s:10:"icon_color";s:7:"#3d3d3d";s:10:"icon_image";i:0;s:15:"icon_image_size";s:4:"full";s:5:"title";s:0:"";s:4:"text";s:0:"";s:9:"more_text";s:17:"Previous Tutorial";s:8:"more_url";s:61:"http://localhost/wordpress/tutorials/building-the-scenegraph/";}i:1;a:9:{s:15:"container_color";s:7:"#404040";s:4:"icon";s:0:"";s:10:"icon_color";s:7:"#FFFFFF";s:10:"icon_image";i:0;s:15:"icon_image_size";s:4:"full";s:5:"title";s:0:"";s:4:"text";s:0:"";s:9:"more_text";s:0:"";s:8:"more_url";s:0:"";}i:2;a:9:{s:15:"container_color";s:7:"#e8e8e8";s:4:"icon";s:32:"fontawesome-arrow-circle-o-right";s:10:"icon_color";s:7:"#3d3d3d";s:10:"icon_image";i:0;s:15:"icon_image_size";s:4:"full";s:5:"title";s:0:"";s:4:"text";s:0:"";s:9:"more_text";s:13:"Next Tutorial";s:8:"more_url";s:59:"http://localhost/wordpress/tutorials/defining-interactions/";}}s:5:"fonts";a:4:{s:13:"title_options";a:5:{s:4:"font";s:7:"default";s:4:"size";b:0;s:9:"size_unit";s:2:"px";s:5:"color";b:0;s:24:"so_field_container_state";s:6:"closed";}s:12:"text_options";a:5:{s:4:"font";s:7:"default";s:4:"size";b:0;s:9:"size_unit";s:2:"px";s:5:"color";b:0;s:24:"so_field_container_state";s:6:"closed";}s:17:"more_text_options";a:5:{s:4:"font";s:7:"default";s:4:"size";b:0;s:9:"size_unit";s:2:"px";s:5:"color";b:0;s:24:"so_field_container_state";s:6:"closed";}s:24:"so_field_container_state";s:6:"closed";}s:15:"container_shape";s:0:"";s:14:"container_size";s:4:"84px";s:19:"container_size_unit";s:2:"px";s:9:"icon_size";s:4:"24px";s:14:"icon_size_unit";s:2:"px";s:7:"per_row";i:3;s:10:"responsive";b:1;s:12:"_sow_form_id";s:13:"57873dc4344d9";s:10:"title_link";b:0;s:9:"icon_link";b:0;s:10:"new_window";b:0;s:11:"panels_info";a:7:{s:5:"class";s:33:"SiteOrigin_Widget_Features_Widget";s:3:"raw";b:0;s:4:"grid";i:3;s:4:"cell";i:0;s:2:"id";i:5;s:9:"widget_id";s:36:"9cfce0d0-9f38-47ab-930d-0f36248ba8e9";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:4:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:3:{s:7:"padding";s:3:"0px";s:5:"align";s:0:"";s:14:"column_padding";s:0:"";}}i:1;a:2:{s:5:"cells";i:3;s:5:"style";a:4:{s:7:"padding";s:4:"10px";s:5:"align";s:0:"";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:2;a:2:{s:5:"cells";i:2;s:5:"style";a:4:{s:7:"padding";s:4:"20px";s:5:"align";s:0:"";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:3;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}}s:10:"grid_cells";a:7:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.227000000000000035083047578154946677386760711669921875;}i:2;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.6910000000000000586197757002082653343677520751953125;}i:3;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.082000000000000017319479184152442030608654022216796875;}i:4;a:2:{s:4:"grid";i:2;s:6:"weight";d:0.2263071895424799973017826459908974356949329376220703125;}i:5;a:2:{s:4:"grid";i:2;s:6:"weight";d:0.7736928104575200304537929696380160748958587646484375;}i:6;a:2:{s:4:"grid";i:3;s:6:"weight";i:1;}}}";}
 ---
-<h3 style="text-align: center">Omegalib Tutorial Series</h3>
+<h3 style="text-align: center;">Omegalib Tutorial Series</h3>
 <h4>Tutorials</h4>
 <ol>
-<li style="text-align: left"><a href="https://localhost/wordpress/tutorials/load-box/">Load Geometry </a></li>
-<li style="text-align: left"><a href="http://localhost/wordpress/tutorials/building-the-scenegraph/"><strong>Building The Scenegraph</strong></a></li>
-<li style="text-align: left"><a href="http://localhost/wordpress/tutorials/defining-interactions/"><strong>Defining Interactions</strong></a></li>
+<li style="text-align: left;"><a href="https://localhost/wordpress/tutorials/load-box/">Load Geometry </a></li>
+<li style="text-align: left;"><a href="http://localhost/wordpress/tutorials/building-the-scenegraph/"><strong>Building The Scenegraph</strong></a></li>
+<li style="text-align: left;"><a href="http://localhost/wordpress/tutorials/defining-interactions/"><strong>Defining Interactions</strong></a></li>
 </ol>
 In the following tutorials we will show you, how to create, import and display cool models and bring them to the Data Arena.
 Graphics programming experience is not a prerequisite, although it will help to have some understanding of the graphics pipeline.
@@ -172,7 +172,7 @@ In this tutorial you will build and export a 3d model of a building block, assig
 <h3>Building and exporting the model</h3>
 <p>Fire up your 3D modelling tool of choice, and start building your model. This tutorial uses Blender, but the workflow is similar to other 3D modelling tools.</p>
 <p>A small building block model can be made, by importing a highly detailed map section, covering the buildings with polygons and extruding them. We have built a simple model of the UTS:</p>
-<p><img class="alignnone size-medium wp-image-936" src="http://localhost/wordpress/wp-content/uploads/2016/07/cyclops1-300x173.png" alt="cyclops1" height="173" width="300"><br>
+<p><img class="alignnone size-medium wp-image-936" src="http://localhost/wordpress/wp-content/uploads/2016/07/cyclops1-300x173.png" alt="cyclops1" srcset="http://localhost/wordpress/wp-content/uploads/2016/07/cyclops1-300x173.png 300w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops1-768x442.png 768w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops1-1024x590.png 1024w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops1-830x478.png 830w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops1-230x132.png 230w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops1-350x202.png 350w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops1-480x276.png 480w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops1.png 1099w" sizes="(max-width: 300px) 100vw, 300px" height="173" width="300"><br>
 (insert blender.png)</p>
 <p>Now, the model has to be exported to omegalib. The underlying OpenSceneGraph can understand many common formats (.obj, .3ds, .ply, …), however the most convinient way is to export into .osgt, the native osg format. This format explicitly defines the scenegraph is easibly readable for humans. Check <a href="http://trac.openscenegraph.org/projects/osg//wiki/Community/Plugins">http://trac.openscenegraph.org/projects/osg//wiki/Community/Plugins</a> for available exporters, there are exporters for 3D Studio Max, Maya and Blender (plugins for other model packages might exist elsewhere). The best plugin for Blender is maintained under <a href="https://github.com/cedricpinson/osgexport">https://github.com/cedricpinson/osgexport</a>, use this to export your scene into .osgt, the default settings for the export are appropriate.</p>
 <p>Now have a look at the osgt file to grasp, what the scenegraph looks like. There is a root object and child objects. Depending on the object type, it has material, vertex and/or texture data assigned. Note that in Blender, only the materials set for the Blender renderer (not cycles) are exported. You can import and show the pieces of your model in python:</p>
@@ -241,7 +241,7 @@ setUpdateFunction(camManipulator.onUpdate)</code></pre>
 <p>The onUpdate function ensures smooth transformation for controller events.</p>
 <h3>Selecting models in the view</h3>
 <p>To enable the user to interact with the model, we want to him to to be able to hover over model parts, make selections and get visual feedback. We want to color a node if the cursor is hover over it:</p>
-<p><img class="alignnone size-medium wp-image-937" src="http://localhost/wordpress/wp-content/uploads/2016/07/cyclops2-300x188.png" alt="cyclops2" height="188" width="300"></p>
+<p><img class="alignnone size-medium wp-image-937" src="http://localhost/wordpress/wp-content/uploads/2016/07/cyclops2-300x188.png" alt="cyclops2" srcset="http://localhost/wordpress/wp-content/uploads/2016/07/cyclops2-300x188.png 300w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops2-768x480.png 768w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops2-1024x640.png 1024w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops2-830x519.png 830w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops2-230x144.png 230w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops2-350x219.png 350w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops2-480x300.png 480w" sizes="(max-width: 300px) 100vw, 300px" height="188" width="300"></p>
 <p>(insert cyclops2.png)</p>
 <p>The first step is to check if our mouse is hovering over a model.<br>
 Define a new class called SceneHandler, and add a onEventMethod. Modularlizing your code in camerahandlers, scenehandlers, modelcontrollers, etc.. is always a good idea to encourage loose coupling and reusability of components.</p>
@@ -358,15 +358,15 @@ else:
 self.label.setText("Building: N.A")
 self.label2.setText("Height: N.A")</code></pre>
 <p>We position the text box to the left or right depending on the click position, to avoid the text box reaching out of the window bounds.</p>
-<p><img class="alignnone size-medium wp-image-938" src="http://localhost/wordpress/wp-content/uploads/2016/07/cyclops3-300x188.png" alt="cyclops3" height="188" width="300"></p>
+<p><img class="alignnone size-medium wp-image-938" src="http://localhost/wordpress/wp-content/uploads/2016/07/cyclops3-300x188.png" alt="cyclops3" srcset="http://localhost/wordpress/wp-content/uploads/2016/07/cyclops3-300x188.png 300w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops3-768x480.png 768w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops3-1024x640.png 1024w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops3-830x519.png 830w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops3-230x144.png 230w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops3-350x219.png 350w, http://localhost/wordpress/wp-content/uploads/2016/07/cyclops3-480x300.png 480w" sizes="(max-width: 300px) 100vw, 300px" height="188" width="300"></p>
 <p>(insert cyclops3.png)</p>
 <p>And thats it, you got a nice DataViz application running, ready to be deployed in the Data Arena.<br>
 The full code (with some additions) is available at "/local/examples/Tutorials/tut3/CustomInteraction.py"</p>
 <p><!-- .entry-content --></p>
 &nbsp;&nbsp;&nbsp;
-<span class="sow-icon-fontawesome" style="font-size: 24px;color: #3d3d3d"></span>			
+<span class="sow-icon-fontawesome" data-sow-icon="" style="font-size: 24px; color: #3d3d3d"></span>			
 <p class="sow-more-text">
 <a href="http://localhost/wordpress/tutorials/building-the-scenegraph/">						Previous Tutorial						</a>					</p>
-<span class="sow-icon-fontawesome" style="font-size: 24px;color: #3d3d3d"></span>			
+<span class="sow-icon-fontawesome" data-sow-icon="" style="font-size: 24px; color: #3d3d3d"></span>			
 <p class="sow-more-text">
 <a href="http://localhost/wordpress/tutorials/defining-interactions/">						Next Tutorial						</a>					</p>
