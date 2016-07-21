@@ -6,7 +6,7 @@ post_date: 2016-07-13 01:15:15
 post_excerpt: ""
 layout: page
 permalink: >
-  https://localhost/wordpress/data-type/point-cloud/water-pipe/
+  http://localhost/wordpress/data-type/point-cloud/water-pipe/
 published: true
 panels_data:
   - |
@@ -58,27 +58,27 @@ panels_data:
     
     ";s:11:"panels_info";a:6:{s:5:"class";s:14:"WP_Widget_Text";s:4:"grid";i:3;s:4:"cell";i:1;s:2:"id";i:6;s:9:"widget_id";s:36:"7107df68-9d33-4eb6-9aa3-46f20a2e72c7";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}s:6:"filter";b:0;}i:7;a:6:{s:5:"title";s:0:"";s:4:"text";s:58:"<h3 style="text-align: center;">Explore More Examples</h3>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"578723843cea2";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:4;s:4:"cell";i:0;s:2:"id";i:7;s:9:"widget_id";s:36:"1ea35202-0ffb-4952-88db-1380842ca3f4";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:8;a:5:{s:8:"headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:4:"left";s:24:"so_field_container_state";s:4:"open";}s:12:"sub_headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:6:"center";s:24:"so_field_container_state";s:6:"closed";}s:7:"divider";a:8:{s:5:"style";s:5:"solid";s:6:"weight";s:4:"thin";s:5:"color";b:0;s:11:"side_margin";s:4:"20px";s:16:"side_margin_unit";s:2:"px";s:10:"top_margin";s:4:"20px";s:15:"top_margin_unit";s:2:"px";s:24:"so_field_container_state";s:4:"open";}s:12:"_sow_form_id";s:13:"57871dc1b3fe7";s:11:"panels_info";a:7:{s:5:"class";s:33:"SiteOrigin_Widget_Headline_Widget";s:3:"raw";b:0;s:4:"grid";i:4;s:4:"cell";i:0;s:2:"id";i:8;s:9:"widget_id";s:36:"42c24578-cfd7-4dd5-8d52-e5b5178da0b8";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:9;a:13:{s:5:"image";i:689;s:14:"image_fallback";s:0:"";s:4:"size";s:6:"medium";s:5:"align";s:7:"default";s:5:"title";s:5:"Caves";s:14:"title_position";s:6:"hidden";s:3:"alt";s:0:"";s:3:"url";s:64:"http://localhost/wordpress/data-type/point-cloud/wombeyan-caves/";s:5:"bound";b:1;s:12:"_sow_form_id";s:13:"576b6f04ed198";s:10:"new_window";b:0;s:10:"full_width";b:0;s:11:"panels_info";a:7:{s:5:"class";s:30:"SiteOrigin_Widget_Image_Widget";s:3:"raw";b:0;s:4:"grid";i:5;s:4:"cell";i:0;s:2:"id";i:9;s:9:"widget_id";s:36:"7ff25a31-f542-4a04-a44f-2c8cea53f183";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:10;a:13:{s:5:"image";i:693;s:14:"image_fallback";s:0:"";s:4:"size";s:6:"medium";s:5:"align";s:7:"default";s:5:"title";s:17:"Fashion Turntable";s:14:"title_position";s:6:"hidden";s:3:"alt";s:0:"";s:3:"url";s:64:"http://localhost/wordpress/data-type/geometry/fashion-turntable/";s:5:"bound";b:1;s:12:"_sow_form_id";s:13:"576b6f262e8f8";s:10:"new_window";b:0;s:10:"full_width";b:0;s:11:"panels_info";a:7:{s:5:"class";s:30:"SiteOrigin_Widget_Image_Widget";s:3:"raw";b:0;s:4:"grid";i:5;s:4:"cell";i:1;s:2:"id";i:10;s:9:"widget_id";s:36:"7ff25a31-f542-4a04-a44f-2c8cea53f183";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:11;a:13:{s:5:"image";i:698;s:14:"image_fallback";s:0:"";s:4:"size";s:6:"medium";s:5:"align";s:7:"default";s:5:"title";s:20:"Parallel Coordinates";s:14:"title_position";s:6:"hidden";s:3:"alt";s:0:"";s:3:"url";s:68:"http://localhost/wordpress/data-type/speedsheet/parallelcoordinates/";s:5:"bound";b:1;s:12:"_sow_form_id";s:13:"576b6f29382de";s:10:"new_window";b:0;s:10:"full_width";b:0;s:11:"panels_info";a:7:{s:5:"class";s:30:"SiteOrigin_Widget_Image_Widget";s:3:"raw";b:0;s:4:"grid";i:5;s:4:"cell";i:2;s:2:"id";i:11;s:9:"widget_id";s:36:"7ff25a31-f542-4a04-a44f-2c8cea53f183";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:6:{i:0;a:2:{s:5:"cells";i:2;s:5:"style";a:3:{s:7:"padding";s:4:"20px";s:5:"align";s:0:"";s:14:"column_padding";s:0:"";}}i:1;a:2:{s:5:"cells";i:2;s:5:"style";a:4:{s:7:"padding";s:3:"0px";s:5:"align";s:0:"";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:2;a:2:{s:5:"cells";i:1;s:5:"style";a:3:{s:7:"padding";s:4:"10px";s:5:"align";s:0:"";s:14:"column_padding";s:0:"";}}i:3;a:2:{s:5:"cells";i:2;s:5:"style";a:4:{s:7:"padding";s:4:"20px";s:5:"align";s:0:"";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:4;a:2:{s:5:"cells";i:1;s:5:"style";a:3:{s:7:"padding";s:3:"0px";s:5:"align";s:0:"";s:14:"column_padding";s:0:"";}}i:5;a:2:{s:5:"cells";i:3;s:5:"style";a:4:{s:7:"padding";s:4:"20px";s:5:"align";s:0:"";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}}s:10:"grid_cells";a:11:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";d:0.5;}i:1;a:2:{s:4:"grid";i:0;s:6:"weight";d:0.5;}i:2;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}i:3;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}i:4;a:2:{s:4:"grid";i:2;s:6:"weight";i:1;}i:5;a:2:{s:4:"grid";i:3;s:6:"weight";d:0.5;}i:6;a:2:{s:4:"grid";i:3;s:6:"weight";d:0.5;}i:7;a:2:{s:4:"grid";i:4;s:6:"weight";i:1;}i:8;a:2:{s:4:"grid";i:5;s:6:"weight";d:0.333333333333333314829616256247390992939472198486328125;}i:9;a:2:{s:4:"grid";i:5;s:6:"weight";d:0.333333333333333314829616256247390992939472198486328125;}i:10;a:2:{s:4:"grid";i:5;s:6:"weight";d:0.333333333333333314829616256247390992939472198486328125;}}}";}
 ---
-<ul class="sow-slider-images">		<li class="sow-slider-image">
-<img src="http://localhost/wordpress/wp-content/uploads/2016/07/pipe04.jpg" class="attachment-full size-full" alt="pipe04" height="1701" width="2552">				
+<ul class="sow-slider-images" data-settings="{&quot;pagination&quot;:true,&quot;speed&quot;:800,&quot;timeout&quot;:8000,&quot;swipe&quot;:true}">		<li class="sow-slider-image" style="">
+<img src="http://localhost/wordpress/wp-content/uploads/2016/07/pipe04.jpg" class="attachment-full size-full" alt="pipe04" srcset="http://localhost/wordpress/wp-content/uploads/2016/07/pipe04.jpg 2552w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe04-300x200.jpg 300w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe04-768x512.jpg 768w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe04-1024x683.jpg 1024w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe04-830x553.jpg 830w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe04-230x153.jpg 230w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe04-350x233.jpg 350w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe04-480x320.jpg 480w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe04-272x182.jpg 272w" sizes="(max-width: 2552px) 100vw, 2552px" height="1701" width="2552">				
 </li>
-<li class="sow-slider-image">
-<img src="http://localhost/wordpress/wp-content/uploads/2016/07/pipe03.jpg" class="attachment-full size-full" alt="pipe03" height="1701" width="2552">				
+<li class="sow-slider-image" style="">
+<img src="http://localhost/wordpress/wp-content/uploads/2016/07/pipe03.jpg" class="attachment-full size-full" alt="pipe03" srcset="http://localhost/wordpress/wp-content/uploads/2016/07/pipe03.jpg 2552w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe03-300x200.jpg 300w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe03-768x512.jpg 768w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe03-1024x683.jpg 1024w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe03-830x553.jpg 830w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe03-230x153.jpg 230w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe03-350x233.jpg 350w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe03-480x320.jpg 480w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe03-272x182.jpg 272w" sizes="(max-width: 2552px) 100vw, 2552px" height="1701" width="2552">				
 </li>
-<li class="sow-slider-image">
-<img src="http://localhost/wordpress/wp-content/uploads/2016/07/pipe.jpg" class="attachment-full size-full" alt="pipe" height="1701" width="2552">				
+<li class="sow-slider-image" style="">
+<img src="http://localhost/wordpress/wp-content/uploads/2016/07/pipe.jpg" class="attachment-full size-full" alt="pipe" srcset="http://localhost/wordpress/wp-content/uploads/2016/07/pipe.jpg 2552w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe-300x200.jpg 300w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe-768x512.jpg 768w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe-1024x683.jpg 1024w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe-830x553.jpg 830w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe-230x153.jpg 230w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe-350x233.jpg 350w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe-480x320.jpg 480w, http://localhost/wordpress/wp-content/uploads/2016/07/pipe-272x182.jpg 272w" sizes="(max-width: 2552px) 100vw, 2552px" height="1701" width="2552">				
 </li>
 </ul>				<ol class="sow-slider-pagination">
-<li><a href="#">1</a></li>
-<li><a href="#">2</a></li>
-<li><a href="#">3</a></li>
+<li><a href="#" data-goto="0">1</a></li>
+<li><a href="#" data-goto="1">2</a></li>
+<li><a href="#" data-goto="2">3</a></li>
 </ol>
-<a href="#">
+<a href="#" data-goto="next" data-action="next">
 <em class="sow-sld-icon-thin-right"></em>
 </a>
-<a href="#">
+<a href="#" data-goto="previous" data-action="prev">
 <em class="sow-sld-icon-thin-left"></em>
 </a>
-<h4><a href="http://localhost/wordpress/data-type/point-could/wombeyan-caves/"><strong> Water Pipe</strong></a> Examples</h4>
+<h4><a href=" http://localhost/wordpress/data-type/point-could/wombeyan-caves/"><strong> Water Pipe</strong></a> Examples</h4>
 <p> </p>
 <h6> The Pipe example, is using point could data. The inside was scanned by a laser and the outside by an electromagnetic sensor. This allows you to explore the impossible view by navigating between the two walls. .<p></p>
 </h6>
@@ -96,9 +96,9 @@ panels_data:
 <p>This project deals with waterpipes that you and I drink water from. The researchers wanted to analyse the data that is being used to inspect those pipes with various techniques so that the pipes could be found before they break. </p>
 <p>The pipes were actually taken out of the ground and then inspected with very high definition 3D lasers that give you point clouds - millions of points. Dealing with big data like that is challenging so the idea here is to manipulate and represent that data in a manner that we can easily find the crevices and holes that we're looking for. </p>
 <p>The colours that you see in this particular pipe tells you what is the remaining wall thickness. Red colours means that there is less remaining wall thickness, yellow colours means there is more remaining wall thickness. Less remaining wall thickness equates to holes, cracks and eventually the pipe will not actually be able to withstand the water that’s inside it; it just breaks. </p>
-<h2 style="text-align: left">Use this example</h2>
+<h2 style="text-align: left;">Use this example</h2>
 <p> </p>
-<h2>1 </h2> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus
+<h2>1 </h2><h8> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus</h8>
 <p> </p>
 <p> </p>
 <h2>2</h2> Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
@@ -112,10 +112,10 @@ panels_data:
 <p> </p>
 <p> </p>
 <h2>6</h2> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, 
-<h3 style="text-align: center">Explore More Examples</h3>
-<a href="http://localhost/wordpress/data-type/point-cloud/wombeyan-caves/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/cave02-300x248.jpg" title="Caves" class="so-widget-image" height="248" width="300">
+<h3 style="text-align: center;">Explore More Examples</h3>
+<a href="http://localhost/wordpress/data-type/point-cloud/wombeyan-caves/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/cave02-300x248.jpg" srcset="http://localhost/wordpress/wp-content/uploads/2016/07/cave02-300x248.jpg 300w, http://localhost/wordpress/wp-content/uploads/2016/07/cave02-230x190.jpg 230w, http://localhost/wordpress/wp-content/uploads/2016/07/cave02-350x289.jpg 350w, http://localhost/wordpress/wp-content/uploads/2016/07/cave02.jpg 400w" title="Caves" class="so-widget-image" height="248" width="300">
 </a>
-<a href="http://localhost/wordpress/data-type/geometry/fashion-turntable/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/fashionTurntable02-300x248.jpg" title="Fashion Turntable" class="so-widget-image" height="248" width="300">
+<a href="http://localhost/wordpress/data-type/geometry/fashion-turntable/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/fashionTurntable02-300x248.jpg" srcset="http://localhost/wordpress/wp-content/uploads/2016/07/fashionTurntable02-300x248.jpg 300w, http://localhost/wordpress/wp-content/uploads/2016/07/fashionTurntable02-230x190.jpg 230w, http://localhost/wordpress/wp-content/uploads/2016/07/fashionTurntable02-350x289.jpg 350w, http://localhost/wordpress/wp-content/uploads/2016/07/fashionTurntable02.jpg 400w" title="Fashion Turntable" class="so-widget-image" height="248" width="300">
 </a>
-<a href="http://localhost/wordpress/data-type/speedsheet/parallelcoordinates/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/parallelCoordinates02-300x248.jpg" title="Parallel Coordinates" class="so-widget-image" height="248" width="300">
+<a href="http://localhost/wordpress/data-type/speedsheet/parallelcoordinates/">	<img src="http://localhost/wordpress/wp-content/uploads/2016/07/parallelCoordinates02-300x248.jpg" srcset="http://localhost/wordpress/wp-content/uploads/2016/07/parallelCoordinates02-300x248.jpg 300w, http://localhost/wordpress/wp-content/uploads/2016/07/parallelCoordinates02-230x190.jpg 230w, http://localhost/wordpress/wp-content/uploads/2016/07/parallelCoordinates02-350x289.jpg 350w, http://localhost/wordpress/wp-content/uploads/2016/07/parallelCoordinates02.jpg 400w" title="Parallel Coordinates" class="so-widget-image" height="248" width="300">
 </a>
