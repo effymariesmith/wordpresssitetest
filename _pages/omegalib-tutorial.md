@@ -6,7 +6,7 @@ post_date: 2016-07-14 07:05:54
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/tutorials/omegalib-tutorial/
+  http://ec2-54-206-25-238.ap-southeast-2.compute.amazonaws.com/tutorials/omegalib-tutorial/
 published: true
 panels_data:
   - |
@@ -17,7 +17,7 @@ panels_data:
      	<li style="text-align: left;"><a href="/wordpress/tutorials/building-the-scenegraph/"><strong>Building The Scenegraph</strong></a></li>
      	<li style="text-align: left;"><a href="/wordpress/tutorials/defining-interactions/"><strong>Defining Interactions</strong></a></li>
             <li style="text-align: left;"><a href="/wordpress/tutorials/"><strong>Other Tutorial</strong></a></li>
-    </ol>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"576b4c626e8f5";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"4a98973e-09c0-48a2-923d-fcbc887ca755";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:3;a:4:{s:5:"title";s:0:"";s:4:"text";s:255:"In the following tutorials we will show you, how to create, import and display cool models and bring them to the Data Arena.
+    </ol>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"576b4c626e8f5";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"4a98973e-09c0-48a2-923d-fcbc887ca755";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:3;a:4:{s:5:"title";s:0:"";s:4:"text";s:255:"In the following tutorials we will show you, how to create, import and display cool models and bring them to the Data Arena.
     
     Graphics programming experience is not a prerequisite, although it will help to have some understanding of the graphics pipeline.";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:3;s:9:"widget_id";s:36:"8458d952-2849-47ac-8244-b11bcc3949d1";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:3:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:3:{s:7:"padding";s:3:"0px";s:5:"align";s:0:"";s:14:"column_padding";s:0:"";}}i:1;a:2:{s:5:"cells";i:3;s:5:"style";a:4:{s:7:"padding";s:4:"10px";s:5:"align";s:0:"";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}i:2;a:2:{s:5:"cells";i:1;s:5:"style";a:4:{s:7:"padding";s:3:"0px";s:5:"align";s:0:"";s:11:"row_stretch";s:4:"full";s:14:"column_padding";s:0:"";}}}s:10:"grid_cells";a:5:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.2271241830065404421201691320675308816134929656982421875;}i:2;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.6911764705882312842533110597287304699420928955078125;}i:3;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.0816993464052281626042173456880846060812473297119140625;}i:4;a:2:{s:4:"grid";i:2;s:6:"weight";i:1;}}}
 ---
