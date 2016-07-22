@@ -6,7 +6,7 @@ post_date: 2016-06-27 07:40:01
 post_excerpt: ""
 layout: page
 permalink: >
-  https://localhost/wordpress/userguide/software/
+  http://localhost/wordpress/userguide/software/
 published: true
 ---
 [md]
