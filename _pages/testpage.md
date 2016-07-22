@@ -1,19 +1,13 @@
 ---
 ID: 9
 post_title: testpage
-author: effy
+author: davm
 post_date: 2016-06-09 05:44:24
 post_excerpt: ""
 layout: page
 permalink: >
-  https://localhost/wordpress/sample-page/testpage/
+  http://localhost/wordpress/sample-page-2/testpage/
 published: true
-sq_sidebar_layout:
-  - 'a:1:{i:0;s:20:"no_sidebar_condensed";}'
-dslc_code:
-  - 'a:1:{i:0;s:0:"";}'
-dslc_content_for_search:
-  - 'a:1:{i:0;s:0:"";}'
 ---
 Below are examples of column classes that are available in the Genesis Framework style sheet.
 
