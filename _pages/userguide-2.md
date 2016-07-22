@@ -5,7 +5,7 @@ author: davm
 post_date: 2016-06-27 07:46:58
 post_excerpt: ""
 layout: page
-permalink: https://localhost/wordpress/userguide-2/
+permalink: http://localhost/wordpress/userguide-2/
 published: true
 ---
 [md]
