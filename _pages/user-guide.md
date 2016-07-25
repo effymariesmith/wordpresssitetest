@@ -5,8 +5,7 @@ author: davm
 post_date: 2016-06-30 05:34:10
 post_excerpt: ""
 layout: page
-permalink: >
-  http://ec2-54-206-25-238.ap-southeast-2.compute.amazonaws.com/user-guide/
+permalink: http://localhost/wordpress/user-guide/
 published: true
 ---
 [documentor 1]
