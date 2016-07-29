@@ -1,12 +1,12 @@
 ---
 ID: 1114
-post_title: ""
+post_title: 2D HSDH
 author: davm
 post_date: 2016-07-29 06:41:45
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/data-type/speedsheet/1114-2/
+  http://localhost/wordpress/data-type/speedsheet/2d-hsdh/
 published: true
 panels_data:
   - |
