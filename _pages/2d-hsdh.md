@@ -22,7 +22,7 @@ panels_data:
     &nbsp;
     &nbsp;
     &nbsp;
-     <h4>2D HSDH<a href=""><strong> Demo</strong></a></h4>";s:11:"panels_info";a:6:{s:5:"class";s:14:"WP_Widget_Text";s:4:"grid";i:0;s:4:"cell";i:1;s:2:"id";i:1;s:9:"widget_id";s:36:"fa9f1c94-74c1-4106-a290-9bcb34cde362";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}s:6:"filter";b:0;}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:833:"<h3>Background</h3>
+     <h4>3D HSDH<a href=""><strong> Demo</strong></a></h4>";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:1;s:2:"id";i:1;s:9:"widget_id";s:36:"fa9f1c94-74c1-4106-a290-9bcb34cde362";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:833:"<h3>Background</h3>
     
     
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, 
@@ -95,7 +95,7 @@ panels_data:
 &nbsp;
 &nbsp;
 &nbsp;
-<h4>2D HSDH<a href=""><strong> Demo</strong></a></h4>
+<h4>3D HSDH<a href=""><strong> Demo</strong></a></h4>
 <h3>Background</h3>
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,<br>
 &nbsp;</p>
