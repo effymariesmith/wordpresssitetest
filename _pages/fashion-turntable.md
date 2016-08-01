@@ -17,13 +17,13 @@ panels_data:
     
     <h6>Run Fashion Turntable <a href=""><strong> Demo</strong></a></h6><p>
     Follow some quick <a href="#howto"><strong>how to's</strong></a> 
-    or for a more in-depth understand, follow our<a href="/wordpress/tutorials/load-box/ "><strong> Omegalib Tutorial Series</strong></a> </p>";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:1;s:2:"id";i:1;s:9:"widget_id";s:36:"fa9f1c94-74c1-4106-a290-9bcb34cde362";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:380:"<h3>The project</h3>
+    or for a more in-depth understand, follow our<a href="/wordpress/tutorials/load-box/ "><strong> Omegalib Tutorial Series</strong></a> </p>";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:1;s:2:"id";i:1;s:9:"widget_id";s:36:"fa9f1c94-74c1-4106-a290-9bcb34cde362";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:379:"<h3>Background</h3>
     
     
     As a part of their final year project UTS fashion students are required to make 5 garments. This includes making their own materials and textiles for the garments and then showcasing them on a runway. 
     
     All textiles were scanned as well as the garment itself. A fashion garment was put on a mannequin and then 300 photographs were taken around the garment.
-    ";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57834fd8d2453";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"3bd085bc-b817-4442-a3c3-b3b8b3fa50b7";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:3;a:6:{s:5:"title";s:0:"";s:4:"text";s:486:"<h3>The project</h3>
+    ";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57834fd8d2453";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"3bd085bc-b817-4442-a3c3-b3b8b3fa50b7";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:3;a:6:{s:5:"title";s:0:"";s:4:"text";s:486:"<h3>The project</h3>
     
     
     This was done using a camera rig. A 3D camera scanning system was built with cameras left and right to create a stereo image. The Data Arena team went to Bunnings on the UTS credit card and bought garden hoses and shopping trolley wheels and put the two garden hoses side by side so the wheel would travel between the garden hoses in a circular motion. 
