@@ -10,7 +10,7 @@ permalink: >
 published: true
 panels_data:
   - |
-    a:3:{s:7:"widgets";a:25:{i:0;a:4:{s:6:"frames";a:3:{i:0;a:9:{s:16:"background_image";i:1178;s:25:"background_image_fallback";s:0:"";s:16:"background_color";s:7:"#0a0a0a";s:21:"background_image_type";s:4:"tile";s:16:"foreground_image";i:0;s:25:"foreground_image_fallback";s:0:"";s:3:"url";s:0:"";s:10:"new_window";b:1;s:17:"background_videos";a:0:{}}i:1;a:9:{s:16:"background_image";i:1178;s:25:"background_image_fallback";s:0:"";s:16:"background_color";b:0;s:21:"background_image_type";s:5:"cover";s:16:"foreground_image";i:0;s:25:"foreground_image_fallback";s:0:"";s:3:"url";s:0:"";s:17:"background_videos";a:0:{}s:10:"new_window";b:0;}i:2;a:9:{s:16:"background_image";i:1178;s:25:"background_image_fallback";s:0:"";s:16:"background_color";b:0;s:21:"background_image_type";s:5:"cover";s:16:"foreground_image";i:0;s:25:"foreground_image_fallback";s:0:"";s:3:"url";s:0:"";s:17:"background_videos";a:0:{}s:10:"new_window";b:0;}}s:8:"controls";a:7:{s:5:"speed";i:800;s:7:"timeout";i:8000;s:13:"nav_color_hex";s:7:"#FFFFFF";s:9:"nav_style";s:4:"thin";s:8:"nav_size";i:25;s:5:"swipe";b:1;s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:13:"57a17401d5eff";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Slider_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"24307561-e6ae-42ed-a7b8-87d968c2a1d1";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:4:{s:5:"title";s:0:"";s:4:"text";s:544:"<h4><a href=""><strong> 2D HSDH Google Earth - Parallel Coordinates </strong></a> Examples</h4>
+    a:3:{s:7:"widgets";a:25:{i:0;a:4:{s:6:"frames";a:3:{i:0;a:9:{s:16:"background_image";i:1178;s:25:"background_image_fallback";s:0:"";s:16:"background_color";s:7:"#0a0a0a";s:21:"background_image_type";s:4:"tile";s:16:"foreground_image";i:0;s:25:"foreground_image_fallback";s:0:"";s:3:"url";s:0:"";s:10:"new_window";b:1;s:17:"background_videos";a:0:{}}i:1;a:9:{s:16:"background_image";i:1178;s:25:"background_image_fallback";s:0:"";s:16:"background_color";b:0;s:21:"background_image_type";s:5:"cover";s:16:"foreground_image";i:0;s:25:"foreground_image_fallback";s:0:"";s:3:"url";s:0:"";s:17:"background_videos";a:0:{}s:10:"new_window";b:0;}i:2;a:9:{s:16:"background_image";i:1178;s:25:"background_image_fallback";s:0:"";s:16:"background_color";b:0;s:21:"background_image_type";s:5:"cover";s:16:"foreground_image";i:0;s:25:"foreground_image_fallback";s:0:"";s:3:"url";s:0:"";s:17:"background_videos";a:0:{}s:10:"new_window";b:0;}}s:8:"controls";a:7:{s:5:"speed";i:800;s:7:"timeout";i:8000;s:13:"nav_color_hex";s:7:"#FFFFFF";s:9:"nav_style";s:4:"thin";s:8:"nav_size";i:25;s:5:"swipe";b:1;s:24:"so_field_container_state";s:6:"closed";}s:12:"_sow_form_id";s:13:"57a17401d5eff";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Slider_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"24307561-e6ae-42ed-a7b8-87d968c2a1d1";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:4:{s:5:"title";s:0:"";s:4:"text";s:534:"<h4><a href=""><strong> 2D HSDH/ Google Earth/Parallel Coordinates </strong></a></h4>
     <p> </p>
     <h7>This is data that was brought in by the NSW government. It's public data and it's the services that the NSW government are providing to the state and in their effort for open data we're now seeing where all the contracts are going and so on.</h7>
     &nbsp;
@@ -18,7 +18,7 @@ panels_data:
      <h8>Google Earth  <a href=""><strong> Demo</strong></a></h8>
      <h8>3D<a href=""><strong> Demo</strong></a></h8>
     
-    ";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"fa9f1c94-74c1-4106-a290-9bcb34cde362";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:202:"<h3>Parallel Coordinates</h3>
+    ";s:11:"panels_info";a:6:{s:5:"class";s:14:"WP_Widget_Text";s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"fa9f1c94-74c1-4106-a290-9bcb34cde362";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}s:6:"filter";b:0;}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:202:"<h3>Parallel Coordinates</h3>
     
      We saw the data in a spreadsheet, we loaded it into parallel coordinates by making selections in parallel coordinates we could see the local government areas on a map. 
     
@@ -100,7 +100,7 @@ panels_data:
  	<li><a href="#" data-goto="1">2</a></li>
  	<li><a href="#" data-goto="2">3</a></li>
 </ol>
-<h4><a><strong> 2D HSDH Google Earth - Parallel Coordinates </strong></a> Examples</h4>
+<h4><a><strong> 2D HSDH/ Google Earth/Parallel Coordinates </strong></a></h4>
 &nbsp;
 
 This is data that was brought in by the NSW government. It's public data and it's the services that the NSW government are providing to the state and in their effort for open data we're now seeing where all the contracts are going and so on.   Paralle Corrdinates <a><strong> Demo</strong></a> Google Earth <a><strong> Demo</strong></a> 3D<a><strong> Demo</strong></a>
