@@ -9,14 +9,14 @@ permalink: http://localhost/wordpress/examples/
 published: true
 panels_data:
   - |
-    a:3:{s:7:"widgets";a:94:{i:0;a:6:{s:5:"title";s:0:"";s:4:"text";s:46:"<h3 style="text-align: center;">Userguide</h3>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"578723843cea2";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"1ea35202-0ffb-4952-88db-1380842ca3f4";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:1;a:5:{s:8:"headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:4:"left";s:24:"so_field_container_state";s:4:"open";}s:12:"sub_headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:6:"center";s:24:"so_field_container_state";s:4:"open";}s:7:"divider";a:8:{s:5:"style";s:5:"solid";s:6:"weight";s:4:"thin";s:5:"color";b:0;s:11:"side_margin";s:4:"20px";s:16:"side_margin_unit";s:2:"px";s:10:"top_margin";s:4:"20px";s:15:"top_margin_unit";s:2:"px";s:24:"so_field_container_state";s:4:"open";}s:12:"_sow_form_id";s:13:"57871dc1b3fe7";s:11:"panels_info";a:7:{s:5:"class";s:33:"SiteOrigin_Widget_Headline_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"42c24578-cfd7-4dd5-8d52-e5b5178da0b8";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:881:"<h4>Userguide</h4>
+    a:3:{s:7:"widgets";a:94:{i:0;a:6:{s:5:"title";s:0:"";s:4:"text";s:46:"<h3 style="text-align: center;">Userguide</h3>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"578723843cea2";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"1ea35202-0ffb-4952-88db-1380842ca3f4";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:1;a:5:{s:8:"headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:4:"left";s:24:"so_field_container_state";s:4:"open";}s:12:"sub_headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:6:"center";s:24:"so_field_container_state";s:4:"open";}s:7:"divider";a:8:{s:5:"style";s:5:"solid";s:6:"weight";s:4:"thin";s:5:"color";b:0;s:11:"side_margin";s:4:"20px";s:16:"side_margin_unit";s:2:"px";s:10:"top_margin";s:4:"20px";s:15:"top_margin_unit";s:2:"px";s:24:"so_field_container_state";s:4:"open";}s:12:"_sow_form_id";s:13:"57871dc1b3fe7";s:11:"panels_info";a:7:{s:5:"class";s:33:"SiteOrigin_Widget_Headline_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"42c24578-cfd7-4dd5-8d52-e5b5178da0b8";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:851:"<h4>Userguide</h4>
     <ol>
      	<li style="text-align: left;"><a href="/wordpress/userguide2/"> Userguide </a></li>
      	<li style="text-align: left;"><a href="/wordpress/userguide2/overview/"> Overview </a></li>
      	<li style="text-align: left;"><a href="/wordpress/userguide2/examples/"><strong> Examples</strong></a>
     <ol>
      	<li style="text-align: left;"><a href="#spreadsheet">Spreadsheet</a></li>
-     	<li style="text-align: left;"><a href="/wordpress/userguide2/examples/pointcloud">Point cloud</a></li>
+     	<li style="text-align: left;"><a href="#pointcloud">Point cloud</a></li>
      	<li style="text-align: left;"><a href="/wordpress/userguide2/examples/geometry">Geometry</a></li>
     </ol>
     </li>
@@ -24,7 +24,7 @@ panels_data:
      	<li style="text-align: left;">Workflow</li>
      	<li style="text-align: left;">Visualization tools</li>
      	<li style="text-align: left;">Software/backend</li>
-    </ol>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"576b4c626e8f5";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"4a98973e-09c0-48a2-923d-fcbc887ca755";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:3;a:4:{s:5:"title";s:0:"";s:4:"text";s:57:"Overview of the workflow, examples, datatypes, pipelines.";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:3;s:9:"widget_id";s:36:"8458d952-2849-47ac-8244-b11bcc3949d1";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:4;a:6:{s:5:"title";s:0:"";s:4:"text";s:384:"<p>The Data Arena Virtual machine comes with examples of how you can visualize your data. Below is a list of examples that you can edit to create your own visualisation. If you have not had a look already, it's a good idea to head on over to our Quickstart guide to have a look through the demos and examples to give you a better idea of how you might like to visualize your data.</p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83cfd238b6";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:4;s:9:"widget_id";s:36:"67190ef7-484a-454d-b568-a9a1e949445a";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:5;a:6:{s:5:"title";s:0:"";s:4:"text";s:275:"<h2 style="text-align: center;"><a href="#spreadsheet">Spreadsheet</a></h2>
+    </ol>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"576b4c626e8f5";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"4a98973e-09c0-48a2-923d-fcbc887ca755";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:3;a:4:{s:5:"title";s:0:"";s:4:"text";s:57:"Overview of the workflow, examples, datatypes, pipelines.";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:3;s:9:"widget_id";s:36:"8458d952-2849-47ac-8244-b11bcc3949d1";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:4;a:6:{s:5:"title";s:0:"";s:4:"text";s:384:"<p>The Data Arena Virtual machine comes with examples of how you can visualize your data. Below is a list of examples that you can edit to create your own visualisation. If you have not had a look already, it's a good idea to head on over to our Quickstart guide to have a look through the demos and examples to give you a better idea of how you might like to visualize your data.</p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83cfd238b6";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:4;s:9:"widget_id";s:36:"67190ef7-484a-454d-b568-a9a1e949445a";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:5;a:6:{s:5:"title";s:0:"";s:4:"text";s:275:"<h2 style="text-align: center;"><a href="#spreadsheet">Spreadsheet</a></h2>
     <h4 style="text-align: center;">D3</h4>
     <ul>
      	<li style="text-align: center;"><strong>Parallel Coordinates </strong></li>
@@ -35,16 +35,18 @@ panels_data:
     <li style="text-align: center;"><strong>HSDH</strong></li>
      	<li style="text-align: center;"><strong>Nasa</strong></li>
      	<li style="text-align: center;"><strong>Bacteria</strong></li>
-    ";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83de10e093";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:1;s:2:"id";i:7;s:9:"widget_id";s:36:"22672c76-d051-4809-b999-a48c7cb7806f";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:8;a:6:{s:5:"title";s:0:"";s:4:"text";s:249:"<h2 style="text-align: center;">Point cloud</h2>
+    ";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83de10e093";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:1;s:2:"id";i:7;s:9:"widget_id";s:36:"22672c76-d051-4809-b999-a48c7cb7806f";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:8;a:6:{s:5:"title";s:0:"";s:4:"text";s:276:"<h2 style="text-align: center;"><a href="#pointcloud">Point cloud</a></h2>
+    
     <h4 style="text-align: center;">houdini</h4>
     <ul>
      	<li style="text-align: center;"><strong>Wombeyan Caves</strong></li>
      	<li style="text-align: center;"><strong>Sydney Water Pipe</strong></li>
-    </ul>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83df7838d2";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:2;s:2:"id";i:8;s:9:"widget_id";s:36:"053ab3f3-5f9f-4f9d-a0f5-ff36071409d9";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:9;a:6:{s:5:"title";s:0:"";s:4:"text";s:197:"<h2 style="text-align: center;">Geometry</h2>
+    </ul>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83df7838d2";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:2;s:4:"cell";i:2;s:2:"id";i:8;s:9:"widget_id";s:36:"053ab3f3-5f9f-4f9d-a0f5-ff36071409d9";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:9;a:6:{s:5:"title";s:0:"";s:4:"text";s:222:"<h2 style="text-align: center;"><a href="#geometry">Geometry</a></h2>
     <ul>
+    
      	<li style="text-align: center;"><strong>Load Cube </strong></li>
      	<li style="text-align: center;"><strong>Fashion Turntable</strong></li>
-    </ul>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83e38290af";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:3;s:2:"id";i:9;s:9:"widget_id";s:36:"93dacf58-f4bc-4aed-982c-94e868aa2bda";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:10;a:6:{s:5:"title";s:0:"";s:4:"text";s:46:"<h4 style="text-align: center;">Equalizer</h4>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";s:2:"on";s:12:"_sow_form_id";s:13:"57a83df75eeee";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:3;s:2:"id";i:10;s:9:"widget_id";s:36:"d540f0bb-9cc2-4e37-9753-96cdc797e565";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:11;a:6:{s:5:"title";s:0:"";s:4:"text";s:95:"<h2 style="text-align: left;"><a name="spreadsheet">Spreadsheet</a></h2>
+    </ul>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83e38290af";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:2;s:4:"cell";i:3;s:2:"id";i:9;s:9:"widget_id";s:36:"93dacf58-f4bc-4aed-982c-94e868aa2bda";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:10;a:6:{s:5:"title";s:0:"";s:4:"text";s:46:"<h4 style="text-align: center;">Equalizer</h4>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";s:2:"on";s:12:"_sow_form_id";s:13:"57a83df75eeee";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:3;s:2:"id";i:10;s:9:"widget_id";s:36:"d540f0bb-9cc2-4e37-9753-96cdc797e565";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:11;a:6:{s:5:"title";s:0:"";s:4:"text";s:95:"<h2 style="text-align: left;"><a name="spreadsheet">Spreadsheet</a></h2>
     
     <hr />
     
@@ -209,8 +211,8 @@ panels_data:
      
     <h3>3</h3>  Enter <code> :q </code> to quick the demo
     
-    ";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:29;s:4:"cell";i:1;s:2:"id";i:51;s:9:"widget_id";s:36:"54851dee-99e3-4a0e-adda-373a231fe652";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:52;a:5:{s:5:"title";s:0:"";s:4:"text";s:89:"<h4 style="text-align: left;">How to load your data into this example</h4><hr /><p> </p>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:30;s:4:"cell";i:1;s:2:"id";i:52;s:9:"widget_id";s:36:"1febe412-f682-4b6a-bb55-05ed01874cca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:53;a:6:{s:5:"title";s:0:"";s:4:"text";s:69:"<h4 style="text-align: left;">How to connect x...</h4><hr /><p> </p>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a92b5374838";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:31;s:4:"cell";i:1;s:2:"id";i:53;s:9:"widget_id";s:36:"1febe412-f682-4b6a-bb55-05ed01874cca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:54;a:6:{s:5:"title";s:0:"";s:4:"text";s:157:"
-    <h2 style="text-align: left;">Point Cloud</h2>
+    ";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:29;s:4:"cell";i:1;s:2:"id";i:51;s:9:"widget_id";s:36:"54851dee-99e3-4a0e-adda-373a231fe652";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:52;a:5:{s:5:"title";s:0:"";s:4:"text";s:89:"<h4 style="text-align: left;">How to load your data into this example</h4><hr /><p> </p>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:30;s:4:"cell";i:1;s:2:"id";i:52;s:9:"widget_id";s:36:"1febe412-f682-4b6a-bb55-05ed01874cca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:53;a:6:{s:5:"title";s:0:"";s:4:"text";s:69:"<h4 style="text-align: left;">How to connect x...</h4><hr /><p> </p>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a92b5374838";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:31;s:4:"cell";i:1;s:2:"id";i:53;s:9:"widget_id";s:36:"1febe412-f682-4b6a-bb55-05ed01874cca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:54;a:6:{s:5:"title";s:0:"";s:4:"text";s:183:"<h2 style="text-align: left;"><a name="pointcloud">Point Cloud</a> </h2>
+    
     <h3 style="text-align: left;"></h3>
     
     <hr />
@@ -276,7 +278,13 @@ panels_data:
      
     <h3>3</h3>  Enter <code> :q </code> to quick the demo
     
-    ";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:40;s:4:"cell";i:1;s:2:"id";i:67;s:9:"widget_id";s:36:"54851dee-99e3-4a0e-adda-373a231fe652";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:68;a:5:{s:5:"title";s:0:"";s:4:"text";s:89:"<h4 style="text-align: left;">How to load your data into this example</h4><hr /><p> </p>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:41;s:4:"cell";i:1;s:2:"id";i:68;s:9:"widget_id";s:36:"1febe412-f682-4b6a-bb55-05ed01874cca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:69;a:5:{s:5:"title";s:0:"";s:4:"text";s:89:"<h4 style="text-align: left;">How to load your data into this example</h4><hr /><p> </p>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:42;s:4:"cell";i:1;s:2:"id";i:69;s:9:"widget_id";s:36:"1febe412-f682-4b6a-bb55-05ed01874cca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:70;a:6:{s:5:"title";s:0:"";s:4:"text";s:69:"<h4 style="text-align: left;">How to connect x...</h4><hr /><p> </p>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a92b5374838";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:43;s:4:"cell";i:1;s:2:"id";i:70;s:9:"widget_id";s:36:"1febe412-f682-4b6a-bb55-05ed01874cca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:71;a:5:{s:5:"title";s:0:"";s:4:"text";s:68:"<h2 style="text-align: left;">Geometry</h2><hr /><h3>Category 1</h3>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:44;s:4:"cell";i:1;s:2:"id";i:71;s:9:"widget_id";s:36:"1febe412-f682-4b6a-bb55-05ed01874cca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:72;a:6:{s:5:"title";s:0:"";s:4:"text";s:44:"<h4 style="text-align: left;">Load box </h4>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a95594b08a1";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:44;s:4:"cell";i:1;s:2:"id";i:72;s:9:"widget_id";s:36:"1febe412-f682-4b6a-bb55-05ed01874cca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:73;a:13:{s:5:"image";i:984;s:14:"image_fallback";s:0:"";s:4:"size";s:5:"large";s:5:"align";s:7:"default";s:5:"title";s:16:"Photo of pipline";s:14:"title_position";s:6:"hidden";s:3:"alt";s:0:"";s:3:"url";s:0:"";s:12:"_sow_form_id";s:13:"576b62d946865";s:10:"new_window";b:0;s:5:"bound";b:0;s:10:"full_width";b:0;s:11:"panels_info";a:7:{s:5:"class";s:30:"SiteOrigin_Widget_Image_Widget";s:3:"raw";b:0;s:4:"grid";i:45;s:4:"cell";i:1;s:2:"id";i:73;s:9:"widget_id";s:36:"09ee1a72-2e0d-4e23-8d1a-a4d8946c4a10";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:74;a:4:{s:5:"title";s:0:"";s:4:"text";s:345:"<h4>Load Box Example </h4>
+    ";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:40;s:4:"cell";i:1;s:2:"id";i:67;s:9:"widget_id";s:36:"54851dee-99e3-4a0e-adda-373a231fe652";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:68;a:5:{s:5:"title";s:0:"";s:4:"text";s:89:"<h4 style="text-align: left;">How to load your data into this example</h4><hr /><p> </p>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:41;s:4:"cell";i:1;s:2:"id";i:68;s:9:"widget_id";s:36:"1febe412-f682-4b6a-bb55-05ed01874cca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:69;a:5:{s:5:"title";s:0:"";s:4:"text";s:89:"<h4 style="text-align: left;">How to load your data into this example</h4><hr /><p> </p>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:42;s:4:"cell";i:1;s:2:"id";i:69;s:9:"widget_id";s:36:"1febe412-f682-4b6a-bb55-05ed01874cca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:70;a:6:{s:5:"title";s:0:"";s:4:"text";s:69:"<h4 style="text-align: left;">How to connect x...</h4><hr /><p> </p>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a92b5374838";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:43;s:4:"cell";i:1;s:2:"id";i:70;s:9:"widget_id";s:36:"1febe412-f682-4b6a-bb55-05ed01874cca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:71;a:6:{s:5:"title";s:0:"";s:4:"text";s:97:"
+    <a name="geometry"></a>
+    <h2 style="text-align: left;">Geometry</h2>
+    
+    <hr />
+    
+    <h3>Category 1</h3>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a95bf2a54ae";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:44;s:4:"cell";i:1;s:2:"id";i:71;s:9:"widget_id";s:36:"1febe412-f682-4b6a-bb55-05ed01874cca";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:72;a:6:{s:5:"title";s:0:"";s:4:"text";s:44:"<h4 style="text-align: left;">Load box </h4>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a95594b08a1";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:44;s:4:"cell";i:1;s:2:"id";i:72;s:9:"widget_id";s:36:"1febe412-f682-4b6a-bb55-05ed01874cca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:73;a:13:{s:5:"image";i:984;s:14:"image_fallback";s:0:"";s:4:"size";s:5:"large";s:5:"align";s:7:"default";s:5:"title";s:16:"Photo of pipline";s:14:"title_position";s:6:"hidden";s:3:"alt";s:0:"";s:3:"url";s:0:"";s:12:"_sow_form_id";s:13:"576b62d946865";s:10:"new_window";b:0;s:5:"bound";b:0;s:10:"full_width";b:0;s:11:"panels_info";a:7:{s:5:"class";s:30:"SiteOrigin_Widget_Image_Widget";s:3:"raw";b:0;s:4:"grid";i:45;s:4:"cell";i:1;s:2:"id";i:73;s:9:"widget_id";s:36:"09ee1a72-2e0d-4e23-8d1a-a4d8946c4a10";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:74;a:4:{s:5:"title";s:0:"";s:4:"text";s:345:"<h4>Load Box Example </h4>
     <p> </p>
     <p> </p>
     <p> </p>
@@ -355,7 +363,7 @@ panels_data:
 <li style="text-align: left;"><a href="/wordpress/userguide2/examples/"><strong> Examples</strong></a>
 <ol>
 <li style="text-align: left;"><a href="#spreadsheet">Spreadsheet</a></li>
-<li style="text-align: left;"><a href="/wordpress/userguide2/examples/pointcloud">Point cloud</a></li>
+<li style="text-align: left;"><a href="#pointcloud">Point cloud</a></li>
 <li style="text-align: left;"><a href="/wordpress/userguide2/examples/geometry">Geometry</a></li>
 </ol>
 </li>
@@ -380,16 +388,16 @@ Overview of the workflow, examples, datatypes, pipelines.
 <li style="text-align: center;"><strong>HSDH</strong></li>
 <li style="text-align: center;"><strong>Nasa</strong></li>
 <li style="text-align: center;"><strong>Bacteria</strong></li>
-<h2 style="text-align: center;">Point cloud</h2>
+<h2 style="text-align: center;"><a href="#pointcloud">Point cloud</a></h2>
 <h4 style="text-align: center;">houdini</h4>
 <ul>
 <li style="text-align: center;"><strong>Wombeyan Caves</strong></li>
 <li style="text-align: center;"><strong>Sydney Water Pipe</strong></li>
 </ul>
-<h2 style="text-align: center;">Geometry</h2>
+<h2 style="text-align: center;"><a href="#geometry">Geometry</a></h2>
 <ul>
-<li style="text-align: center;"><a href="/wordpress/data-type/geometry/load-box01/"><strong>Load Cube </strong></a></li>
-<li style="text-align: center;"><a href="/wordpress/data-type/geometry/fashion-turntable/"><strong>Fashion Turntable</strong></a></li>
+<li style="text-align: center;"><strong>Load Cube </strong></li>
+<li style="text-align: center;"><strong>Fashion Turntable</strong></li>
 </ul>
 <h4 style="text-align: center;">Equalizer</h4>
 &nbsp;&nbsp;
@@ -679,7 +687,7 @@ orun LoadDemoName.py
 <h4 style="text-align: left;">How to connect x...</h4>
 <hr>&nbsp;<p></p>
 &nbsp;&nbsp;&nbsp;
-<h2 style="text-align: left;">Point Cloud</h2>
+<h2 style="text-align: left;"><a name="pointcloud">Point Cloud</a> </h2>
 <h3 style="text-align: left;"></h3>
 <hr>
 <h4 style="text-align: left;">3D Point Cloud Wombeyan Caves</h4>
@@ -807,6 +815,7 @@ orun LoadPipe.py
 <h4 style="text-align: left;">How to connect x...</h4>
 <hr>&nbsp;<p></p>
 &nbsp;&nbsp;&nbsp;
+<p><a name="geometry"></a></p>
 <h2 style="text-align: left;">Geometry</h2>
 <hr>
 <h3>Category 1</h3>
