@@ -10,7 +10,17 @@ permalink: >
 published: true
 panels_data:
   - |
-    a:3:{s:7:"widgets";a:5:{i:0;a:6:{s:5:"title";s:0:"";s:4:"text";s:46:"<h3 style="text-align: center;">Userguide</h3>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"578723843cea2";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"1ea35202-0ffb-4952-88db-1380842ca3f4";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:1;a:5:{s:8:"headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:4:"left";s:24:"so_field_container_state";s:4:"open";}s:12:"sub_headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:6:"center";s:24:"so_field_container_state";s:4:"open";}s:7:"divider";a:8:{s:5:"style";s:5:"solid";s:6:"weight";s:4:"thin";s:5:"color";b:0;s:11:"side_margin";s:4:"20px";s:16:"side_margin_unit";s:2:"px";s:10:"top_margin";s:4:"20px";s:15:"top_margin_unit";s:2:"px";s:24:"so_field_container_state";s:4:"open";}s:12:"_sow_form_id";s:13:"57871dc1b3fe7";s:11:"panels_info";a:7:{s:5:"class";s:33:"SiteOrigin_Widget_Headline_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"42c24578-cfd7-4dd5-8d52-e5b5178da0b8";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:780:"<h4>User Guide</h4><ol><li style="text-align: left;"><a href="/wordpress/2userguide/"> User Guide </a></li><li style="text-align: left;"><a href="/wordpress/2userguide/overview/"> Overview </a></li><li style="text-align: left;"><a href="/wordpress/2userguide/quickstart/"><strong> Quickstart</strong></a></li><li style="text-align: left;"><a href="/wordpress/2userguide/examples/"><strong> Examples</strong></a></li><li style="text-align: left;"><a href="/wordpress/2userguide/pipelines/"><strong> Pipelines</strong></a></li><li style="text-align: left;"><a href="/wordpress/2userguide/visualizationtools/"><strong> Visualization Tools</strong></a></li><li style="text-align: left;"><a href="/wordpress/2userguide/softwarebackend/"><strong> Software/Backend</strong></a></li></ol>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"576b4c626e8f5";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"4a98973e-09c0-48a2-923d-fcbc887ca755";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:3;a:6:{s:5:"title";s:0:"";s:4:"text";s:1159:"<p>This page gives an idea of the Data Arena pipelines and how we use them to easily create data visualizations.</p>
+    a:3:{s:7:"widgets";a:5:{i:0;a:6:{s:5:"title";s:0:"";s:4:"text";s:46:"<h3 style="text-align: center;">Userguide</h3>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"578723843cea2";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"1ea35202-0ffb-4952-88db-1380842ca3f4";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:1;a:5:{s:8:"headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:4:"left";s:24:"so_field_container_state";s:4:"open";}s:12:"sub_headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:6:"center";s:24:"so_field_container_state";s:4:"open";}s:7:"divider";a:8:{s:5:"style";s:5:"solid";s:6:"weight";s:4:"thin";s:5:"color";b:0;s:11:"side_margin";s:4:"20px";s:16:"side_margin_unit";s:2:"px";s:10:"top_margin";s:4:"20px";s:15:"top_margin_unit";s:2:"px";s:24:"so_field_container_state";s:4:"open";}s:12:"_sow_form_id";s:13:"57871dc1b3fe7";s:11:"panels_info";a:7:{s:5:"class";s:33:"SiteOrigin_Widget_Headline_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"42c24578-cfd7-4dd5-8d52-e5b5178da0b8";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:910:"<h4>User Guide</h4>
+    <ol>
+     	<li style="text-align: left;"><a href="/wordpress/2userguide/"> User Guide </a></li>
+     	<li style="text-align: left;"><a href="/wordpress/2userguide/overview/"> Overview </a></li>
+     	<li style="text-align: left;"><a href="/wordpress/2userguide/quickstart/"><strong> Quickstart</strong></a></li>
+     	<li style="text-align: left;"><a href="/wordpress/2userguide/examples/"><strong> Examples</strong></a></li>
+     	<li style="text-align: left;"><a href="/wordpress/2userguide/pipelines/"><strong> Pipelines</strong></a></li>
+            <li style="text-align: left;"><a href="/wordpress/2userguide/data/"><strong>Data</strong></a></li>
+     	<li style="text-align: left;"><a href="/wordpress/2userguide/visualizationtools/"><strong> Visualization Tools</strong></a></li>
+     	<li style="text-align: left;"><a href="/wordpress/2userguide/softwarebackend/"><strong> Software/Backend</strong></a></li>
+    </ol>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"576b4c626e8f5";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"4a98973e-09c0-48a2-923d-fcbc887ca755";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:3;a:6:{s:5:"title";s:0:"";s:4:"text";s:1159:"<p>This page gives an idea of the Data Arena pipelines and how we use them to easily create data visualizations.</p>
     <h5>&nbsp;</h5>
     <h5>&nbsp;What is a pipeline?</h5>
     <p>A pipeline is a semi-automated workflow to build a visualization for a category of data.<br />
@@ -32,34 +42,35 @@ panels_data:
 <h3 style="text-align: center;">Userguide</h3>
 <h4>User Guide</h4>
 <ol>
-<li style="text-align: left;"><a href="/wordpress/2userguide/"> User Guide </a></li>
-<li style="text-align: left;"><a href="/wordpress/2userguide/overview/"> Overview </a></li>
-<li style="text-align: left;"><a href="/wordpress/2userguide/quickstart/"><strong> Quickstart</strong></a></li>
-<li style="text-align: left;"><a href="/wordpress/2userguide/examples/"><strong> Examples</strong></a></li>
-<li style="text-align: left;"><a href="/wordpress/2userguide/pipelines/"><strong> Pipelines</strong></a></li>
-<li style="text-align: left;"><a href="/wordpress/2userguide/visualizationtools/"><strong> Visualization Tools</strong></a></li>
-<li style="text-align: left;"><a href="/wordpress/2userguide/softwarebackend/"><strong> Software/Backend</strong></a></li>
+ 	<li style="text-align: left;"><a href="/wordpress/2userguide/"> User Guide </a></li>
+ 	<li style="text-align: left;"><a href="/wordpress/2userguide/overview/"> Overview </a></li>
+ 	<li style="text-align: left;"><a href="/wordpress/2userguide/quickstart/"><strong> Quickstart</strong></a></li>
+ 	<li style="text-align: left;"><a href="/wordpress/2userguide/examples/"><strong> Examples</strong></a></li>
+ 	<li style="text-align: left;"><a href="/wordpress/2userguide/pipelines/"><strong> Pipelines</strong></a></li>
+ 	<li style="text-align: left;"><a href="/wordpress/2userguide/visualizationtools/"><strong> Visualization Tools</strong></a></li>
+ 	<li style="text-align: left;"><a href="/wordpress/2userguide/softwarebackend/"><strong> Software/Backend</strong></a></li>
 </ol>
-<p>This page gives an idea of the Data Arena pipelines and how we use them to easily create data visualizations.</p>
-<h5>&nbsp;</h5>
-<h5>&nbsp;What is a pipeline?</h5>
-<p>A pipeline is a semi-automated workflow to build a visualization for a category of data.</p>
-<p>There are restrictions for the input data of each pipeline and a defined type of visualization as output.</p>
-<p>Some parameters, such as coloring and size of the visualization can be changed.</p>
-<h5>&nbsp;</h5>
+This page gives an idea of the Data Arena pipelines and how we use them to easily create data visualizations.
+<h5></h5>
+<h5> What is a pipeline?</h5>
+A pipeline is a semi-automated workflow to build a visualization for a category of data.
+
+There are restrictions for the input data of each pipeline and a defined type of visualization as output.
+
+Some parameters, such as coloring and size of the visualization can be changed.
+<h5></h5>
 <h5><strong>What pipelines are available?</strong></h5>
-<p>Currently, we provide the piplines in the [Quickstart]({filename}quickstart.md).</p>
-<h5>&nbsp;</h5>
+Currently, we provide the piplines in the [Quickstart]({filename}quickstart.md).
+<h5></h5>
 <h5><strong>How do I use a pipeline?</strong></h5>
-<p>If your data is compliant with one of the pipelines, you can use one of the examples in `/local/examples`.</p>
-<p>Copy the `LoadX.py` and adjust the parameters and start the visualization with `orun LoadYOURDATA.py`.</p>
-<h5>&nbsp;</h5>
+If your data is compliant with one of the pipelines, you can use one of the examples in `/local/examples`.
+
+Copy the `LoadX.py` and adjust the parameters and start the visualization with `orun LoadYOURDATA.py`.
+<h5></h5>
 <h5>How can I share my pipeline changes?</h5>
-<p>In order to create more pipelines for different data or visualizations, we encourage you to contribute your results to our public [repository](https://github.com/UTSDataArena).</p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span class="sow-icon-fontawesome" data-sow-icon="" style="font-size: 24px; color: #3d3d3d"></span>			
-<p class="sow-more-text">
-Previous 											</p>
-<span class="sow-icon-fontawesome" data-sow-icon="" style="font-size: 24px; color: #3d3d3d"></span>			
-<p class="sow-more-text">
-Next 											</p>
+In order to create more pipelines for different data or visualizations, we encourage you to contribute your results to our public [repository](https://github.com/UTSDataArena).
+
+&nbsp;
+<p class="sow-more-text">Previous</p>
+&nbsp;
+<p class="sow-more-text">Next</p>
