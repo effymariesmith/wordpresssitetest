@@ -31,12 +31,11 @@ panels_data:
 <h4>3D Geometry</h4>
 <h6>To suit our pipeline export your geometry as .OBJ or .PLY format, which is easier to process.</h6>
 <h4>.OBJ</h4>
-<p>More information on .obj (Link to more info)</p>
+More information on .obj (Link to more info)
 <h4>.PLY</h4>
-<p>More information on .ply (Link to more info)</p>
+More information on .ply (Link to more info)
 <h4>Examples for .OBJ .PLY format</h4>
-<ol> <h4>
-<li style="text-align: left;"><a href="/wordpress/data-type/geometry/load-box01/"><strong>Load Cube </strong></a></li>
-<li style="text-align: left;"><a href="/wordpress/data-type/geometry/fashion-turntable/"><strong>Fashion Turntable</strong></a></li>
-</h4>
-</ol>
+<ul>
+ 	<li style="text-align: left;"><a href="/wordpress/data-type/geometry/load-box01/"><strong>Load Cube </strong></a></li>
+ 	<li style="text-align: left;"><a href="/wordpress/data-type/geometry/fashion-turntable/"><strong>Fashion Turntable</strong></a></li>
+</ul>
