@@ -24,29 +24,13 @@ panels_data:
      	<li style="text-align: left;">Workflow</li>
      	<li style="text-align: left;">Visualization tools</li>
      	<li style="text-align: left;">Software/backend</li>
-    </ol>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"576b4c626e8f5";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"4a98973e-09c0-48a2-923d-fcbc887ca755";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:3;a:4:{s:5:"title";s:0:"";s:4:"text";s:0:"";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:3;s:9:"widget_id";s:36:"8458d952-2849-47ac-8244-b11bcc3949d1";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:4;a:6:{s:5:"title";s:0:"";s:4:"text";s:292:"<p>The Data Arena Virtual Machine comes with examples of how you can visualize your data.</p><p> Head on over to the Quickstart guide to look through the examples and projects they were used for or continue reading to learn how you can edit the examples to create your own visualisations</p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a96d10666df";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:4;s:9:"widget_id";s:36:"67190ef7-484a-454d-b568-a9a1e949445a";s:5:"style";a:2:{s:7:"padding";s:4:"20px";s:18:"background_display";s:4:"tile";}}}i:5;a:6:{s:5:"title";s:0:"";s:4:"text";s:309:"<h2 style="text-align: center;"><a href="#spreadsheet">Spreadsheet</a></h2>
-    <h4 style="text-align: center;"><a href="#spreadsheetd3">D3</a></h4>
-    <ul>
-     	<li style="text-align: center;"><strong><a href="#parallelcoordinates">Parallel Coordinates</a>  </strong></li>
-     	<li style="text-align: center;"></li>
-    </ul>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83dda464d9";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:1;s:2:"id";i:5;s:9:"widget_id";s:36:"2cf7fdb9-b5c7-4ffc-90fe-77796441613f";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:6;a:6:{s:5:"title";s:0:"";s:4:"text";s:249:"<h4 style="text-align: center;"><a href="#spreadsheetgoogle">Google</a> </h4>
+    </ol>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"576b4c626e8f5";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"4a98973e-09c0-48a2-923d-fcbc887ca755";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:3;a:4:{s:5:"title";s:0:"";s:4:"text";s:0:"";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:3;s:9:"widget_id";s:36:"8458d952-2849-47ac-8244-b11bcc3949d1";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:4;a:6:{s:5:"title";s:0:"";s:4:"text";s:292:"<p>The Data Arena Virtual Machine comes with examples of how you can visualize your data.</p><p> Head on over to the Quickstart guide to look through the examples and projects they were used for or continue reading to learn how you can edit the examples to create your own visualisations</p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a96d10666df";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:4;s:9:"widget_id";s:36:"67190ef7-484a-454d-b568-a9a1e949445a";s:5:"style";a:2:{s:7:"padding";s:4:"20px";s:18:"background_display";s:4:"tile";}}}i:5;a:6:{s:5:"title";s:0:"";s:4:"text";s:305:"<h3 style="text-align: center;"><a href="#spreadsheet">Spreadsheet</a></h3><hr /><h4 style="text-align: center;"><a href="#spreadsheetd3">D3</a></h4><ul><li style="text-align: center;"><strong><a href="#parallelcoordinates">Parallel Coordinates</a> </strong></li><li style="text-align: center;"></li></ul>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83dda464d9";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:2;s:4:"cell";i:1;s:2:"id";i:5;s:9:"widget_id";s:36:"2cf7fdb9-b5c7-4ffc-90fe-77796441613f";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:6;a:6:{s:5:"title";s:0:"";s:4:"text";s:249:"<h4 style="text-align: center;"><a href="#spreadsheetgoogle">Google</a> </h4>
     <p style="text-align: center;"><a href="#spreadsheetgooglemaps">Google Maps</a></p>
     <p style="text-align: center;"><a href="#spreadsheetgoogleearth">Google Earth</a></p>
      ";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a921bf54872";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:1;s:2:"id";i:6;s:9:"widget_id";s:36:"93dacf58-f4bc-4aed-982c-94e868aa2bda";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:7;a:6:{s:5:"title";s:0:"";s:4:"text";s:265:"<h4 style="text-align: center;"><a href="#spreadsheethoudini">Houdini</a></h4>
     <p style="text-align: center;"><a href="#3dmetaball"><strong>3D Metaball/HSDH</strong></a>
     <a href="#nasa"><strong>Nasa</strong></a>
-    <a href="#bacteria"><strong>Bacteria</strong></a></p>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83de10e093";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:1;s:2:"id";i:7;s:9:"widget_id";s:36:"22672c76-d051-4809-b999-a48c7cb7806f";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:8;a:6:{s:5:"title";s:0:"";s:4:"text";s:357:"<h2 style="text-align: center;"><a href="#pointcloud">Point cloud</a></h2>
-    <h4 style="text-align: center;"><a href="#pointcloudhoudini">Houdini</a></h4>
-    <ul>
-     	<li style="text-align: center;"><a href="#caves"> <strong>Wombeyan Caves</strong></a></li>
-     	<li style="text-align: center;"><a href="#waterpipe"><strong> Sydney Water Pipe</strong></a> </li>
-    </ul>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83df7838d2";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:2;s:2:"id";i:8;s:9:"widget_id";s:36:"053ab3f3-5f9f-4f9d-a0f5-ff36071409d9";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:9;a:6:{s:5:"title";s:0:"";s:4:"text";s:281:"<h2 style="text-align: center;"><a href="#geometry">Geometry</a></h2>
-    <ul>
-    
-     	<li style="text-align: center;"><a href="#loadcube"><strong>Load Cube </strong></a> </li>
-     	<li style="text-align: center;"><a href="#fashionturntable"><strong>Fashion Turntable</strong></a> </li>
-    </ul>
-    ";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83e38290af";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:3;s:2:"id";i:9;s:9:"widget_id";s:36:"93dacf58-f4bc-4aed-982c-94e868aa2bda";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:10;a:6:{s:5:"title";s:0:"";s:4:"text";s:0:"";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83df75eeee";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:3;s:2:"id";i:10;s:9:"widget_id";s:36:"d540f0bb-9cc2-4e37-9753-96cdc797e565";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:11;a:6:{s:5:"title";s:0:"";s:4:"text";s:121:"<h2 style="text-align: left;"><a name="spreadsheet">Spreadsheet</a></h2>
+    <a href="#bacteria"><strong>Bacteria</strong></a></p>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83de10e093";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:1;s:2:"id";i:7;s:9:"widget_id";s:36:"22672c76-d051-4809-b999-a48c7cb7806f";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:8;a:6:{s:5:"title";s:0:"";s:4:"text";s:353:"<h3 style="text-align: center;"><a href="#pointcloud">Point cloud</a></h3><hr /><h4 style="text-align: center;"><a href="#pointcloudhoudini">Houdini</a></h4><ul><li style="text-align: center;"><a href="#caves"> <strong>Wombeyan Caves</strong></a></li><li style="text-align: center;"><a href="#waterpipe"><strong> Sydney Water Pipe</strong></a></li></ul>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83df7838d2";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:2;s:4:"cell";i:2;s:2:"id";i:8;s:9:"widget_id";s:36:"053ab3f3-5f9f-4f9d-a0f5-ff36071409d9";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:9;a:6:{s:5:"title";s:0:"";s:4:"text";s:275:"<h3 style="text-align: center;"><a href="#geometry">Geometry</a></h3><hr /><ul><li style="text-align: center;"><a href="#loadcube"><strong>Load Cube </strong></a></li><li style="text-align: center;"><a href="#fashionturntable"><strong>Fashion Turntable</strong></a></li></ul>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83e38290af";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:2;s:4:"cell";i:3;s:2:"id";i:9;s:9:"widget_id";s:36:"93dacf58-f4bc-4aed-982c-94e868aa2bda";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:10;a:6:{s:5:"title";s:0:"";s:4:"text";s:0:"";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57a83df75eeee";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:3;s:2:"id";i:10;s:9:"widget_id";s:36:"d540f0bb-9cc2-4e37-9753-96cdc797e565";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:11;a:6:{s:5:"title";s:0:"";s:4:"text";s:121:"<h2 style="text-align: left;"><a name="spreadsheet">Spreadsheet</a></h2>
     
     <hr />
     
@@ -406,10 +390,11 @@ panels_data:
 <p>The Data Arena Virtual Machine comes with examples of how you can visualize your data.</p>
 <p>&nbsp;Head on over to the Quickstart guide to look through the examples and projects they were used for or continue reading to learn how you can edit the examples to create your own visualisations</p>
 &nbsp;&nbsp;
-<h2 style="text-align: center;"><a href="#spreadsheet">Spreadsheet</a></h2>
+<h3 style="text-align: center;"><a href="#spreadsheet">Spreadsheet</a></h3>
+<hr>
 <h4 style="text-align: center;"><a href="#spreadsheetd3">D3</a></h4>
 <ul>
-<li style="text-align: center;"><strong><a href="#parallelcoordinates">Parallel Coordinates</a>  </strong></li>
+<li style="text-align: center;"><strong><a href="#parallelcoordinates">Parallel Coordinates</a> </strong></li>
 <li style="text-align: center;"></li>
 </ul>
 <h4 style="text-align: center;"><a href="#spreadsheetgoogle">Google</a> </h4>
@@ -419,13 +404,14 @@ panels_data:
 <p style="text-align: center;"><a href="#3dmetaball"><strong>3D Metaball/HSDH</strong></a><br>
 <a href="#nasa"><strong>Nasa</strong></a><br>
 <a href="#bacteria"><strong>Bacteria</strong></a></p>
-<h2 style="text-align: center;"><a href="#pointcloud">Point cloud</a></h2>
+<h3 style="text-align: center;"><a href="#pointcloud">Point cloud</a></h3>
+<hr>
 <h4 style="text-align: center;"><a href="#pointcloudhoudini">Houdini</a></h4>
 <ul>
 <li style="text-align: center;"><a href="#caves"> <strong>Wombeyan Caves</strong></a></li>
-<li style="text-align: center;"><a href="#waterpipe"><strong> Sydney Water Pipe</strong></a> </li>
+<li style="text-align: center;"><a href="#waterpipe"><strong> Sydney Water Pipe</strong></a></li>
 </ul>
-<h2 style="text-align: center;"><a href="#geometry">Geometry</a></h2>
+<h3 style="text-align: center;"><a href="#geometry">Geometry</a></h3>
 <ul>
 <li style="text-align: center;"><a href="#loadcube"><strong>Load Cube </strong></a> </li>
 <li style="text-align: center;"><a href="#fashionturntable"><strong>Fashion Turntable</strong></a> </li>
