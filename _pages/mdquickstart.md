@@ -5,7 +5,7 @@ author: davm
 post_date: 2016-08-09 06:56:49
 post_excerpt: ""
 layout: page
-permalink: http://localhost/wordpress/1391-2/
+permalink: http://localhost/wordpress/mdquickstart/
 published: true
 ---
 [md]
