@@ -25,7 +25,7 @@ panels_data:
     <p> </p>
     <p> </p>
     <p> </p>
-     <h4>Run Parallel Coordinates<a href=""><strong> Demo</strong></a></h4>";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:1;s:2:"id";i:1;s:9:"widget_id";s:36:"fa9f1c94-74c1-4106-a290-9bcb34cde362";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:191:"<h2 style="text-align: left;">Use this example</h2><h5 style="text-align: left;"><br /> More infomation in the <a href="/wordpress/2userguide/examples#parallelcoordinates">User Guide</a></h5>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"578333ef770d6";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"1ea35202-0ffb-4952-88db-1380842ca3f4";s:5:"style";a:3:{s:7:"padding";s:3:"5px";s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:3;a:4:{s:5:"title";s:0:"";s:4:"text";s:799:"<h3>1 </h3><h8> Export your spreadsheet as CSV, include the column header and remove non numeric values. Data values can be numeric or categorical, then
+     <h4>Run Parallel Coordinates<a href=""><strong> Demo</strong></a></h4>";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:1;s:2:"id";i:1;s:9:"widget_id";s:36:"fa9f1c94-74c1-4106-a290-9bcb34cde362";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:191:"<h2 style="text-align: left;">Use this example</h2><h5 style="text-align: left;"><br /> More infomation in the <a href="/wordpress/2userguide/examples#parallelcoordinates">User Guide</a></h5>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"578333ef770d6";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"1ea35202-0ffb-4952-88db-1380842ca3f4";s:5:"style";a:2:{s:7:"padding";s:3:"5px";s:18:"background_display";s:4:"tile";}}}i:3;a:4:{s:5:"title";s:0:"";s:4:"text";s:799:"<h3>1 </h3><h8> Export your spreadsheet as CSV, include the column header and remove non numeric values. Data values can be numeric or categorical, then
      copy your .CSV file onto the DAVM(Data Arena Virtual Machine). (Ref LINK) </h8>
     
     <h3>2</h3> Using Dolphin or Konsole navigate too Root/local/examples/parallel and copy your .CSV file to this folder.
@@ -122,7 +122,6 @@ Open index.html with Firefox. Or copy this path into the firefox URL Bar file://
 <p style="text-align: center;">Is the path to your file.</p>
 <p style="text-align: center;"><strong>'../'</strong> Your current location/path</p>
 <p style="text-align: center;"><strong>your_file_name.csv</strong> Your file</p>
-<p style="text-align: center;"></p>
 
 <h6 style="text-align: center;">your group column name</h6>
 <p style="text-align: center;">Specifies what column will be coloured in the diagram.</p>
