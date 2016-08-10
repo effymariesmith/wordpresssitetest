@@ -18,7 +18,7 @@ panels_data:
             <li style="text-align: left;"><a href="/wordpress/tutorials/advancedomegalibosgapplications/"><strong>Advanced Omegalib/OSG Applications</strong></a></li>
     
     </ol>
-    ";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"576b4c626e8f5";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"4a98973e-09c0-48a2-923d-fcbc887ca755";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:3;a:6:{s:5:"title";s:0:"";s:4:"text";s:27339:"<h1>Advanced omegalib/osg applications</h1>
+    ";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"576b4c626e8f5";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"4a98973e-09c0-48a2-923d-fcbc887ca755";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:3;a:6:{s:5:"title";s:0:"";s:4:"text";s:27340:"<h1>Advanced omegalib/osg applications</h1>
     Building visualizations with cyclops in python can produce stunning results and provides tools for many use cases, however, there are certain applications which cannot be built with cyclops/python (without extending the cyclops c++ classes).
     The underlying framework OpenSceneGraph is a powerful general purpose computer graphics library, which omegalib/cyclops uses to render computer graphics distributed across multiple displays.
     Reasons for programming in osg/omegalib in c++ could be
@@ -93,10 +93,14 @@ panels_data:
         }
     }
     // attach any global state (shaders, lights, etc.) to this node
-    myOsg-&gt;setRootNode(node);</pre></code>
+    myOsg-&gt;setRootNode(node);
     }
-    <pre><code>Finally, the main methods creates a omegalib application, reads from the commandline and then executes the main omegalib loop.
-    ```c++
+    
+    </pre></code>
+    
+    Finally, the main methods creates a omegalib application, reads from the commandline and then executes the main omegalib loop.
+    <pre><code>
+    c++
     ///////////////////////////////////////////////////////////////////////////////
     // Application entry point
     int main(int argc, char** argv)
