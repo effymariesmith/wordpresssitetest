@@ -18,7 +18,7 @@ panels_data:
             <li style="text-align: left;"><a href="/wordpress/tutorials/advancedomegalibosgapplications/"><strong>Advanced Omegalib/OSG Applications</strong></a></li>
     
     </ol>
-    ";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"576b4c626e8f5";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"4a98973e-09c0-48a2-923d-fcbc887ca755";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:3;a:6:{s:5:"title";s:0:"";s:4:"text";s:27298:"<h1>Advanced omegalib/osg applications</h1>
+    ";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"576b4c626e8f5";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"4a98973e-09c0-48a2-923d-fcbc887ca755";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:3;a:6:{s:5:"title";s:0:"";s:4:"text";s:27339:"<h1>Advanced omegalib/osg applications</h1>
     Building visualizations with cyclops in python can produce stunning results and provides tools for many use cases, however, there are certain applications which cannot be built with cyclops/python (without extending the cyclops c++ classes).
     The underlying framework OpenSceneGraph is a powerful general purpose computer graphics library, which omegalib/cyclops uses to render computer graphics distributed across multiple displays.
     Reasons for programming in osg/omegalib in c++ could be
@@ -72,16 +72,19 @@ panels_data:
     private:
         omegaOsg::OsgModule* myOsg;
     };</code></pre>
+    
+    
     Our initialize method simply loads a node file from the disk, using a modelname passed in over the commandline.
     Omegalib initiliazes all its state in the module initiliaze traversal, whichs initializes equalizer, omgealib, omicron, etc.
     Make sure that any calls with references to omegalib objects are invoked in the initialize method at the earliest.
     
-    “`c++
+    
+    <code><pre>“`c++
     void MinimalExample::initialize()
     {
     // The node containing the scene
     osg::Node* node = NULL;
-    <pre><code>omega::String path;
+    omega::String path;
     if(omega::DataManager::findFile(sModelName, path)) {
         node = osgDB::readNodeFile(path);
         if (node == NULL) {
@@ -90,7 +93,7 @@ panels_data:
         }
     }
     // attach any global state (shaders, lights, etc.) to this node
-    myOsg-&gt;setRootNode(node);</code></pre>
+    myOsg-&gt;setRootNode(node);</pre></code>
     }
     <pre><code>Finally, the main methods creates a omegalib application, reads from the commandline and then executes the main omegalib loop.
     ```c++
@@ -101,22 +104,33 @@ panels_data:
         omega::Application&lt;MinimalExample&gt; app("minimalExample");
         omega::oargs().newNamedString(':', "model", "model", "The osg model to load", sModelName);
         return omega::omain(app, argc, argv);
-    }</code></pre>
+    }
+    </code></pre>
     
     <h3>Overriding omegalib file loaders</h3>
     Omegalib registers custom file loaders, which in some cases override the standard osg plugins. Sometimes, this can lead to unexpected behaviour: for example, the tga of omegalib does not implement the full tga standard and loading images with 24bpp, which loaded fine with the osgdb_tga plugin will not work anymore. To use a certain osg loader, you have two options: load data/textures/nodes before the omegalib <code>omain</code> call or manually remove loaders from registry. The first method is preferred if you only need to load files once and can do this before starting the actual application. If not, the second method provides a (little bit hacky) workaround.
     
+    
+    
     To remove a loader from the osgDB registry, first store the filepaths before running <code>omain</code>:
+    
+    <code><pre>
+    
     “`c++
     for (auto libPath : osgDB::Registry::instance()-&gt;getLibraryFilePathList ())
     {
     _storedLibPaths += libPath + ":";
     }
-    <pre><code>storedLibPaths should then contain the correct directories of plugins (the standard osg directories), you want to load.
+    </pre></code>
+    
+    storedLibPaths should then contain the correct directories of plugins (the standard osg directories), you want to load.
     When running omain, the omegaOsg initiliaze method will set the plugin library searchpath automatically to a directory containing the loaders you don't want to use.
     To revert this, reset the osgDB::Registry library search path to its original path. 
     Then, remove the reader writer which is giving troubles from the registry, this will cause a reload on invocation using the plugins in the correct path
-    ```c++
+    
+    <code><pre>
+    
+    c++
     // The omegaOsg instance() method initiliazes it and configures its libpaths, so it is safe 
     // to revert these libpaths in our initialize method
     MinimalExample::initialize(){
@@ -126,7 +140,9 @@ panels_data:
         osgDB::Registry::instance()-&gt;removeReaderWriter(
             osgDB::Registry::instance()-&gt;getReaderWriterForExtension("tga"));
     
-        // now you can load your tga files, and they will be correctly loaded by the osg loader plugin</code></pre>
+        // now you can load your tga files, and they will be correctly loaded by the osg loader plugin</pre></code>
+    
+    
     <h3>Debugging your application</h3>
     Debugging computer graphics application can be quite hard, as the errors can manifest themselves as visual artefacts or other errors, which are quite hard to trace down.
     Setting the notify and log level to debug can help tracking down many errors:
@@ -137,9 +153,10 @@ panels_data:
     
     When debugging an application over multiple nodes in equalizer, getting debug traces can be tricky. One way to get information about segfaults is to have a custom launcher script for children in the .cfg file and log the stack trace to a file:
     Set the nodelauncher in your .cfg file to a custom script:
-    <pre><code>nodeLauncher = "ssh -n %h startTroenSlave.sh %d %c"</code></pre>
+    
+    <pre><code>nodeLauncher = "ssh -n %h startTroenSlave.sh %d %c"
     startTroenSlave. sh:
-    <pre><code>D=$1
+    D=$1
     C=$2
     cd $D
     ... # set other environment variables
@@ -148,10 +165,12 @@ panels_data:
     # -r is for remote log
     gdb -x gdbcommand.txt --args  $C -r --log v  $*</code></pre>
     gdbcommand.txt:
-    <pre><code>set logging file gdb.txt
+    set logging file gdb.txt
     set logging on
     run
-    bt</code></pre>
+    bt
+    
+    
     <h3>Gotchas when using omegaOsg</h3>
     Although omegaOsg allows the usage of most osg concepts, some osg features do not work when used in omegalib
     <ul>
@@ -170,7 +189,8 @@ panels_data:
     
     An example for such a transformation is the updateCamera method of the nodetrackermanipulator, which orbits around a tracked node and sets the camera in every frame. The nodetrackermanipulator computes a center and rotation around the tracked node and when updating the camera, it uses the inverse of this transform to set its lookat:
     
-    “`c++
+    
+    <pre><code>“`c++
     void NodeTrackerManipulator::updateCamera(osg::Camera&amp; camera)
     {
     osg::Vec3d eye, center, up, unused;
@@ -178,9 +198,9 @@ panels_data:
     invMatrix.getLookAt(eye, center, up);
     camera.setViewMatrixAsLookAt(eye,center,up);
     }
-    <pre><code>The *omega::Camera* also has a lookat method, however, if you update the *omega::Camera* by using its lookat method, it will produce weird, incorrect rotations, which are a symptom of the wrong coordinate frame of the center vector: The coordinate frame of the calculated center vector is in the camera view space but should really be in the world space.
+    </code></pre>The *omega::Camera* also has a lookat method, however, if you update the *omega::Camera* by using its lookat method, it will produce weird, incorrect rotations, which are a symptom of the wrong coordinate frame of the center vector: The coordinate frame of the calculated center vector is in the camera view space but should really be in the world space.
     
-    ```c++
+    <pre><code>c++
     void NodeTrackerManipulator::updateOmegaCamera(omega::Camera *cam){
         osg::Vec3d eye, unused_center, up;
     
@@ -204,6 +224,7 @@ panels_data:
         cam-&gt;setPosition( OSGVEC3_OMEGA(eye) );
         cam-&gt;lookAt(oCenterVec, OSGVEC3_OMEGA(up) );     
     }</code></pre>
+    
     <h3>Executing pre-render cameras</h3>
     In osg, cameras can have different render orders: Pre-render, normal, and post-render.
     Pre-render cameras are often used, to render a certain effect into a texture, which are then used in the actual rendering of the scene. A common use case is rendering reflections on surfaces.
@@ -216,6 +237,7 @@ panels_data:
     
     In osg, the cull traverse decides what objects to render and what to cull away. The Cullvisitor actually computes the correct transformation of each node and pushes objects into the the draw stage, which is executed after the Cullvisitor has visited all nodes. Therefore, the CullCallback is the latest point, we can influence a nodes transform before it is rendered. However the cullcallback is executed after the node transforms have already been pushed into the render stage.If we would therefore execute the cullcallback directly on the camera, we would not see any positional change. We must therefore set the cullcallback on a node above the camera (we named it cameragroup) and then access its child:
     
+    <pre><code>
     “`c++
     class CUpdateCameraCallback : public osg::NodeCallback
     {
@@ -230,7 +252,7 @@ panels_data:
     osg::Camera <em>camera = dynamic_cast&lt;osg::Camera </em>&gt;(node-&gt;asGroup()-&gt;getChild(0));
     // The cullvisitor holds information about the current (main) camera
     osgUtil::CullVisitor<em> cv = static_cast&lt;osgUtil::CullVisitor</em>&gt;(nv);
-    <pre><code>        if (camera != NULL)
+           if (camera != NULL)
             {
                 // copy over the transforms of the main camera
                 camera-&gt;setProjectionMatrix(cv-&gt;getCurrentCamera()-&gt;getProjectionMatrix() );
@@ -240,11 +262,14 @@ panels_data:
             }
         }
         this-&gt;traverse(node, nv);
-    }</code></pre>
+    }
     };
-    <pre><code>
+    </code></pre>
+    
+    
     Now we show , how to set up the camera correctly:
-    ```c++
+    
+    <pre><code>c++
         cameraGroup = new osg::Group();
         m_reflectionCamera = new osg::Camera();
         reflectionTransform = new osg::MatrixTransform();
@@ -269,7 +294,8 @@ panels_data:
         m_cameraGroupCallback = new CUpdateCameraCallback();
         cameraGroup-&gt;setCullCallback(m_cameraGroupCallback);</code></pre>
     Calculating the actual reflection does not need any extra adjustements for distributed rendering, but is shown here for reference:
-    “`c++
+    
+    <code><pre>“`c++
     // add a clipping plane, to clip everything below z=0.0.
     //beware, that vec4(a,b,c,d) is a plane equation with a,b,c the plane normal and d the plane height
     m_reflectionClipPlane = new osg::ClipPlane(0, osg::Vec4d(0.0, 0.0, 1.0, 0.0));
@@ -278,7 +304,7 @@ panels_data:
     reflectionTransform-&gt;addChild(m_reflectionClipNode);
     // mirror the scene along the z axis
     reflectionTransform-&gt;setMatrix(osg::Matrix::scale(1.0, 1.0, -1.0));
-    <pre><code>// render the reflection camera into a texture
+    // render the reflection camera into a texture
     osg::ref_ptr&lt;osg::Texture2D&gt; texture = new osg::Texture2D();
     texture-&gt;setTextureSize(texSize, texSize);
     m_reflectionCamera-&gt;attach((osg::Camera::BufferComponent) osg::Camera::COLOR_BUFFER0, texture);
@@ -287,8 +313,9 @@ panels_data:
     cameraState-&gt;setMode(GL_CULL_FACE, osg::StateAttribute::OFF | osg::StateAttribute::OVERRIDE);
     // Set reflection textures
     osg::StateSet* floorStateSet = reflectingSurface-&gt;getOrCreateStateSet();
-    floorStateSet-&gt;setTextureAttributeAndModes(0, texture, osg::StateAttribute::ON);</code></pre>
-    <pre><code>The complete reflection code is found in source/view/reflection.cpp and shaders/grid.(vert|frag)
+    floorStateSet-&gt;setTextureAttributeAndModes(0, texture, osg::StateAttribute::ON);</pre></code>
+    
+    The complete reflection code is found in source/view/reflection.cpp and shaders/grid.(vert|frag)
     
     ## Distributed rendering with omegalib+osg+equalizer
     
@@ -297,24 +324,27 @@ panels_data:
     ##### What is parallel rendering ?
     Quoting the introduction chapter of the Equalizer programming guide:
     
-    <img class="alignnone wp-image-1430" src="http://localhost/wordpress/wp-content/uploads/2016/08/eq_sequence-277x300.png" alt="eq_sequence" width="326" height="353" /></code></pre>
+    <img class="alignnone wp-image-1430" src="http://localhost/wordpress/wp-content/uploads/2016/08/eq_sequence-277x300.png" alt="eq_sequence" width="326" height="353" />
     (insert figure 1 of equalizer programming guide) Figure ? illustrates the basic principle of any parallel rendering application. The typical OpenGL application, for example using GLUT, has an event loop which redraws the scene, updates application data based on received events, and eventually renders a new frame. A parallel rendering application uses the same basic execution model, extending it by separating the rendering code from the main event loop. The rendering code is then executed in parallel on different resources, depending on the configuration chosen at runtime. ##### How does parallel rendering work in omegalib ? (insert diagramOmegaFrame.png) Rendering a frame with omegalib The EqualizerDisplaySystem in omegalib runs the mainloop and calls the Configimpl startFrame method. ConfigImpl is a implementation of the Config class methods in Equalizer. For an in-depth discussion of the various Equalizer concepts, check out the Equalizer Programming Guide, it is recommended to read the Introduction chapter and the "Equalizer Parallel Rendering Framework" chapter. The master, which drives the slaves rendering, first shares all Events to all nodes, each node is then reponsible for handling these Events. When handling events, commonly things such as calculating the new camera position are performed. Then other shared data is synced, for example a user could sync the position of an object across the nodes. Next the update call is performed on the master, which calls the update method on all registered modules. The update method internally calculates the correct offset of each screen camera, therefore the camera position should not be changed after the update traversal anymore. The update callback is also the place for the user to do any larger computations, such as running a physics simulation step. The startFrame(version) method tells all slave nodes to update themselves. It carries the frame version to sync all nodes to render the same frame. After all updates have been performed all nodes render the frame, which translates to calls to the osgModule, which executes culling and drawing traversals. Finally all nodes are synced on the end of the frame again. Of course, this process has some intrecate issues that can arise when building complex applications. Often looking at the source code of omegalib, without having to extensively debug, can solve the issue as the code is fairly well commented. ## Data sharing and dynamic geometry Any moving objects, which are synchronized over multiple screens should use the shared data commit/update pattern. Equalizer handles distribution of datastreams to clients. Data can be added/extracted from the stream by calling ```c++ // only run on master void commitSharedData(omega::SharedOStream&amp; out) { out &lt;&lt; myPosition; } // only run on slaves! void updateSharedData(omega::SharedIStream&amp; in) { in &gt;&gt; myPosition; }
     
     on a omegamodule class. We implemented this for all the relevant game classes using a listener pattern:
     An interface is declared as
+    
+    <pre><code>
+    
     “`c++
     class SharedDataListener {
     public:
     virtual void commitSharedData(omega::SharedOStream&amp; out) = 0;
     virtual void updateSharedData(omega::SharedIStream&amp; in) = 0;
     };
-    <pre><code>and all classes which want to commit data to the stream inherit and implement this interface.
+    </code></pre>and all classes which want to commit data to the stream inherit and implement this interface.
     Then register the listening classes in you omega module and iteratively dispatch them. Note that the input must the same order as the output.
     
     An example of synchronizing a dynamic gemeotry is the fence, which trails the bike in the Troen game.
     First we create a Geometry with a vertex array and quad strip primitive set:
     
-    ```c++
+    <pre><code>c++
     void FenceView::initializeFence()
     {
         m_coordinates = new osg::Vec3Array();
@@ -329,8 +359,11 @@ panels_data:
         m_drawArrays = new osg::DrawArrays(osg::PrimitiveSet::QUAD_STRIP, 0, 0);
         m_geometry-&gt;addPrimitiveSet(m_drawArrays);
     }</code></pre>
+    
+    
     In our update method, we add a new fence part, when the bike has moved a certain distance. When porting osg applications to omegalib, always make sure that all modified vertex arrays and geometry is dirtied, as else there will be crashes even if it runs fine under pure osg.
-    “`c++
+    
+    <code><pre>“`c++
     void FenceView::addFencePart(osg::Vec3 currentPosition)
     // game fence part
     m_coordinates-&gt;push_back(currentPosition);
@@ -347,9 +380,9 @@ panels_data:
     m_currentPositionCached = currentPosition;
     m_fenceUpdated = true;
     }
-    <pre><code>
+    </pre></code>
     We call the *addFencePart* method in our update method, but only on the master. On the client, the method is called, when it receives new shared data:
-    ```c++
+    <pre><code>c++
     void FenceView::commitSharedData(omega::SharedOStream&amp; out)
     {
         out &lt;&lt; m_fenceUpdated &lt;&lt; m_currentPositionCached;
