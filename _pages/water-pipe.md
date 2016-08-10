@@ -31,7 +31,7 @@ panels_data:
     The pipes were actually taken out of the ground and then inspected with very high definition 3D lasers that give you point clouds - millions of points. Dealing with big data like that is challenging so the idea here is to manipulate and represent that data in a manner that we can easily find the crevices and holes that we're looking for. 
     
     The colours that you see in this particular pipe tells you what is the remaining wall thickness. Red colours means that there is less remaining wall thickness, yellow colours means there is more remaining wall thickness. Less remaining wall thickness equates to holes, cracks and eventually the pipe will not actually be able to withstand the water that’s inside it; it just breaks. ";s:6:"filter";b:1;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:3;s:9:"widget_id";s:36:"7107df68-9d33-4eb6-9aa3-46f20a2e72c7";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:4;a:6:{s:5:"title";s:0:"";s:4:"text";s:191:"<h2 style="text-align: left;">Use this example</h2>
-    <h3 style="text-align: left;">Learn more about using this example in the <a href="/wordpress/2userguide/examples#caves">User Guide</a></h3>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"578333ef770d6";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:2;s:4:"cell";i:0;s:2:"id";i:4;s:9:"widget_id";s:36:"1ea35202-0ffb-4952-88db-1380842ca3f4";s:5:"style";a:3:{s:7:"padding";s:3:"5px";s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:5;a:5:{s:8:"headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:4:"left";s:24:"so_field_container_state";s:4:"open";}s:12:"sub_headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:6:"center";s:24:"so_field_container_state";s:6:"closed";}s:7:"divider";a:8:{s:5:"style";s:5:"solid";s:6:"weight";s:4:"thin";s:5:"color";b:0;s:11:"side_margin";s:4:"20px";s:16:"side_margin_unit";s:2:"px";s:10:"top_margin";s:4:"20px";s:15:"top_margin_unit";s:2:"px";s:24:"so_field_container_state";s:4:"open";}s:12:"_sow_form_id";s:13:"57871dc1b3fe7";s:11:"panels_info";a:7:{s:5:"class";s:33:"SiteOrigin_Widget_Headline_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:0;s:2:"id";i:5;s:9:"widget_id";s:36:"42c24578-cfd7-4dd5-8d52-e5b5178da0b8";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:6;a:6:{s:5:"title";s:0:"";s:4:"text";s:62:"<h3 style="text-align: left;">Load demo from command line</h3>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"578333ef770d6";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:3;s:4:"cell";i:0;s:2:"id";i:6;s:9:"widget_id";s:36:"1ea35202-0ffb-4952-88db-1380842ca3f4";s:5:"style";a:2:{s:7:"padding";s:3:"5px";s:18:"background_display";s:4:"tile";}}}i:7;a:4:{s:6:"frames";a:1:{i:0;a:9:{s:16:"background_image";i:0;s:25:"background_image_fallback";s:0:"";s:16:"background_color";b:0;s:21:"background_image_type";s:5:"cover";s:16:"foreground_image";i:392;s:25:"foreground_image_fallback";s:0:"";s:3:"url";s:0:"";s:17:"background_videos";a:0:{}s:10:"new_window";b:0;}}s:8:"controls";a:7:{s:5:"speed";i:800;s:7:"timeout";i:8000;s:13:"nav_color_hex";s:7:"#FFFFFF";s:9:"nav_style";s:4:"thin";s:8:"nav_size";i:25;s:5:"swipe";b:1;s:24:"so_field_container_state";s:4:"open";}s:12:"_sow_form_id";s:13:"5787343f80e37";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Slider_Widget";s:3:"raw";b:0;s:4:"grid";i:4;s:4:"cell";i:0;s:2:"id";i:7;s:9:"widget_id";s:36:"a21979f6-c343-4716-a429-44be328b623c";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:8;a:4:{s:5:"title";s:0:"";s:4:"text";s:450:"<h3>1 </h3><h8>Using Dolphin or linux shell navigate to  /local/examples/cave
+    <h5 style="text-align: left;">Learn more about using this example in the <a href="/wordpress/2userguide/examples#caves">User Guide</a></h5>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"578333ef770d6";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:2;s:4:"cell";i:0;s:2:"id";i:4;s:9:"widget_id";s:36:"1ea35202-0ffb-4952-88db-1380842ca3f4";s:5:"style";a:3:{s:7:"padding";s:3:"5px";s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:5;a:5:{s:8:"headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:4:"left";s:24:"so_field_container_state";s:4:"open";}s:12:"sub_headline";a:6:{s:4:"text";s:0:"";s:3:"tag";s:2:"h3";s:4:"font";s:7:"default";s:5:"color";b:0;s:5:"align";s:6:"center";s:24:"so_field_container_state";s:6:"closed";}s:7:"divider";a:8:{s:5:"style";s:5:"solid";s:6:"weight";s:4:"thin";s:5:"color";b:0;s:11:"side_margin";s:4:"20px";s:16:"side_margin_unit";s:2:"px";s:10:"top_margin";s:4:"20px";s:15:"top_margin_unit";s:2:"px";s:24:"so_field_container_state";s:4:"open";}s:12:"_sow_form_id";s:13:"57871dc1b3fe7";s:11:"panels_info";a:7:{s:5:"class";s:33:"SiteOrigin_Widget_Headline_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:0;s:2:"id";i:5;s:9:"widget_id";s:36:"42c24578-cfd7-4dd5-8d52-e5b5178da0b8";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}i:6;a:6:{s:5:"title";s:0:"";s:4:"text";s:62:"<h3 style="text-align: left;">Load demo from command line</h3>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"578333ef770d6";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:3;s:4:"cell";i:0;s:2:"id";i:6;s:9:"widget_id";s:36:"1ea35202-0ffb-4952-88db-1380842ca3f4";s:5:"style";a:3:{s:7:"padding";s:3:"5px";s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:7;a:4:{s:6:"frames";a:1:{i:0;a:9:{s:16:"background_image";i:0;s:25:"background_image_fallback";s:0:"";s:16:"background_color";b:0;s:21:"background_image_type";s:5:"cover";s:16:"foreground_image";i:392;s:25:"foreground_image_fallback";s:0:"";s:3:"url";s:0:"";s:17:"background_videos";a:0:{}s:10:"new_window";b:0;}}s:8:"controls";a:7:{s:5:"speed";i:800;s:7:"timeout";i:8000;s:13:"nav_color_hex";s:7:"#FFFFFF";s:9:"nav_style";s:4:"thin";s:8:"nav_size";i:25;s:5:"swipe";b:1;s:24:"so_field_container_state";s:4:"open";}s:12:"_sow_form_id";s:13:"5787343f80e37";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Slider_Widget";s:3:"raw";b:0;s:4:"grid";i:4;s:4:"cell";i:0;s:2:"id";i:7;s:9:"widget_id";s:36:"a21979f6-c343-4716-a429-44be328b623c";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:8;a:4:{s:5:"title";s:0:"";s:4:"text";s:450:"<h3>1 </h3><h8>Using Dolphin or linux shell navigate to  /local/examples/cave
     <p><strong> Dolphin </strong></p>
     Right Click in the Dolphin window and select "Open Terminal here"
     <p><strong>Linux Shell</strong></p>
@@ -75,12 +75,11 @@ panels_data:
  	<li><a href="#" data-goto="2">3</a></li>
  	<li><a href="#" data-goto="3">4</a></li>
 </ol>
-<a href="#" data-goto="next" data-action="next">
+&nbsp;
 
-</a>
-<a href="#" data-goto="previous" data-action="prev">
+&nbsp;
 
-</a>
+&nbsp;
 <h4><a href=" http://localhost/wordpress/data-type/point-could/wombeyan-caves/"><strong> Water Pipe</strong></a> Examples</h4>
 <h6>The Pipe example, is using point could data. The inside was scanned by a laser and the outside by an electromagnetic sensor. This allows you to explore the impossible view by navigating between the two walls. .</h6>
 &nbsp;
@@ -110,12 +109,11 @@ The colours that you see in this particular pipe tells you what is the remaining
 <ol class="sow-slider-pagination">
  	<li><a href="#" data-goto="0">1</a></li>
 </ol>
-<a href="#" data-goto="next" data-action="next">
+&nbsp;
 
-</a>
-<a href="#" data-goto="previous" data-action="prev">
+&nbsp;
 
-</a>
+&nbsp;
 <h3>1</h3>
 Using Dolphin or linux shell navigate to /local/examples/cave
 
@@ -154,12 +152,11 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
  	<li><a href="#" data-goto="0">1</a></li>
  	<li><a href="#" data-goto="1">2</a></li>
 </ol>
-<a href="#" data-goto="next" data-action="next">
+&nbsp;
 
-</a>
-<a href="#" data-goto="previous" data-action="prev">
+&nbsp;
 
-</a>
+&nbsp;
 <h3>5</h3>
 Save a close kwrite then run your edited demo using the steps above.
 <h3 style="text-align: center;">Explore More Examples</h3>
