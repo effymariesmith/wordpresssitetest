@@ -8,3 +8,4 @@ layout: page
 permalink: http://localhost/wordpress/custompaget2/
 published: true
 ---
+Content test
