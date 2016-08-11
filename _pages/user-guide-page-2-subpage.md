@@ -6,6 +6,6 @@ post_date: 2016-08-11 05:46:34
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/custompaget2/user-guide-page-1/user-guide-page-2-subpage/
+  http://localhost/wordpress/custompaget2/user-guide-page-2/user-guide-page-2-subpage/
 published: true
 ---
