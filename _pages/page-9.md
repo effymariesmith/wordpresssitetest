@@ -9,3 +9,9 @@ permalink: >
   http://localhost/wordpress/custompaget2/page-9/
 published: true
 ---
+<span class="sow-icon-fontawesome" data-sow-icon="" style="font-size: 24px; color: #3d3d3d"></span>			
+<p class="sow-more-text">
+Previous 											</p>
+<span class="sow-icon-fontawesome" data-sow-icon="" style="font-size: 24px; color: #3d3d3d"></span>			
+<p class="sow-more-text">
+Next 											</p>
