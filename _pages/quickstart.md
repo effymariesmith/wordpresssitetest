@@ -1,6 +1,6 @@
 ---
 ID: 1389
-post_title: 2. Quickstart
+post_title: Quickstart
 author: davm
 post_date: 2016-08-09 06:55:37
 post_excerpt: ""
