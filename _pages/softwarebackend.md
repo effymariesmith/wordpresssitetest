@@ -1,6 +1,6 @@
 ---
 ID: 1405
-post_title: 7. Software
+post_title: Software
 author: davm
 post_date: 2016-08-09 07:51:22
 post_excerpt: ""
