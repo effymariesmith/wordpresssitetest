@@ -1,6 +1,6 @@
 ---
 ID: 1320
-post_title: 3. Pipeline
+post_title: Pipeline
 author: davm
 post_date: 2016-08-08 08:01:09
 post_excerpt: ""
