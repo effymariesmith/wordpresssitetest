@@ -1,6 +1,6 @@
 ---
 ID: 1322
-post_title: examples
+post_title: Examples
 author: davm
 post_date: 2016-08-08 08:12:34
 post_excerpt: ""
