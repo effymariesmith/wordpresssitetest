@@ -6,6 +6,6 @@ post_date: 2016-08-15 04:01:32
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/tutorials/omegalib-tutorials/
+  http://localhost/wordpress/omegalib-tutorials/
 published: true
 ---
