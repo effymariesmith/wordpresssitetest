@@ -19,11 +19,11 @@ The open source project is available on <a href="https://github.com/Eyescale/Equ
 Extensiv documentation can be found <a href="http://www.equalizergraphics.com/documentation.html">here</a>.
 <h4>Omegalib</h4>
 All graphic visualization is created with the omegalib framework, which interacts with Equalizer.
-It is an abstraction of OpenGL and allows developement in Python.
+It is an abstraction of OpenGL and allows development in Python.
 Primitive objects, an Open Scene Graph or webviews are all integrated or available over modules.
 
 The Python API is documented <a href="https://github.com/uic-evl/omegalib/wiki/Python-Reference##omegalib-python-reference">here</a>.
-Unfortunately, this is not frequently updated, but provides a sufficient overview of the functionality.
+Unfortunately, this is not frequently updated but provides a sufficient overview of the functionality.
 For comprehensive documentation, we refer to the <a href="https://github.com/uic-evl/omegalib/blob/master/src/omega/omegaPythonApi.cpp">sources</a>, since the project is also available on <a href="https://github.com/uic-evl/omegalib">GitHub</a>.
 <h4>VRPN</h4>
 A VRPN server provides an interface for all <strong>V</strong>irtual <strong>R</strong>eality <strong>P</strong>eripherals.
