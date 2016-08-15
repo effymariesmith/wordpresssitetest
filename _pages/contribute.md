@@ -24,9 +24,17 @@ Click here to add a new page <a href="http://localhost/wordpress/wp-admin/post-
 <h4>Logging in</h4>
 The login username and password are
 
+<strong>New contributor</strong>
+
 Username: Contribute
 
 Password: Contribute
+
+<strong>Master admin login</strong>
+
+Username: DAVM
+
+Password: DAVM
 <h4>Edit the page Attribute section</h4>
 <img class="alignnone size-medium wp-image-1669" src="http://localhost/wordpress/wp-content/uploads/2016/08/Screen-Shot-2016-08-15-at-4.52.32-PM-259x300.png" alt="Screen Shot 2016-08-15 at 4.52.32 PM" width="259" height="300" /> <img class="alignnone size-medium wp-image-1671" src="http://localhost/wordpress/wp-content/uploads/2016/08/Screen-Shot-2016-08-15-at-4.53.53-PM-257x300.png" alt="Screen Shot 2016-08-15 at 4.53.53 PM" width="257" height="300" /> <img class="alignnone size-medium wp-image-1670" src="http://localhost/wordpress/wp-content/uploads/2016/08/Screen-Shot-2016-08-15-at-4.53.34-PM-258x300.png" alt="Screen Shot 2016-08-15 at 4.53.34 PM" width="258" height="300" />
 <h5><strong>Edit the Parent </strong></h5>
