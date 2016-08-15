@@ -5,7 +5,6 @@ author: davm
 post_date: 2016-08-12 07:14:07
 post_excerpt: ""
 layout: page
-permalink: >
-  http://localhost/wordpress/tutorials/z-tute-7/
+permalink: http://localhost/wordpress/z-tute-7/
 published: true
 ---
