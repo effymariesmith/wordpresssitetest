@@ -11,7 +11,7 @@ published: true
 ---
 <h3></h3>
 <h3>Creating your own page template for a new tutorial series</h3>
-Have you written your own tutorial series or have an idea for a new section on the site. You can create your own page template by following the steps below. Before doing this make sure your tutorial would not fit nicely into a pre-existing tutorial series, if it does, at it to the tutorial series by following the steps above.
+Have you written your own tutorial series or have an idea for a new section on the site. You can create your own page template by following the steps below. Before doing this make sure your tutorial would not fit nicely into a pre-existing tutorial series, if it does, add it to the tutorial series by following the steps on the Add Page page.
 <h4>Getting started</h4>
 Navigate to the correct folder, /xamppfiles/apps/wordpress/htdocs/wp-content/themes/sydney-child/page-templates
 
