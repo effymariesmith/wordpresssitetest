@@ -21,24 +21,28 @@ The ROP output driver of Houdini can be used to export ply files.
 We will build a simple data visualization with Houdini and show how to export this to omegalib. Note, that this is a tutorial on exporting data, not on making good visualizations, so the shown example is probably not the best way to visusalize the existing dataset.
 
 ##### The data
-We will use a classical dataset used in many statistics courses, the mtcars dataset, which contains different information on cars. The mtcars set is 
+We will use a classical dataset used in many statistics courses, the mtcars dataset, which contains different information on cars. The mtcars set is
 ```
 A dataset with 32 observations on 11 variables.
-[, 1] 	mpg 	Miles/(US) gallon
-[, 2] 	cyl 	Number of cylinders
-[, 3] 	disp 	Displacement (cu.in.)
-[, 4] 	hp 	Gross horsepower
-[, 5] 	drat 	Rear axle ratio
-[, 6] 	wt 	Weight (lb/1000)
-[, 7] 	qsec 	1/4 mile time
-[, 8] 	vs 	V/S
-[, 9] 	am 	Transmission (0 = automatic, 1 = manual)
-[,10] 	gear 	Number of forward gears
-[,11] 	carb 	Number of carburetors
+[, 1] mpg Miles/(US) gallon
+[, 2] cyl Number of cylinders
+[, 3] disp Displacement (cu.in.)
+[, 4] hp Gross horsepower
+[, 5] drat Rear axle ratio
+[, 6] wt Weight (lb/1000)
+[, 7] qsec 1/4 mile time
+[, 8] vs V/S
+[, 9] am Transmission (0 = automatic, 1 = manual)
+[,10] gear Number of forward gears
+[,11] carb Number of carburetors
 ```
 Download the dataset from https://vincentarelbundock.github.io/Rdatasets/csv/datasets/mtcars.csv
 
 ##### Importing the table in Houdini
+
+&nbsp;
+
+<img class="alignnone wp-image-1635 size-full" src="http://localhost/wordpress/wp-content/uploads/2016/08/tableimport.png" alt="tableimport" width="970" height="905" />
 
 (insert tableimport.png)
 
@@ -48,11 +52,19 @@ You can look at the imported data in the geomtry spreadsheet to check, that you 
 ##### Mapping data to primitives
 Next, we want to visualize our data. Houdini uses the positional attribute P to store the point position. Use a attribute create operator to map the columns to the position.
 
+&nbsp;
+
+&nbsp;
+
+<img class="alignnone wp-image-1631 size-full" src="http://localhost/wordpress/wp-content/uploads/2016/08/attribpoint.png" alt="attribpoint" width="614" height="460" />
+
 (insert attribcreate.png)
 
 As shown in the figure above, we map the 1/4 mile time (qsec) to the x-axis, the cyl to the y axis and the weight to the z-axis. These are relatively random assignments just for the purpose of demonstration. Note, that we convert to the weight attribute from lb/1000 to kg/1000 and then multiple by 10 to scale the values approximately the same data range as the other two columns.
 
-Now that we have the positions, we can use a copy operator to copy generic primitives to these positions. We use tetrahedons (pyramids) to represent the data points: 
+Now that we have the positions, we can use a copy operator to copy generic primitives to these positions. We use tetrahedons (pyramids) to represent the data points:
+
+<img class="alignnone wp-image-1633 size-full" src="http://localhost/wordpress/wp-content/uploads/2016/08/primitivesmapped.png" alt="primitivesmapped" width="1920" height="1200" />
 
 (insert primitivesmapped.png)
 
@@ -72,12 +84,12 @@ scene.setBackgroundColor(Color(0.1,0.1,0.1,1))
 
 fileToLoad = "mtcars.ply"
 def addModel(fileToLoad, isText=False):
-	# Load a static model
-	mdlModel = ModelInfo()
-	mdlModel.name = fileToLoad
-	mdlModel.path = fileToLoad
-	mdlModel.optimize=False # optimising takes a LONG time..
-	return mdlModel
+# Load a static model
+mdlModel = ModelInfo()
+mdlModel.name = fileToLoad
+mdlModel.path = fileToLoad
+mdlModel.optimize=False # optimising takes a LONG time..
+return mdlModel
 
 scene.loadModel(addModel(fileToLoad))
 model = StaticObject.create(fileToLoad)
@@ -87,11 +99,15 @@ model.setName(fileToLoad)
 
 We also built axis in houdini, which are included in the tutorial houdini file. The creation of these is out of scope of this tutorial though.
 
-(insert cyclopsTable.png)
+<img class="alignnone wp-image-1632 size-full" src="http://localhost/wordpress/wp-content/uploads/2016/08/cyclopsTable.png" alt="cyclopsTable" width="1910" height="1083" />
 
+(insert cyclopsTable.png)
 
 Normally, ply files are exported as a single large geometry, which is good if there are no interactive parts. However, if you want to move a certain part of the model in the scene, the objects have to be grouped. Either, you can export this part as a seperate model or set the object in Houdini. You can set a field object_id per point, i.e. the object, which the point will belong to. You will find a switch in houdini to switch object ids on and off
 
+&nbsp;
+
+<img class="alignnone wp-image-1630 size-full" src="http://localhost/wordpress/wp-content/uploads/2016/08/attribcreateobjectid.png" alt="attribcreateobjectid" width="713" height="467" />
 
 (insert attribcreateobjectid.png)
 
@@ -106,14 +122,14 @@ Import and register the plugin before loading and then pass the "shiftVerts face
 #use the LoaderTools package from daHEngine
 from daHEngine import LoaderTools
 #register DA ply loader. Do this before loading any ply files!
-LoaderTools.registerDAPlyLoader() 
+LoaderTools.registerDAPlyLoader()
 
 def addModel(fileToLoad, faceScreen=False):
-	mdlModel = ModelInfo()
-	...
-	if faceScreen:
-		mdlModel.readerWriterOptions = "shiftVerts faceScreen" 
-	return mdlModel
+mdlModel = ModelInfo()
+...
+if faceScreen:
+mdlModel.readerWriterOptions = "shiftVerts faceScreen"
+return mdlModel
 ...
 ```
 
