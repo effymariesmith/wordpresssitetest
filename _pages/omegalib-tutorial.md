@@ -1,6 +1,6 @@
 ---
 ID: 872
-post_title: Graphics Tutorial
+post_title: Omegalib Tutorials
 author: davm
 post_date: 2016-07-14 07:05:54
 post_excerpt: ""
