@@ -12,7 +12,7 @@ published: true
 <h3>Adding a new page</h3>
 Adding a new page to the user guide,
 
-Click here to add a new page <a href="http://localhost/wordpress/wp-admin/post-new.php?post_type=page">click here </a> to the user guide or tutorial sections, this will ask you to log in.
+Click<a href="http://localhost/wordpress/wp-admin/post-new.php?post_type=page"> here </a> to add a new page to the user guide or tutorial sections, this will ask you to log in.
 <h4>Logging in</h4>
 The login username and password are
 
