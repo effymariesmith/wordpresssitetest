@@ -6,7 +6,7 @@ post_date: 2016-07-15 00:19:25
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/tutorials/defining-interactions/
+  http://localhost/wordpress/tutorials/omegalib-tutorials/defining-interactions/
 published: true
 panels_data:
   - |
@@ -242,7 +242,7 @@ panels_data:
     And thats it, you got a nice DataViz application running, ready to be deployed in the Data Arena.
     The full code (with some additions) is available at "/local/examples/Tutorials/tut3/CustomInteraction.py"
     
-    <!-- .entry-content -->";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57883288cb5f6";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"c06bb1fd-0c3a-4ecb-9786-51ba4db231ea";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:1:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:4:{s:7:"padding";s:4:"10px";s:5:"align";s:0:"";s:16:"background_image";b:0;s:14:"column_padding";s:0:"";}}}s:10:"grid_cells";a:1:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}}}
+    <!-- .entry-content -->";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57883288cb5f6";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"c06bb1fd-0c3a-4ecb-9786-51ba4db231ea";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:1:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:3:{s:7:"padding";s:4:"10px";s:5:"align";s:0:"";s:14:"column_padding";s:0:"";}}}s:10:"grid_cells";a:1:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}}}
 ---
 In the following tutorials we will show you, how to create, import and display cool models and bring them to the Data Arena. Graphics programming experience is not a prerequisite, although it will help to have some understanding of the graphics pipeline.
 <h3>Defining your own interactions</h3>
