@@ -58,8 +58,6 @@ Next, we want to visualize our data. Houdini uses the positional attribute P to 
 
 <img class="alignnone wp-image-1631 size-full" src="http://localhost/wordpress/wp-content/uploads/2016/08/attribpoint.png" alt="attribpoint" width="614" height="460" />
 
-(insert attribcreate.png)
-
 As shown in the figure above, we map the 1/4 mile time (qsec) to the x-axis, the cyl to the y axis and the weight to the z-axis. These are relatively random assignments just for the purpose of demonstration. Note, that we convert to the weight attribute from lb/1000 to kg/1000 and then multiple by 10 to scale the values approximately the same data range as the other two columns.
 
 Now that we have the positions, we can use a copy operator to copy generic primitives to these positions. We use tetrahedons (pyramids) to represent the data points:
@@ -84,12 +82,12 @@ scene.setBackgroundColor(Color(0.1,0.1,0.1,1))
 
 fileToLoad = "mtcars.ply"
 def addModel(fileToLoad, isText=False):
-# Load a static model
-mdlModel = ModelInfo()
-mdlModel.name = fileToLoad
-mdlModel.path = fileToLoad
-mdlModel.optimize=False # optimising takes a LONG time..
-return mdlModel
+    # Load a static model
+   mdlModel = ModelInfo()
+   mdlModel.name = fileToLoad
+   mdlModel.path = fileToLoad
+   mdlModel.optimize=False # optimising takes a LONG time..
+   return mdlModel
 
 scene.loadModel(addModel(fileToLoad))
 model = StaticObject.create(fileToLoad)
@@ -101,15 +99,11 @@ We also built axis in houdini, which are included in the tutorial houdini file. 
 
 <img class="alignnone wp-image-1632 size-full" src="http://localhost/wordpress/wp-content/uploads/2016/08/cyclopsTable.png" alt="cyclopsTable" width="1910" height="1083" />
 
-(insert cyclopsTable.png)
-
 Normally, ply files are exported as a single large geometry, which is good if there are no interactive parts. However, if you want to move a certain part of the model in the scene, the objects have to be grouped. Either, you can export this part as a seperate model or set the object in Houdini. You can set a field object_id per point, i.e. the object, which the point will belong to. You will find a switch in houdini to switch object ids on and off
 
 &nbsp;
 
 <img class="alignnone wp-image-1630 size-full" src="http://localhost/wordpress/wp-content/uploads/2016/08/attribcreateobjectid.png" alt="attribcreateobjectid" width="713" height="467" />
-
-(insert attribcreateobjectid.png)
 
 As shown in the figure above, create an attribute which takes the PT (point) number and therefore is equal to the number of imported rows. This attribute must be created before the copy operator, else there would be a unique id for every vertex of the tetrahedons, which we obvisouly dont want. Before exporting the geomertry, the geometry should be sorted on object_ids, because the importer assumes, that the object_ids are monotonically increasing and continous. See the houdini tutorial file to see how this is put in place.
 
@@ -125,11 +119,11 @@ from daHEngine import LoaderTools
 LoaderTools.registerDAPlyLoader()
 
 def addModel(fileToLoad, faceScreen=False):
-mdlModel = ModelInfo()
-...
-if faceScreen:
-mdlModel.readerWriterOptions = "shiftVerts faceScreen"
-return mdlModel
+   mdlModel = ModelInfo()
+   ...
+   if faceScreen:
+      mdlModel.readerWriterOptions = "shiftVerts faceScreen"
+      return mdlModel
 ...
 ```
 
