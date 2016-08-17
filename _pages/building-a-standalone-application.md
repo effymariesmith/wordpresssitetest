@@ -6,7 +6,7 @@ post_date: 2016-08-17 00:19:13
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/omegalib-tutorials/building-a-standalone-application/
+  http://localhost/wordpress/omegalib-tutorials/advancedomegalibosgapplications/building-a-standalone-application/
 published: true
 ---
 [md]
