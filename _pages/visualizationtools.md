@@ -92,7 +92,7 @@ panels_data:
     <h4>How can I use it?</h4>
     license problem?
     <h4>Exporting from Houdini?</h4>
-    Follow our tutorial on exporting from <a href="/wordpress/houdini-tutorial-series/houdini-tutorial-series/">Houdini</a>, in the Houdini tutorial series.";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57aa8a5d5830b";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:3;s:4:"cell";i:0;s:2:"id";i:14;s:9:"widget_id";s:36:"3b2ca69e-b9a4-41a7-9ebe-a4250e21319e";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:15;a:6:{s:5:"title";s:0:"";s:4:"text";s:2842:"<h4 style="text-align: left;"><a name="toolsblender">Blender</a></h4>
+    Follow our tutorial on exporting from <a href="/wordpress/houdini-tutorial-series/houdini-tutorial-series/">Houdini</a>, in the Houdini tutorial series.";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57aa8a5d5830b";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:3;s:4:"cell";i:0;s:2:"id";i:14;s:9:"widget_id";s:36:"3b2ca69e-b9a4-41a7-9ebe-a4250e21319e";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:15;a:6:{s:5:"title";s:0:"";s:4:"text";s:2842:"<h4 style="text-align: left;"><a name="toolsblender">Blender</a></h4>
     <hr />
     
     <h4>Exporting models to omegalib from Blender, Maya or 3ds Max</h4>
