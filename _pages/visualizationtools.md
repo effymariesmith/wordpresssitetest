@@ -23,7 +23,7 @@ panels_data:
     <h4 style="text-align: center;"><a href="#livretools">Livre</a></h4>
     <h4 style="text-align: center;"><a href="#toolsmayavi">Mayavi</a></h4>
     <h4 style="text-align: center;"><a href="#toolsparaview">Paraview</a></h4>
-    <h4 style="text-align: center;">daHoudiniEngine</h4>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57b419545889a";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:4;s:9:"widget_id";s:36:"32765df0-d382-4b06-bfac-58d39210cb34";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:5;a:6:{s:5:"title";s:0:"";s:4:"text";s:14:"<hr />
+    <h4 style="text-align: center;">daHoudiniEngine</h4>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57b419545889a";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:4;s:9:"widget_id";s:36:"32765df0-d382-4b06-bfac-58d39210cb34";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:5;a:6:{s:5:"title";s:0:"";s:4:"text";s:14:"<hr />
     
     &nbsp;";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57b4181c7f742";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:5;s:9:"widget_id";s:36:"4dc6f9fc-f6ce-4e6e-86b7-8be1b6482cfb";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:6;a:5:{s:5:"title";s:0:"";s:4:"text";s:226:"<h4 style="text-align: center;">Google Charts</h4><h4 style="text-align: center;">Leaflet</h4><h4 style="text-align: center;">Tableau</h4><h4 style="text-align: center;">D3</h4><h4 style="text-align: center;">RAW</h4><p> </p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:6;s:9:"widget_id";s:36:"4dc6f9fc-f6ce-4e6e-86b7-8be1b6482cfb";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:7;a:6:{s:5:"title";s:0:"";s:4:"text";s:14:"<hr />
     
@@ -44,7 +44,7 @@ panels_data:
     
     The TuvokDataConverter is a tool to bring volume data into the format of Livre, you can read about the conversion workflow on the <a href="http://bluebrain.github.io/Livre-0.7/_tuvok__tool.html">livre docs</a> . The tool <a href="https://github.com/BlueBrain/TuvokDataConverter">source</a> does not compile out of the box on some platforms, however it is installed in the DAVM for convenient use.
     
-    &nbsp;";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57b4108b42db9";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:2;s:4:"cell";i:0;s:2:"id";i:10;s:9:"widget_id";s:36:"3b2ca69e-b9a4-41a7-9ebe-a4250e21319e";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:11;a:6:{s:5:"title";s:0:"";s:4:"text";s:1885:"<hr />
+    &nbsp;";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57b4108b42db9";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:0;s:2:"id";i:10;s:9:"widget_id";s:36:"3b2ca69e-b9a4-41a7-9ebe-a4250e21319e";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:11;a:6:{s:5:"title";s:0:"";s:4:"text";s:1885:"<hr />
     
     <h4 style="text-align: left;"><a name="toolsmayavi"></a>Mayavi</h4>
     <h3>Mayavi</h3>
@@ -77,22 +77,22 @@ panels_data:
     
     <hr />
     
-    &nbsp;";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57aa8a3bc72af";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:3;s:4:"cell";i:0;s:2:"id";i:13;s:9:"widget_id";s:36:"3b2ca69e-b9a4-41a7-9ebe-a4250e21319e";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:14;a:6:{s:5:"title";s:0:"";s:4:"text";s:1046:"<h4 style="text-align: left;"></h4>
-    <h4 style="text-align: left;"><a name="toolshoudini">Houdini</a></h4>
+    &nbsp;";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57aa8a3bc72af";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:3;s:4:"cell";i:0;s:2:"id";i:13;s:9:"widget_id";s:36:"3b2ca69e-b9a4-41a7-9ebe-a4250e21319e";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:14;a:6:{s:5:"title";s:0:"";s:4:"text";s:1175:"<h4 style="text-align: left;"></h4>
+    <h4 style="text-align: left;"><a name="toolshoudini"></a>Houdini</h4>
     
     <hr />
     
     &nbsp;
     <h4>What is Houdini?</h4>
-    <p><a href="http://www.sidefx.com/products/houdini/">Houdini</a> combines superior performance and dramatic, ease-of-use to deliver a powerful and accessible 3D animation experience to CG artists creating feature films,<br />
-    commercials or video games. With its procedural node-based workflow, Houdini lets you create more content faster to reduce timelines and enjoy enhanced flexibility in all your creative tasks.<br />
-    Houdini is ideal for modelers, lighters, character riggers and animators to use on its own or as a layout and lighting tool for visual effects created in Houdini FX.</p>
+    <a href="http://www.sidefx.com/products/houdini/">Houdini</a> combines superior performance and dramatic, ease-of-use to deliver a powerful and accessible 3D animation experience to CG artists creating feature films,
+    commercials or video games. With its procedural node-based workflow, Houdini lets you create more content faster to reduce timelines and enjoy enhanced flexibility in all your creative tasks.
+    Houdini is ideal for modelers, lighters, character riggers and animators to use on its own or as a layout and lighting tool for visual effects created in Houdini FX.
     <h4>Why does it help in data visualization?</h4>
-    <p>A few of our <a href="{filename}pipelines.md">Pipelines</a>. at the Data Arena are created using Houdini, Houdini is a powerful tool to create data visualizations.</p>
+    A few of our <a href="/wordpress/2userguide/pipelines/">Pipelines</a>. at the Data Arena are created using Houdini, Houdini is a powerful tool to create data visualizations.
     <h4>How can I use it?</h4>
-    <p>license problem?</p>
-    
-    <h4>Exporting from Houdini?</h4>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57aa8a5d5830b";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:3;s:4:"cell";i:0;s:2:"id";i:14;s:9:"widget_id";s:36:"3b2ca69e-b9a4-41a7-9ebe-a4250e21319e";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:15;a:6:{s:5:"title";s:0:"";s:4:"text";s:2842:"<h4 style="text-align: left;"><a name="toolsblender">Blender</a></h4>
+    license problem?
+    <h4>Exporting from Houdini?</h4>
+    Follow our tutorial on exporting from <a href="/wordpress/houdini-tutorial-series/houdini-tutorial-series/">Houdini</a>, in the Houdini tutorial series.";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57aa8a5d5830b";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:3;s:4:"cell";i:0;s:2:"id";i:14;s:9:"widget_id";s:36:"3b2ca69e-b9a4-41a7-9ebe-a4250e21319e";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:15;a:6:{s:5:"title";s:0:"";s:4:"text";s:2842:"<h4 style="text-align: left;"><a name="toolsblender">Blender</a></h4>
     <hr />
     
     <h4>Exporting models to omegalib from Blender, Maya or 3ds Max</h4>
@@ -121,7 +121,7 @@ panels_data:
 <p>&nbsp;</p>
 <h4 style="text-align: center;">Google Earth</h4>
 <h4 style="text-align: center;">Drishti</h4>
-<h4 style="text-align: center;"><a href="#toolslivre">Livre</a></h4>
+<h4 style="text-align: center;"><a href="#livretools">Livre</a></h4>
 <h4 style="text-align: center;"><a href="#toolsmayavi">Mayavi</a></h4>
 <h4 style="text-align: center;"><a href="#toolsparaview">Paraview</a></h4>
 <h4 style="text-align: center;">daHoudiniEngine</h4>
@@ -184,10 +184,11 @@ sip.setapi('QVariant', 2)</code></pre>
 <p>commercials or video games. With its procedural node-based workflow, Houdini lets you create more content faster to reduce timelines and enjoy enhanced flexibility in all your creative tasks.</p>
 <p>Houdini is ideal for modelers, lighters, character riggers and animators to use on its own or as a layout and lighting tool for visual effects created in Houdini FX.</p>
 <h4>Why does it help in data visualization?</h4>
-<p>A few of our <a href="{filename}pipelines.md">Pipelines</a>. at the Data Arena are created using Houdini, Houdini is a powerful tool to create data visualizations.</p>
+<p>A few of our <a href="/wordpress/2userguide/pipelines/">Pipelines</a>. at the Data Arena are created using Houdini, Houdini is a powerful tool to create data visualizations.</p>
 <h4>How can I use it?</h4>
 <p>license problem?</p>
 <h4>Exporting from Houdini?</h4>
+<p>Follow our tutorial on exporting from Houdini, in the Houdini tutorial series.</p>
 <h4 style="text-align: left;"><a name="toolsblender">Blender</a></h4>
 <hr>
 <h4>Exporting models to omegalib from Blender, Maya or 3ds Max</h4>
