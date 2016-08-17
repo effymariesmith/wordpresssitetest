@@ -91,7 +91,7 @@ myOsg-&gt;setRootNode(node);
 }
 ```
 Finally, the main methods creates a omegalib application, reads from the commandline and then executes the main omegalib loop.
-```c++
+```cpp
 ///////////////////////////////////////////////////////////////////////////////
 // Application entry point
 int main(int argc, char** argv)
@@ -107,7 +107,7 @@ return omega::omain(app, argc, argv);
 Omegalib registers custom file loaders, which in some cases override the standard osg plugins. Sometimes, this can lead to unexpected behaviour: for example the tga of omegalib does not implement the full tga standard and loading images with 24bpp, which loaded fine with the osgdb_tga plugin will not work anymore. To use a certain osg loader, you have two options: load data/textures/nodes before the omegalib ``omain`` call or manually remove loaders from registry. The first method is preferred, if you only need to load files once and can do this before starting the actual application. If not, the second method provides a (little bit hacky) workaround.
 
 To remove a loader from the osgDB registry, first store the filepaths before running ``omain``:
-```c++
+```cpp
 for (auto libPath : osgDB::Registry::instance()-&gt;getLibraryFilePathList ())
 {
    _storedLibPaths += libPath + ":";
