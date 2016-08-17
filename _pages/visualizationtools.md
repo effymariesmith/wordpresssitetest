@@ -12,7 +12,7 @@ panels_data:
   - |
     a:3:{s:7:"widgets";a:16:{i:0;a:6:{s:5:"title";s:0:"";s:4:"text";s:55:"<h3 style="text-align: center;">3D Visualization</h3>
     
-    ";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57aa8926dcffb";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"4dc6f9fc-f6ce-4e6e-86b7-8be1b6482cfb";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:1;a:6:{s:5:"title";s:0:"";s:4:"text";s:55:"<h3 style="text-align: center;">2D Visualization</h3>
+    ";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57aa8926dcffb";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"4dc6f9fc-f6ce-4e6e-86b7-8be1b6482cfb";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:6:{s:5:"title";s:0:"";s:4:"text";s:55:"<h3 style="text-align: center;">2D Visualization</h3>
     
     ";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57aa8729bb3af";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:1;s:2:"id";i:1;s:9:"widget_id";s:36:"4dc6f9fc-f6ce-4e6e-86b7-8be1b6482cfb";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:49:"<h3 style="text-align: center;"> Exporters</h3>
     
@@ -20,7 +20,7 @@ panels_data:
     
     &nbsp;";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57b4180f76ded";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:3;s:9:"widget_id";s:36:"4dc6f9fc-f6ce-4e6e-86b7-8be1b6482cfb";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:4;a:6:{s:5:"title";s:0:"";s:4:"text";s:362:"<h4 style="text-align: center;">Google Earth</h4>
     <h4 style="text-align: center;">Drishti</h4>
-    <h4 style="text-align: center;"><a href="#slivretool">Livre</a></h4>
+    <h4 style="text-align: center;"><a href="#livretools">Livre</a></h4>
     <h4 style="text-align: center;"><a href="#toolsmayavi">Mayavi</a></h4>
     <h4 style="text-align: center;"><a href="#toolsparaview">Paraview</a></h4>
     <h4 style="text-align: center;">daHoudiniEngine</h4>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57b419545889a";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:4;s:9:"widget_id";s:36:"32765df0-d382-4b06-bfac-58d39210cb34";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:5;a:6:{s:5:"title";s:0:"";s:4:"text";s:14:"<hr />
