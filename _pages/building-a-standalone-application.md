@@ -147,6 +147,7 @@ Set the nodelauncher in your .cfg file to a custom script:
 nodeLauncher = "ssh -n %h startTroenSlave.sh %d %c"
 ```
  startTroenSlave. sh:
+
 ```
 D=$1
 C=$2
@@ -160,6 +161,7 @@ gdb -x gdbcommand.txt --args  $C -r --log v  $*
 
 
 gdbcommand.txt:
+
 ```
 set logging file gdb.txt
 set logging on
