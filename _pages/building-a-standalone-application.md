@@ -12,7 +12,7 @@ published: true
 [md]
 
 
-```c++
+```cpp
 void NodeTrackerManipulator::updateOmegaCamera(omega::Camera *cam){
     osg::Vec3d eye, unused_center, up;
 
@@ -51,7 +51,7 @@ Our camera therefore moves with the main camera and its position has to be updat
 
 In osg, the cull traverse decides what objects to render and what to cull away. The Cullvisitor actually computes the correct transformation of each node and pushes objects into the the draw stage, which is executed after the Cullvisitor has visited all nodes. Therefore, the CullCallback is the latest point, we can influence a nodes transform before it is rendered. However the cullcallback is executed after the node transforms have already been pushed into the render stage.If we would therefore execute the cullcallback directly on the camera, we would not see any positional change. We must therefore set the cullcallback on a node above the camera (we named it cameragroup) and then access its child:
 
-```c++
+```cpp
 class CUpdateCameraCallback : public osg::NodeCallback
 {
 public:	
