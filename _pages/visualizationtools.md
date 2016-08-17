@@ -23,7 +23,7 @@ panels_data:
     <h4 style="text-align: center;"><a href="#toolslivre">Livre</a></h4>
     <h4 style="text-align: center;"><a href="#toolsmayavi">Mayavi</a></h4>
     <h4 style="text-align: center;"><a href="#toolsparaview">Paraview</a></h4>
-    <h4 style="text-align: center;">daHoudiniEngine</h4>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57b419545889a";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:4;s:9:"widget_id";s:36:"32765df0-d382-4b06-bfac-58d39210cb34";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:5;a:6:{s:5:"title";s:0:"";s:4:"text";s:14:"<hr />
+    <h4 style="text-align: center;">daHoudiniEngine</h4>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57b419545889a";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:4;s:9:"widget_id";s:36:"32765df0-d382-4b06-bfac-58d39210cb34";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:5;a:6:{s:5:"title";s:0:"";s:4:"text";s:14:"<hr />
     
     &nbsp;";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57b4181c7f742";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:5;s:9:"widget_id";s:36:"4dc6f9fc-f6ce-4e6e-86b7-8be1b6482cfb";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:6;a:5:{s:5:"title";s:0:"";s:4:"text";s:226:"<h4 style="text-align: center;">Google Charts</h4><h4 style="text-align: center;">Leaflet</h4><h4 style="text-align: center;">Tableau</h4><h4 style="text-align: center;">D3</h4><h4 style="text-align: center;">RAW</h4><p> </p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:6;s:9:"widget_id";s:36:"4dc6f9fc-f6ce-4e6e-86b7-8be1b6482cfb";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:7;a:6:{s:5:"title";s:0:"";s:4:"text";s:14:"<hr />
     
@@ -35,11 +35,36 @@ panels_data:
     
     <hr />
     
-    &nbsp;";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57b4102226cfe";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:0;s:2:"id";i:9;s:9:"widget_id";s:36:"3b2ca69e-b9a4-41a7-9ebe-a4250e21319e";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:10;a:6:{s:5:"title";s:0:"";s:4:"text";s:1037:"<h4 style="text-align: left;"><a name="#toolslivre"></a>Livre</h4><p> </p><h3>Livre</h3><p>Livre (Large-scale Interactive Volume Rendering Engine) is an out-of-core, multi-node, multi-gpu, OpenGL volume rendering engine to visualise large volumetric data sets. It is not included in the Virtual Machine but is easily installed from source on Linux. To try it out, git clone the source from <a href="https://github.com/BlueBrain/Livre">https://github.com/BlueBrain/Livre</a>. Follow the <a href="http://bluebrain.github.io/Livre-0.7/_user__guide.html">installation steps</a> and read about the usage of the tool there.</p><p>The TuvokDataConverter is a tool to bring volume data into the format of Livre, you can read about the conversion workflow on the <a href="http://bluebrain.github.io/Livre-0.7/_tuvok__tool.html">livre docs</a> . The tool <a href="https://github.com/BlueBrain/TuvokDataConverter">source</a> does not compile out of the box on some platforms, however it is installed in the DAVM for convenient use.</p><p> </p>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57b4108b42db9";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:0;s:2:"id";i:10;s:9:"widget_id";s:36:"3b2ca69e-b9a4-41a7-9ebe-a4250e21319e";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:11;a:6:{s:5:"title";s:0:"";s:4:"text";s:1919:"<hr /><h4 style="text-align: left;"><a name="#toolsmayavi"></a>Mayavi</h4><h3>Mayavi</h3><p>(todo insert cool pic of mayavi?)</p><p><a href="http://code.enthought.com/projects/mayavi/">Mayavi</a> is a scientific visualization tool to easily create 3D visualizations. It internally uses VTK (Visualization Toolkit) and therefore includes a large number of visualization metaphers which can be used. Mayavis advantage over other visualization tools is, that it understands and uses numpy for its computations, therefore it is easily integrated into the workflow of scientific computations which often use numpy and scipy.</p><h4>Install yourself</h4><p>The easiest way to install Mayavi yourself is to get it via the conda installer of the python Anaconda distribution. This will install a pre-packaged binary into the anaconda directory and is then automatically available on the python path.</p><h3>Mayavi from source</h3><p>If you want to build mayavi from source, you will need to also build VTK from source. Mayavi will work best with VTK 5.10, which is also built from source. There are some issues with the qt backend, however, this is still preferred over the wxwidgets backend as wxwidgets does not support all mayavi gui applications.</p><p>To run mayavi python scripts, you must either use the runMayavi.sh, found in runscript with your python script as argument OR execute the steps in the script once yourself : set the environment variables QT_API=pyqt and ETS_TOOLKIT=qt4 and put this in the top of your python script:</p><pre><code class="language-python">import sip
-    sip.setapi('QString', 2)
-    sip.setapi('QVariant', 2)</code></pre><p>This is a workaround to set python qt bindings for qt4 to a certain API version.</p><p>Please refer to the mayavi docs for documentation and also check out some of the examples in the mayavi folder. They will give you a good impression on whats possible with the tool.</p>";s:20:"text_selected_editor";s:4:"tmce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57b419523c659";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:0;s:2:"id";i:11;s:9:"widget_id";s:36:"3b2ca69e-b9a4-41a7-9ebe-a4250e21319e";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:12;a:6:{s:5:"title";s:0:"";s:4:"text";s:903:"<hr />
+    &nbsp;";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57b4102226cfe";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:0;s:2:"id";i:9;s:9:"widget_id";s:36:"3b2ca69e-b9a4-41a7-9ebe-a4250e21319e";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:10;a:6:{s:5:"title";s:0:"";s:4:"text";s:1025:"<h4 style="text-align: left;"><a name="toolslivre"></a>Livre</h4>
     
-    <h4 style="text-align: left;"><a name="#toolsparaview">Paraview</a></h4>
+    
+    &nbsp;
+    <h3>Livre</h3>
+    Livre (Large-scale Interactive Volume Rendering Engine) is an out-of-core, multi-node, multi-gpu, OpenGL volume rendering engine to visualise large volumetric data sets. It is not included in the Virtual Machine but is easily installed from source on Linux. To try it out, git clone the source from <a href="https://github.com/BlueBrain/Livre">https://github.com/BlueBrain/Livre</a>. Follow the <a href="http://bluebrain.github.io/Livre-0.7/_user__guide.html">installation steps</a> and read about the usage of the tool there.
+    
+    The TuvokDataConverter is a tool to bring volume data into the format of Livre, you can read about the conversion workflow on the <a href="http://bluebrain.github.io/Livre-0.7/_tuvok__tool.html">livre docs</a> . The tool <a href="https://github.com/BlueBrain/TuvokDataConverter">source</a> does not compile out of the box on some platforms, however it is installed in the DAVM for convenient use.
+    
+    &nbsp;";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57b4108b42db9";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:2;s:4:"cell";i:0;s:2:"id";i:10;s:9:"widget_id";s:36:"3b2ca69e-b9a4-41a7-9ebe-a4250e21319e";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:11;a:6:{s:5:"title";s:0:"";s:4:"text";s:1885:"<hr />
+    
+    <h4 style="text-align: left;"><a name="toolsmayavi"></a>Mayavi</h4>
+    <h3>Mayavi</h3>
+    (todo insert cool pic of mayavi?)
+    
+    <a href="http://code.enthought.com/projects/mayavi/">Mayavi</a> is a scientific visualization tool to easily create 3D visualizations. It internally uses VTK (Visualization Toolkit) and therefore includes a large number of visualization metaphers which can be used. Mayavis advantage over other visualization tools is, that it understands and uses numpy for its computations, therefore it is easily integrated into the workflow of scientific computations which often use numpy and scipy.
+    <h4>Install yourself</h4>
+    The easiest way to install Mayavi yourself is to get it via the conda installer of the python Anaconda distribution. This will install a pre-packaged binary into the anaconda directory and is then automatically available on the python path.
+    <h3>Mayavi from source</h3>
+    If you want to build mayavi from source, you will need to also build VTK from source. Mayavi will work best with VTK 5.10, which is also built from source. There are some issues with the qt backend, however, this is still preferred over the wxwidgets backend as wxwidgets does not support all mayavi gui applications.
+    
+    To run mayavi python scripts, you must either use the runMayavi.sh, found in runscript with your python script as argument OR execute the steps in the script once yourself : set the environment variables QT_API=pyqt and ETS_TOOLKIT=qt4 and put this in the top of your python script:
+    <pre><code class="language-python">import sip
+    sip.setapi('QString', 2)
+    sip.setapi('QVariant', 2)</code></pre>
+    This is a workaround to set python qt bindings for qt4 to a certain API version.
+    
+    Please refer to the mayavi docs for documentation and also check out some of the examples in the mayavi folder. They will give you a good impression on whats possible with the tool.";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57b419523c659";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:2;s:4:"cell";i:0;s:2:"id";i:11;s:9:"widget_id";s:36:"3b2ca69e-b9a4-41a7-9ebe-a4250e21319e";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:12;a:6:{s:5:"title";s:0:"";s:4:"text";s:902:"<hr />
+    
+    <h4 style="text-align: left;"><a name="toolsparaview">Paraview</a></h4>
     
     
     <h3>Paraview</h3>
@@ -67,8 +92,7 @@ panels_data:
     <h4>How can I use it?</h4>
     <p>license problem?</p>
     
-    <h4>Exporting from Houdini?</h4>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57aa8a5d5830b";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:3;s:4:"cell";i:0;s:2:"id";i:14;s:9:"widget_id";s:36:"3b2ca69e-b9a4-41a7-9ebe-a4250e21319e";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:15;a:6:{s:5:"title";s:0:"";s:4:"text";s:2845:"<h4 style="text-align: left;"><a name=="#toolsblender">Blender</a></h4>
-    
+    <h4>Exporting from Houdini?</h4>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"57aa8a5d5830b";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:3;s:4:"cell";i:0;s:2:"id";i:14;s:9:"widget_id";s:36:"3b2ca69e-b9a4-41a7-9ebe-a4250e21319e";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:15;a:6:{s:5:"title";s:0:"";s:4:"text";s:2842:"<h4 style="text-align: left;"><a name="toolsblender">Blender</a></h4>
     <hr />
     
     <h4>Exporting models to omegalib from Blender, Maya or 3ds Max</h4>
@@ -118,14 +142,14 @@ panels_data:
 <h3 style="text-align: left;">3D Visualization</h3>
 <hr>
 <p>&nbsp;</p>
-<h4 style="text-align: left;"><a name="#toolslivre"></a>Livre</h4>
+<h4 style="text-align: left;"><a name="toolslivre"></a>Livre</h4>
 <p>&nbsp;</p>
 <h3>Livre</h3>
 <p>Livre (Large-scale Interactive Volume Rendering Engine) is an out-of-core, multi-node, multi-gpu, OpenGL volume rendering engine to visualise large volumetric data sets. It is not included in the Virtual Machine but is easily installed from source on Linux. To try it out, git clone the source from <a href="https://github.com/BlueBrain/Livre">https://github.com/BlueBrain/Livre</a>. Follow the <a href="http://bluebrain.github.io/Livre-0.7/_user__guide.html">installation steps</a>&nbsp;and read about the usage of the tool there.</p>
 <p>The TuvokDataConverter is a tool to bring volume data into the format of Livre, you can read about the conversion workflow on the <a href="http://bluebrain.github.io/Livre-0.7/_tuvok__tool.html">livre docs</a>&nbsp;. The tool <a href="https://github.com/BlueBrain/TuvokDataConverter">source</a>&nbsp;does not compile out of the box on some platforms, however it is installed in the DAVM for convenient use.</p>
 <p>&nbsp;</p>
 <hr>
-<h4 style="text-align: left;"><a name="#toolsmayavi"></a>Mayavi</h4>
+<h4 style="text-align: left;"><a name="toolsmayavi"></a>Mayavi</h4>
 <h3>Mayavi</h3>
 <p>(todo insert cool pic of mayavi?)</p>
 <p><a href="http://code.enthought.com/projects/mayavi/">Mayavi</a> is a scientific visualization tool to easily create 3D visualizations. It internally uses VTK (Visualization Toolkit) and therefore includes a large number of visualization metaphers which can be used. Mayavis advantage over other visualization tools is, that it understands and uses numpy for its computations, therefore it is easily integrated into the workflow of scientific computations which often use numpy and scipy.</p>
@@ -140,7 +164,7 @@ sip.setapi('QVariant', 2)</code></pre>
 <p>This is a workaround to set python qt bindings for qt4 to a certain API version.</p>
 <p>Please refer to the mayavi docs for documentation and also check out some of the examples in the mayavi folder. They will give you a good impression on whats possible with the tool.</p>
 <hr>
-<h4 style="text-align: left;"><a name="#toolsparaview">Paraview</a></h4>
+<h4 style="text-align: left;"><a name="toolsparaview">Paraview</a></h4>
 <h3>Paraview</h3>
 <p><a href="http://www.paraview.org/">Paraview</a> is a GUI based toolkit for visualizing scientifical data in 3D. It is built on top of the Visualization Toolkit (VTK) and offers parallel processing and rendering capabilities. It also can visualize live simulation data.</p>
 <p>TODO: insert cool pic of paraview?</p>
@@ -164,8 +188,7 @@ sip.setapi('QVariant', 2)</code></pre>
 <h4>How can I use it?</h4>
 <p>license problem?</p>
 <h4>Exporting from Houdini?</h4>
-<h4 style="text-align: left;"></h4>
-<h4 style="text-align: left;"><a name="toolshoudini">Houdini</a></h4>
+<h4 style="text-align: left;"><a name="=&quot;#toolsblender&quot;">Blender</a></h4>
 <hr>
 <h4>Exporting models to omegalib from Blender, Maya or 3ds Max</h4>
 <p>There are a few exporters from 3D modelling packages to osg/omegalib.</p>
