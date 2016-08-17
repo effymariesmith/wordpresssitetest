@@ -117,7 +117,7 @@ storedLibPaths should then contain the correct directories of plugins (the stand
 When running omain, the omegaOsg initiliaze method will set the plugin library searchpath automatically to a directory containing the loaders you don't want to use.
 To revert this, reset the osgDB::Registry library search path to its original path.
 Then, remove the reader writer which is giving troubles from the registry, this will cause a reload on invocation using the plugins in the correct path
-```c++
+```cpp
 // The omegaOsg instance() method initiliazes it and configures its libpaths, so it is safe
 // to revert these libpaths in our initialize method
 MinimalExample::initialize(){
