@@ -11,7 +11,7 @@ published: true
 ---
 [md]
 
-# Defining your own interactions
+### Defining your own interactions
 
 In this tutorial you will learn
 * how to implement custom interaction handlers
@@ -22,13 +22,14 @@ Suppose you want to visualize a portion of a city and enable the user to query i
 In this tutorial you will build and export a 3d model of a building block, assign values to the building and define interaction handlers to process click events and then display information about the building in a text-over block.
 
 
-### Building and exporting the model
+##### Building and exporting the model
 
 Fire up your 3D modelling tool of choice, and start building your model. This tutorial uses Blender, but the workflow is similar to other 3D modelling tools.
 
 A small building block model can be made, by importing a highly detailed map section, covering the buildings with polygons and extruding them. We have built a simple model of the UTS:
 
-(insert blender.png)
+
+<img src="http://localhost/wordpress/wp-content/uploads/2016/07/blender.png" alt="blender" width="1920" height="1200" class="alignnone size-full wp-image-1742" />
 
 Now, the model has to be exported to omegalib. The underlying OpenSceneGraph can understand many common formats (.obj, .3ds, .ply, ...), however the most convinient way is to export into .osgt, the native osg format. This format explicitly defines the scenegraph is easibly readable for humans. Check http://trac.openscenegraph.org/projects/osg//wiki/Community/Plugins for available exporters, there are exporters for 3D Studio Max, Maya and Blender (plugins for other model packages might exist elsewhere). The best plugin for Blender is maintained under https://github.com/cedricpinson/osgexport, use this to export your scene into .osgt, the default settings for the export are appropriate.
 
@@ -51,7 +52,7 @@ for pieceName in  model.listPieces("Root"):
     print pieceName
 ```
 When executing this code, the diplayed model should look similar to this:
-(insert cyclops1.png)
+<img src="http://localhost/wordpress/wp-content/uploads/2016/07/cyclops1.png" alt="cyclops1" width="1099" height="633" class="alignnone size-full wp-image-936" />
 
 The camera is oriented horizontally to the model and can not be moved.
 We want to the camera a more interesting camera angle and position. Trying out different positions from python
@@ -77,7 +78,7 @@ Note that the focus position is local to its parent and has to be transformed in
 
 You will use these positions in the next step.
 
-### View Manipulators
+##### View Manipulators
 
 In previous tutorials, we have used the ``GeometryHandler`` class to walk though the model in a first-person style. 
 In this tutorial, we want to be able to rotate, pan and zoom the model similar to the 3D view in modelling programs.
@@ -128,10 +129,10 @@ setUpdateFunction(camManipulator.onUpdate)
 
 The onUpdate function ensures smooth transformation for controller events.
 
-# Selecting models in the view
+### Selecting models in the view
 
 To enable the user to interact with the model, we want to him to to be able to hover over model parts, make selections and get visual feedback. We want to color a node if the cursor is hover over it:
-(insert cyclops2.png)
+<img src="http://localhost/wordpress/wp-content/uploads/2016/07/cyclops2.png" alt="cyclops2" width="1920" height="1200" class="alignnone size-full wp-image-937" />
 
 The first step is to check if our mouse is hovering over a model.
 Define a new class called SceneHandler, and add a onEventMethod. Modularlizing your code in camerahandlers, scenehandlers, modelcontrollers, etc.. is always a good idea to encourage loose coupling and reusability of components.
@@ -282,11 +283,10 @@ The last step is to actually display the text, when the building is clicked. We 
 ```
 We position the text box to the left or right depending on the click position, to avoid the text box reaching out of the window bounds.
 
+<img src="http://localhost/wordpress/wp-content/uploads/2016/07/cyclops3.png" alt="cyclops3" width="1920" height="1200" class="alignnone size-full wp-image-938" />
 
-(insert cyclops3.png)
 
-
-And thats it, you got a nice DataViz application running, ready to be deployed in the Data Arena.
+And that's it, you got a nice DataViz application running, ready to be deployed in the Data Arena.
 The full code (with some additions) is available at "/local/examples/Tutorials/tut3/CustomInteraction.py"
 
 
