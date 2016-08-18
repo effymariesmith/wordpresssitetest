@@ -6,7 +6,7 @@ post_date: 2016-08-18 01:12:21
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/omegalib-tutorials/camera-handling/
+  http://localhost/wordpress/omegalib-tutorials/advancedomegalibosgapplications/camera-handling/
 published: true
 ---
 [md]
