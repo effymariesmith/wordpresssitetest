@@ -11,7 +11,7 @@ published: true
 ---
 [md]
 
-# Advanced omegalib/osg applications
+### Advanced omegalib/osg applications
 
 Building visualizations with cyclops in python can produce stunning results and provides tools for many use cases, however there are certain applications which cannot be built with cyclops/python (without extending the cyclops c++ classes).
 The underlying framework OpenSceneGraph is a powerful general purpose computer graphics library, which omegalib/cyclops uses to render computer graphics distributed across multiple displays.
@@ -24,7 +24,7 @@ Reasons for programming in osg/omegalib in c++ could be
 
 This tutorial assumes that you already have knowledge of programming in osg. If not, there are many good resources on the internet to learn programming the OpenSceneGraph, for example, the OpenSceneGraph Beginner's Guide (http://ahux.narod.ru/olderfiles/1/OpenSceneGraph.3.0.Beginners.Guide-3208.pdf) will get you started and contains many good examples. Going further, the OpenSceneGraph Cookbook (https://www.packtpub.com/game-development/openscenegraph-3-cookbook) provides recipes for many advanced topics.
 
-### Integration of osg and omegalib
+#####  Integration of osg and omegalib
 
 Omegalib comes with support for openscenegraph as its rendering system in form of the omegaOsg module. It is important to know, how osg is actually integrated into omegalib and how rendering on distributed nodes work, to be able to efficiently develop applications in omegalib. Unfortunately, there is no official documentation of the omegaOsg module, which leaves programmers with only the source code to work with. Luckily, the binding code between osg and omegalib is rather small and not too complex.
 
@@ -33,7 +33,7 @@ Omegalib comes with support for openscenegraph as its rendering system in form o
 The omegaOsg module is a omegalib module which contains a osg::Node (the root) and registers a custom renderpass to the omegalib library. On each frame, the equalizer displaysystem calls the render method (on all nodes) of the renderpass class. Internally, the osgmodule copies over all transforms and properties of the omegalib camera to a osg::Camera and then the sceneview class performs the culling and rendering of the scenegraph. It is important to know, that no geometry is shared among nodes (in fact not even transforms are shared), the distributed nodes all run the same program and the renderloop execution is synced. Therefore transforms or dynamic geometry might have be synced by yourself. We will elaborate on this topic later again.
 
 
-# Building a standalone application
+###  Building a standalone application
 
 All examples, which come with the omegalib, are embedded into its environment and can only be built by invoking the general omegalib build command. If you are developing a larger application, this is really inconvenient and you probably want to seperate your application binaries, data, etc. from the binaries of omegalib. The omegalib wiki has a page on building standalone applications (https://github.com/uic-evl/omegalib/wiki/NewApplication), however it does not cover all the aspects needed to get a running environment.
 
@@ -104,7 +104,7 @@ int main(int argc, char** argv)
 }
 ```
 
-### Overriding omegalib file loaders
+#####  Overriding omegalib file loaders
 
 Omegalib registers custom file loaders, which in some cases override the standard osg plugins. Sometimes, this can lead to unexpected behaviour: for example the tga of omegalib does not implement the full tga standard and loading images with 24bpp, which loaded fine with the osgdb_tga plugin will not work anymore. To use a certain osg loader, you have two options: load data/textures/nodes before the omegalib ``omain`` call or manually remove loaders from registry. The first method is preferred, if you only need to load files once and can do this before starting the actual application. If not, the second method provides a (little bit hacky) workaround.
 
@@ -169,7 +169,7 @@ bt
 
 
 
-### Gotchas when using omegaOsg
+#####  Gotchas when using omegaOsg
 Although omegaOsg allows the usage of most osg concepts, some osg features do not work when used in omegalib
 - rendering masks are not processed by omegaOsg, therefore all geometry will be displayed twice if you are using two cameras with different camera masks.  If you experience similar artifacts as in figure 1 (insert flickering.png), you might have probably have multiple cameras rendering the scene with either ignored camera mask settings, culling settings or render order settings.
 - You do not have access to the actual osg rendering camera before rendering. There is however a framefinished callback, which gives you access to the rendering internals
