@@ -1,15 +1,14 @@
 ---
 ID: 1756
-post_title: ""
+post_title: Distributed Rendering
 author: davm
 post_date: 2016-08-18 01:15:34
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/omegalib-tutorials/1756-2/
+  http://localhost/wordpress/omegalib-tutorials/distributed-rendering/
 published: true
 ---
-
 [md] 
 
 ### Distributed rendering with omegalib+osg+equalizer
