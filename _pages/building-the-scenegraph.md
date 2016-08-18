@@ -10,9 +10,9 @@ permalink: >
 published: true
 ---
 [md]
-### Building the scencegraph
+### Building the scenegraph
 
-The Geometry class provides a quick way of loading and interacting with models, however if you want to customize your models, materials etc., you have to build your own class for handling these models. Cyclops (or more precise the underlying OpenSceneGraph) uses a scenegraph to control the 3D geometry, states and transforms. 
+The Geometry class provides a quick way of loading and interacting with models, however, if you want to customize your models, materials etc., you have to build your own class for handling these models. Cyclops (or more precise the underlying OpenSceneGraph) uses a scenegraph to control the 3D geometry, states, and transforms. 
 
 A scene graph is a collection of nodes in a graph or tree structure. A tree node (in the overall tree structure of the scene graph) may have many children but often only a single parent, with the effect of a parent applied to all its child nodes; an operation performed on a group automatically propagates its effect to all of its members. Associating a geometrical transformation matrix at each group level and concatenating such matrices together is an efficient and natural way to process such operations. Commonly different shapes/objects are combined into a compound object that can then be moved, transformed, selected, etc. as easily as a single object.
 
@@ -40,7 +40,7 @@ getSceneManager().addModel(geom)
 quad = StaticObject.create('quad')
 quad.setPosition(Vector3(0,2.5,-3))
 ```
-To see the primitive, you have to add it to the root in the scene graph. Cyclops manages the root node in the scene-manager and a model can be added by creating a StaticObject (add link), and passing the name of the geometry. Cyclops stores a dictionary with a name to model mapping, and nodes can therefore generally be retrieved by their name. StaticObject derives from Entity (a cyclops class), which derives from SceneNode (an omega class), which both provide many functions to interact with scenegraph nodes. All entities are automatically added to the root node of the scenegraph, thereforeThe default camera is slightly tilted, therefore the object must be shifted into the camera field. Also the z-value (the depth) has to be lowered, because otherwise the quad overlaps exactly with the camera plane and will be clipped.
+To see the primitive, you have to add it to the root in the scene graph. Cyclops manages the root node in the scene-manager and a model can be added by creating a StaticObject (add link), and passing the name of the geometry. Cyclops stores a dictionary with a name to model mapping and nodes can therefore generally be retrieved by their name. StaticObject derives from Entity (a cyclops class), which derives from SceneNode (an omega class), which both provide many functions to interact with scenegraph nodes. All entities are automatically added to the root node of the scenegraph, thereforeThe default camera is slightly tilted, therefore the object must be shifted into the camera field. Also, the z-value (the depth) has to be lowered because otherwise the quad overlaps exactly with the camera plane and will be clipped.
 
 ##### Step 2: Adding instances
 
@@ -88,7 +88,7 @@ class MyQuads(BaseObject):
 
 ```
 
-Here, we added a parentNode to the quads, so that the object can be transformed as a whole, the pivot center of the rotation is therefore the center of "parentNode". Adding the quads as childs of the model will aplly every transform of the parent node to the child node. We set our self.model to the position (0,0,-10) and therefore all the children will be translated -10 along the z-axis additionally to their own transformations. We also store the quads seperately in a list for convenient access in the updateModel method.
+Here, we added a parentNode to the quads, so that the object can be transformed as a whole, the pivot center of the rotation is, therefore, the center of "parentNode". Adding the quads as childs of the model will aplly every transform of the parent node to the child node. We set our self.model to the position (0,0,-10) and therefore all the children will be translated -10 along the z-axis additionally to their own transformations. We also store the quads seperately in a list for convenient access in the updateModel method.
 
 
 ```python
