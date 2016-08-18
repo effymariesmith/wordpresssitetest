@@ -6,7 +6,7 @@ post_date: 2016-08-18 01:09:58
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/omegalib-tutorials/integrating-into-omegalib/
+  http://localhost/wordpress/omegalib-tutorials/advancedomegalibosgapplications/integrating-into-omegalib/
 published: true
 ---
 [md]
