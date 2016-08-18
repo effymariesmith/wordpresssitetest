@@ -149,7 +149,12 @@ bt
 
 #####  Gotchas when using omegaOsg
 Although omegaOsg allows the usage of most osg concepts, some osg features do not work when used in omegalib
-- rendering masks are not processed by omegaOsg, therefore all geometry will be displayed twice if you are using two cameras with different camera masks.  If you experience similar artifacts as in figure 1 (insert flickering.png), you might have probably have multiple cameras rendering the scene with either ignored camera mask settings, culling settings or render order settings.
+- rendering masks are not processed by omegaOsg, therefore all geometry will be displayed twice if you are using two cameras with different camera masks.  If you experience similar artifacts as in figure 1 , you might have probably have multiple cameras rendering the scene with either ignored camera mask settings, culling settings or render order settings.
+
+<img src="http://localhost/wordpress/wp-content/uploads/2016/08/flickering.png" alt="flickering" width="1920" height="1200" class="alignnone size-full wp-image-1431" />
+
+figure 1
+
 - You do not have access to the actual osg rendering camera before rendering. There is however a framefinished callback, which gives you access to the rendering internals
 
 [/md]
