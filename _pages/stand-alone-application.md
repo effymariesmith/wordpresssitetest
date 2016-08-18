@@ -6,7 +6,7 @@ post_date: 2016-08-18 01:00:58
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/omegalib-tutorials/advanced-omegalibosg-applications/
+  http://localhost/wordpress/omegalib-tutorials/stand-alone-application/
 published: true
 ---
 [md]
