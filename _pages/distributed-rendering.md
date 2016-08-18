@@ -6,7 +6,7 @@ post_date: 2016-08-18 01:15:34
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/omegalib-tutorials/distributed-rendering/
+  http://localhost/wordpress/omegalib-tutorials/advancedomegalibosgapplications/distributed-rendering/
 published: true
 ---
 [md] 
@@ -18,14 +18,16 @@ When programming an application in omegalib, the underlying displaysystem (equal
 ##### What is parallel rendering ?
 Quoting the introduction chapter of the Equalizer programming guide:
 
-(insert figure 1 of equalizer programming guide)
+<img src="http://localhost/wordpress/wp-content/uploads/2016/08/eq_sequence.png" alt="eq_sequence" width="1085" height="1176" class="alignnone size-full wp-image-1430" />
+
 
 Figure ? illustrates the basic principle of any parallel rendering application. The  typical OpenGL application, for example using GLUT, has an event loop which redraws the scene, updates application data based on received events, and eventually renders a new frame.
 A parallel rendering application uses the same basic execution model, extending it by separating the rendering code from the main event loop. The rendering code is then executed in parallel on different resources, depending on the configuration chosen at runtime.
 
 ##### How does parallel rendering work in omegalib ?
 
-(insert diagramOmegaFrame.png)
+<img src="http://localhost/wordpress/wp-content/uploads/2016/08/diagramOmegaEqFrame.png" alt="diagramOmegaEqFrame" width="3445" height="2110" class="alignnone size-full wp-image-1428" />
+
 
 Rendering a frame with omegalib 
 
@@ -38,6 +40,9 @@ Of course, this process has some intrecate issues that can arise when building c
 
 
 ### Data sharing and dynamic geometry
+
+<img src="http://localhost/wordpress/wp-content/uploads/2016/08/troen2-window.png" alt="troen2-window" width="1286" height="455" class="alignnone size-full wp-image-1433" />
+
 
 Any moving objects, which are synchronized over multiple screens should use the shared data commit/update pattern.
 Equalizer handles distribution of datastreams to clients. Data can be added/extracted from the stream by calling
