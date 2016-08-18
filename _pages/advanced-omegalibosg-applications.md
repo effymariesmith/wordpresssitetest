@@ -1,6 +1,6 @@
 ---
 ID: 1745
-post_title: Advanced omegalib/osg applications
+post_title: Stand Alone Application
 author: davm
 post_date: 2016-08-18 01:00:58
 post_excerpt: ""
@@ -9,7 +9,6 @@ permalink: >
   http://localhost/wordpress/omegalib-tutorials/advanced-omegalibosg-applications/
 published: true
 ---
-
 [md]
 
 # Advanced omegalib/osg applications
