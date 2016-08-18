@@ -1,12 +1,12 @@
 ---
 ID: 1752
-post_title: Camera andling
+post_title: Camera Handling
 author: davm
 post_date: 2016-08-18 01:12:21
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/wordpress/omegalib-tutorials/1752-2/
+  http://localhost/wordpress/omegalib-tutorials/camera-handling/
 published: true
 ---
 [md]
